@@ -1,420 +1,322 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E01
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107728.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E02
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107729.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E03
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107730.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E04
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107731.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E05
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107732.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E06
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107733.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E07
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107734.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E08
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107735.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E09
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107736.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E10
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107737.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E11
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107738.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E12
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107739.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E13
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107740.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E14
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107741.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E15
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107742.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E16
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107743.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E17
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107744.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E18
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107745.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E19
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107746.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E20
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107747.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E21
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107748.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E22
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107749.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E23
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107750.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E24
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107751.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E25
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107752.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E26
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107753.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E27
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107754.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E28
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107755.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E29
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107756.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E30
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107757.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E31
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107758.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E32
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107759.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E33
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107760.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E34
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107761.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E35
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107762.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E36
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107763.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E37
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107764.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E38
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107765.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E39
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107766.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E40
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107767.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E41
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107768.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E42
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107769.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E43
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107770.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E44
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107771.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E45
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107772.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E46
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107773.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E47
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107774.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E48
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107775.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E49
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107776.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E50
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107777.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E51
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107778.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E52
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107779.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E53
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107780.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E54
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107781.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E55
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107782.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E56" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E56
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107783.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E57" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E57
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107784.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E58" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E58
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107785.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E59" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E59
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107786.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E60
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107787.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E61" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E61
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107788.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E62" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E62
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107789.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E63" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E63
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107790.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E64" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E64
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107791.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E65" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E65
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107792.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E66" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E66
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107793.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E67" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E67
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107794.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E68" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E68
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107795.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E69" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E69
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107796.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E70" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E70
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107797.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E71" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E71
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107798.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E72" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E72
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107799.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E73" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E73
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107800.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E74" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E74
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107801.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E75" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E75
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107802.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E76" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E76
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107803.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E77" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E77
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107804.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E78" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E78
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107805.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E79" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E79
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107806.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E80" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E80
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107807.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E81" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E81
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107808.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E82" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E82
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107809.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E83" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E83
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107810.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E84" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E84
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107811.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E85" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E85
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107812.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E86" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E86
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107813.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E87" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E87
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107814.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E88" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E88
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107815.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E89" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E89
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107816.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E90" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E90
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107817.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E91" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E91
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107818.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E92" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E92
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107819.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E93" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E93
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107820.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E94" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E94
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107821.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E95" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E95
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107822.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E96" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E96
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107823.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E97" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E97
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107824.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E98" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E98
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107825.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E99" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E99
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107826.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E100" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E100
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107827.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E101" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E101
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107828.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E102" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E102
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107829.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E103" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E103
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107830.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E104" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E104
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107831.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E105" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E105
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107832.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E106" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E106
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107833.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E107" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E107
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107834.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E108" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E108
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107835.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E109" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E109
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107836.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E110" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E110
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107837.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E111" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E111
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107838.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E112" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E112
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107839.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E113" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E113
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107840.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E114" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E114
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107841.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E115" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E115
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107842.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E116" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E116
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107843.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E117" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E117
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107844.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E118" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E118
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107845.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E119" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E119
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107846.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E120" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E120
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107847.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E121" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E121
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107848.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E122" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E122
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107849.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E123" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E123
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107850.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E124" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E124
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107851.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E125" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E125
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107852.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E126" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E126
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107853.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E127" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E127
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107854.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E128" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E128
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107855.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E129" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E129
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107856.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E130" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E130
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107857.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E131" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E131
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107858.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E132" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E132
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107859.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E133" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E133
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107860.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E134" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E134
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107861.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E135" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E135
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107862.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E136" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E136
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107863.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E137" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E137
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107864.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E138" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E138
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107865.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E139" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E139
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107866.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E140" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E140
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107867.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E141" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E141
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107868.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E142" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E142
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107869.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E143" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E143
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107870.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E144" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E144
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107871.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E145" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E145
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107872.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E146" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E146
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107873.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E147" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E147
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107874.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E148" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E148
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107875.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E149" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E149
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107876.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E150" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E150
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107877.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E151" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E151
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107878.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E152" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E152
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107879.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E153" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E153
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107880.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E154" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E154
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107881.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E155" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E155
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107882.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E156" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E156
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107883.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E157" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E157
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107884.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E158" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E158
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107885.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E159" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E159
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107886.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E160" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E160
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107887.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E161" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E161
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107888.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E162" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E162
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107889.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E163" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E163
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107890.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E164" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E164
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107891.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E165" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E165
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107892.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E166" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E166
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107893.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E167" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E167
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107894.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E168" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E168
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107895.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E169" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E169
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107896.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E170" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E170
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107897.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E171" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E171
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107898.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E172" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E172
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107899.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E173" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E173
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107900.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E174" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E174
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107901.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E175" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E175
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107902.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E176" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E176
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107903.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E177" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E177
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107904.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E178" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E178
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107905.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E179" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E179
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107906.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E180" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E180
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107907.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E181" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E181
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107908.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E182" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E182
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107909.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E183" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E183
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107910.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E184" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E184
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107911.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E185" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E185
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107912.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E186" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E186
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107913.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E187" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E187
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107914.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E188" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E188
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107915.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E189" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E189
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107916.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E190" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E190
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107917.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E191" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E191
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107918.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E192" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E192
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107919.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E193" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E193
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107920.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E194" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E194
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107921.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E195" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E195
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107922.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E196" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E196
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107923.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E197" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E197
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107924.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E198" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E198
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107925.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E199" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E199
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107926.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E200" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E200
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107927.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E201" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E201
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107928.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E202" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E202
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107929.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E203" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E203
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107930.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E204" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E204
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107931.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E205" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E205
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107932.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E206" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E206
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107933.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E207" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E207
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107934.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E208" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E208
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107935.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei do Gado (Globoplay) S01 E209" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hZpuQozGbpM1RdAZAFZO51OU8i.jpg" group-title="Novela - Rei do Gado",O Rei do Gado (Globoplay) S01 E209
-http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/107936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E01
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E02
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E03
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E04
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E05
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62255.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E06
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62256.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E07
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62257.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E08
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E09
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62259.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E10
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E11
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E12" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E12
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E13" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E13
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62263.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E14" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E14
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E15" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E15
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E16" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E16
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E17" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E17
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E18" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E18
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E19" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E19
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E20" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E20
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E21" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E21
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E22" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E22
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E23" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E23
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E24" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E24
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E25" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E25
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62275.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E26" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E26
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62276.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E27" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E27
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62277.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E28" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E28
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62278.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E29" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E29
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62279.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E30" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E30
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62280.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E31" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E31
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E32" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E32
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62282.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E33" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E33
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62283.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E34" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E34
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62284.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E35" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E35
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62285.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E36" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E36
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62286.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E37" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E37
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62287.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E38" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E38
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62288.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E39" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E39
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62289.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E40" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E40
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62290.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E41" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E41
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62291.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E42" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E42
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62292.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E43" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E43
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62293.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E44" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E44
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62294.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E45" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E45
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62295.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E46" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E46
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62296.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E47" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E47
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62297.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E48" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E48
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62298.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E49" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E49
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E50" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E50
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62300.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E51" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E51
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E52" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E52
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E53" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E53
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E54" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E54
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E55" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E55
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E56" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E56
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E57" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E57
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E58" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E58
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E59" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E59
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E60" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E60
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E61" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E61
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E62" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E62
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E63" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E63
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62313.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E64" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E64
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E65" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E65
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E66" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E66
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E67" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E67
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E68" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E68
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E69" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E69
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62319.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E70" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E70
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62320.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E71" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E71
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62321.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E72" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E72
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62322.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E73" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E73
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62323.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E74" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E74
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62324.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E75" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E75
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62325.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E76" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E76
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62326.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E77" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E77
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62327.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E78" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E78
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E79" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E79
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62329.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E80" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E80
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E81" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E81
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62331.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E82" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E82
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E83" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E83
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E84" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E84
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E85" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E85
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62335.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E86" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E86
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E87" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E87
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E88" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E88
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62338.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E89" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E89
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E90" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E90
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E91" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E91
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E92" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E92
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E93" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E93
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E94" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E94
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E95" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E95
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E96" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E96
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62346.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E97" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E97
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62347.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E98" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E98
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E99" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E99
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62349.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E100" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E100
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62350.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E101" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E101
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62351.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E102" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E102
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62352.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E103" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E103
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62353.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E104" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E104
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E105" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E105
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62355.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E106" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E106
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E107" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E107
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E108" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E108
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62358.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E109" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E109
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62359.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E110" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E110
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62360.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E111" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E111
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62361.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E112" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E112
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E113" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E113
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62363.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E114" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E114
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62364.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E115" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E115
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62365.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E116" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E116
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62366.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E117" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E117
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62367.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E118" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E118
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E119" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E119
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E120" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E120
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62370.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E121" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E121
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62371.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E122" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E122
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62372.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E123" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E123
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62373.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E124" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E124
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62374.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E125" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E125
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62375.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E126" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E126
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62376.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E127" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E127
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62377.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E128" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E128
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E129" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E129
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62379.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E130" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E130
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62380.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E131" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E131
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62381.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E132" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E132
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E133" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E133
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62383.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E134" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E134
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E135" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E135
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E136" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E136
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E137" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E137
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E138" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E138
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E139" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E139
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E140" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E140
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E141" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E141
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E142" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E142
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62392.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E143" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E143
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E144" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E144
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E145" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E145
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E146" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E146
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E147" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E147
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E148" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E148
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E149" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E149
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E150" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E150
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E151" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E151
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E152" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E152
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E153" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E153
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62403.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E154" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E154
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E155" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E155
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62405.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E156" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E156
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E157" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E157
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E158" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E158
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E159" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E159
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangue Bom S01 E160" tvg-logo="https://image.tmdb.org/t/p/w300/gizwQHF9ozF55KtYfQm3FYNzsiC.jpg" group-title="Novelas",Sangue Bom S01 E160
+http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/62410.mp4
