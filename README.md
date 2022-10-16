@@ -1,453 +1,443 @@
-##EXTM3U
-#EXTINF:-1 tvg-id="AE" tvg-name="A&E" tvg-logo="http://45.170.92.6:8080/icones/ae.png" group-title="FILMES&SERIES",A&E
-http://a5telecom.distv.net:8080/6624/6624/630
-#EXTINF:-1 tvg-id="" tvg-name="AGRO BRASIL" tvg-logo="http://45.170.92.6:8080/icones/agrobrasil.png" group-title="PARABOLICA",AGRO BRASIL
-http://a5telecom.distv.net:8080/6624/6624/427
-#EXTINF:-1 tvg-id="" tvg-name="AGRO CANAL" tvg-logo="http://45.170.92.6:8080/icones/agrocanal.png" group-title="PARABOLICA",AGRO CANAL
-http://a5telecom.distv.net:8080/6624/6624/428
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC" tvg-logo="http://45.170.92.6:8080/icones/amc.png" group-title="FILMES&SERIES",AMC
-http://a5telecom.distv.net:8080/6624/6624/631
-#EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="ANIMAL PLANET" tvg-logo="http://45.170.92.6:8080/icones/animalplanet.png" group-title="ENTRETENIMENTO",ANIMAL PLANET
-http://a5telecom.distv.net:8080/6624/6624/597
-#EXTINF:-1 tvg-id="ARTE1" tvg-name="ARTE 1" tvg-logo="http://45.170.92.6:8080/icones/arte1.png" group-title="ENTRETENIMENTO",ARTE 1
-http://a5telecom.distv.net:8080/6624/6624/598
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://45.170.92.6:8080/icones/axn.png" group-title="FILMES&SERIES",AXN
-http://a5telecom.distv.net:8080/6624/6624/632
-#EXTINF:-1 tvg-id="BABYTV" tvg-name="BABY TV" tvg-logo="http://45.170.92.6:8080/icones/babytv.png" group-title="KIDS",BABY TV
-http://a5telecom.distv.net:8080/6624/6624/582
-#EXTINF:-1 tvg-id="" tvg-name="BAND CARIRI" tvg-logo="http://45.170.92.6:8080/icones/band.png" group-title="CEARA",BAND CARIRI
-http://a5telecom.distv.net:8080/6624/6624/402
-#EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BAND NEWS" tvg-logo="http://45.170.92.6:8080/icones/bandnews.png" group-title="NEWS",BAND NEWS
-http://a5telecom.distv.net:8080/6624/6624/629
-#EXTINF:-1 tvg-id="" tvg-name="BAND RN" tvg-logo="http://45.170.92.6:8080/icones/band.png" group-title="RIO-GRANDE-NORTE",BAND RN
-http://a5telecom.distv.net:8080/6624/6624/381
-#EXTINF:-1 tvg-id="" tvg-name="BAND SAT" tvg-logo="http://45.170.92.6:8080/icones/band.png" group-title="PARABOLICA",BAND SAT
-http://a5telecom.distv.net:8080/6624/6624/502
-#EXTINF:-1 tvg-id="BANDSPORTS" tvg-name="BAND SPORTS" tvg-logo="http://45.170.92.6:8080/icones/bandsports.png" group-title="SPORTES",BAND SPORTS
-http://a5telecom.distv.net:8080/6624/6624/532
-#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="http://45.170.92.6:8080/icones/bis.png" group-title="ENTRETENIMENTO",BIS
-http://a5telecom.distv.net:8080/6624/6624/599
-#EXTINF:-1 tvg-id="" tvg-name="CABUGI(GLOBO)" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="RIO-GRANDE-NORTE",CABUGI(GLOBO)
-http://a5telecom.distv.net:8080/6624/6624/382
-#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI" tvg-logo="http://45.170.92.6:8080/icones/canaldoboi.png" group-title="PARABOLICA",CANAL DO BOI
-http://a5telecom.distv.net:8080/6624/6624/431
-#EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL" tvg-logo="http://45.170.92.6:8080/icones/canalrural.png" group-title="PARABOLICA",CANAL RURAL
-http://a5telecom.distv.net:8080/6624/6624/433
-#EXTINF:-1 tvg-id="" tvg-name="CANAL SAUDE" tvg-logo="http://45.170.92.6:8080/icones/canalsaude.png" group-title="PARABOLICA",CANAL SAUDE
-http://a5telecom.distv.net:8080/6624/6624/452
-#EXTINF:-1 tvg-id="SONY" tvg-name="CANAL SONY" tvg-logo="http://45.170.92.6:8080/icones/sonychannel.png" group-title="FILMES&SERIES",CANAL SONY
-http://a5telecom.distv.net:8080/6624/6624/633
-#EXTINF:-1 tvg-id="" tvg-name="CANCAO NOVA" tvg-logo="http://45.170.92.6:8080/icones/tvcancaonovaceara.png" group-title="PARABOLICA",CANCAO NOVA
-http://a5telecom.distv.net:8080/6624/6624/391
-#EXTINF:-1 tvg-id="CARTOONNETWORK" tvg-name="CARTOON NETWORK" tvg-logo="http://45.170.92.6:8080/icones/cartoonnetwork.png" group-title="KIDS",CARTOON NETWORK
-http://a5telecom.distv.net:8080/6624/6624/584
-#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="CARTOONITO" tvg-logo="http://45.170.92.6:8080/icones/cartoonito.png" group-title="KIDS",CARTOONITO
-http://a5telecom.distv.net:8080/6624/6624/583
-#EXTINF:-1 tvg-id="CHEFTV" tvg-name="CHEFTV" tvg-logo="http://45.170.92.6:8080/icones/cheftv.png" group-title="ENTRETENIMENTO",CHEFTV
-http://a5telecom.distv.net:8080/6624/6624/666
-#EXTINF:-1 tvg-id="" tvg-name="CINE BRASIL" tvg-logo="http://45.170.92.6:8080/icones/cinebrasiltv.png" group-title="PARABOLICA",CINE BRASIL
-http://a5telecom.distv.net:8080/6624/6624/434
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01" tvg-logo="http://45.170.92.6:8080/icones/cinesky.png" group-title="CINESKY",CINE SKY 01
-http://a5telecom.distv.net:8080/6624/6624/522
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02" tvg-logo="http://45.170.92.6:8080/icones/cinesky.png" group-title="CINESKY",CINE SKY 02
-http://a5telecom.distv.net:8080/6624/6624/523
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03" tvg-logo="http://45.170.92.6:8080/icones/cinesky.png" group-title="CINESKY",CINE SKY 03
-http://a5telecom.distv.net:8080/6624/6624/524
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04" tvg-logo="http://45.170.92.6:8080/icones/cinesky.png" group-title="CINESKY",CINE SKY 04
-http://a5telecom.distv.net:8080/6624/6624/525
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05" tvg-logo="http://45.170.92.6:8080/icones/cinesky.png" group-title="CINESKY",CINE SKY 05
-http://a5telecom.distv.net:8080/6624/6624/526
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06" tvg-logo="http://45.170.92.6:8080/icones/cinesky.png" group-title="CINESKY",CINE SKY 06
-http://a5telecom.distv.net:8080/6624/6624/527
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07" tvg-logo="http://45.170.92.6:8080/icones/cinesky.png" group-title="CINESKY",CINE SKY 07
-http://a5telecom.distv.net:8080/6624/6624/528
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08" tvg-logo="http://45.170.92.6:8080/icones/cinesky.png" group-title="CINESKY",CINE SKY 08
-http://a5telecom.distv.net:8080/6624/6624/529
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09" tvg-logo="http://45.170.92.6:8080/icones/cinesky.png" group-title="CINESKY",CINE SKY 09
-http://a5telecom.distv.net:8080/6624/6624/530
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="http://45.170.92.6:8080/icones/cinesky.png" group-title="CINESKY",CINE SKY 10
-http://a5telecom.distv.net:8080/6624/6624/531
-#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="http://45.170.92.6:8080/icones/cinemax.png" group-title="FILMES&SERIES",CINEMAX
-http://a5telecom.distv.net:8080/6624/6624/634
-#EXTINF:-1 tvg-id="CNNBRASIL" tvg-name="CNN BRASIL" tvg-logo="http://45.170.92.6:8080/icones/cnnbrasil.png" group-title="NEWS",CNN BRASIL
-http://a5telecom.distv.net:8080/6624/6624/626
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN INTERNACIONAL" tvg-logo="http://45.170.92.6:8080/icones/cnninternacional.png" group-title="NEWS",CNN INTERNACIONAL
-http://a5telecom.distv.net:8080/6624/6624/668
-#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE" tvg-logo="http://45.170.92.6:8080/icones/combate.png" group-title="SPORTES",COMBATE
-http://a5telecom.distv.net:8080/6624/6624/533
-#EXTINF:-1 tvg-id="COMEDYCENTRAL" tvg-name="COMEDY CENTRAL" tvg-logo="http://45.170.92.6:8080/icones/comedycentral.png" group-title="ENTRETENIMENTO",COMEDY CENTRAL
-http://a5telecom.distv.net:8080/6624/6624/601
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 1" tvg-logo="http://45.170.92.6:8080/icones/conmebol.png" group-title="SPORTES",CONMEBOL 1
-http://a5telecom.distv.net:8080/6624/6624/551
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2" tvg-logo="http://45.170.92.6:8080/icones/conmebol.png" group-title="SPORTES",CONMEBOL 2
-http://a5telecom.distv.net:8080/6624/6624/552
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 3" tvg-logo="http://45.170.92.6:8080/icones/conmebol.png" group-title="SPORTES",CONMEBOL 3
-http://a5telecom.distv.net:8080/6624/6624/553
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 4" tvg-logo="http://45.170.92.6:8080/icones/conmebol.png" group-title="SPORTES",CONMEBOL 4
-http://a5telecom.distv.net:8080/6624/6624/554
-#EXTINF:-1 tvg-id="CURTA" tvg-name="CURTA!" tvg-logo="http://45.170.92.6:8080/icones/curta.png" group-title="ENTRETENIMENTO",CURTA!
-http://a5telecom.distv.net:8080/6624/6624/600
-#EXTINF:-1 tvg-id="" tvg-name="DAZN" tvg-logo="http://45.170.92.6:8080/icones/dazn.png" group-title="SPORTES",DAZN
-http://a5telecom.distv.net:8080/6624/6624/534
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="http://45.170.92.6:8080/icones/dazn.png" group-title="SPORTES",DAZN 3
-http://a5telecom.distv.net:8080/6624/6624/684
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 4" tvg-logo="http://45.170.92.6:8080/icones/dazn.png" group-title="SPORTES",DAZN 4
-http://a5telecom.distv.net:8080/6624/6624/683
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 5" tvg-logo="http://45.170.92.6:8080/icones/dazn.png" group-title="SPORTES",DAZN 5
-http://a5telecom.distv.net:8080/6624/6624/682
-#EXTINF:-1 tvg-id="DISCOVERYCHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://45.170.92.6:8080/icones/discoverychannel.png" group-title="ENTRETENIMENTO",DISCOVERY CHANNEL
-http://a5telecom.distv.net:8080/6624/6624/602
-#EXTINF:-1 tvg-id="DISCOVERYHH" tvg-name="DISCOVERY H & HEALTH" tvg-logo="http://45.170.92.6:8080/icones/discoveryhomehealth.png" group-title="ENTRETENIMENTO",DISCOVERY H & HEALTH
-http://a5telecom.distv.net:8080/6624/6624/603
-#EXTINF:-1 tvg-id="LIV" tvg-name="DISCOVERY ID" tvg-logo="http://45.170.92.6:8080/icones/discoveryid.png" group-title="ENTRETENIMENTO",DISCOVERY ID
-http://a5telecom.distv.net:8080/6624/6624/604
-#EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="DISCOVERY KIDS" tvg-logo="http://45.170.92.6:8080/icones/discoverykids.png" group-title="KIDS",DISCOVERY KIDS
-http://a5telecom.distv.net:8080/6624/6624/585
-#EXTINF:-1 tvg-id="DISCOVERYSCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://45.170.92.6:8080/icones/discoveryscience.png" group-title="ENTRETENIMENTO",DISCOVERY SCIENCE
-http://a5telecom.distv.net:8080/6624/6624/605
-#EXTINF:-1 tvg-id="DISCOVERYTHEATERHD" tvg-name="DISCOVERY THEATER" tvg-logo="http://45.170.92.6:8080/icones/discoverytheater.png" group-title="ENTRETENIMENTO",DISCOVERY THEATER
-http://a5telecom.distv.net:8080/6624/6624/606
-#EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="DISCOVERY TURBO" tvg-logo="http://45.170.92.6:8080/icones/discoveryturbo.png" group-title="ENTRETENIMENTO",DISCOVERY TURBO
-http://a5telecom.distv.net:8080/6624/6624/607
-#EXTINF:-1 tvg-id="DISCOVERYWORLD" tvg-name="DISCOVERY WORLD" tvg-logo="http://45.170.92.6:8080/icones/discoveryworld.png" group-title="ENTRETENIMENTO",DISCOVERY WORLD
-http://a5telecom.distv.net:8080/6624/6624/608
-#EXTINF:-1 tvg-id="DISNEYCHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="http://45.170.92.6:8080/icones/disneychannel.png" group-title="KIDS",DISNEY CHANNEL
-http://a5telecom.distv.net:8080/6624/6624/586
-#EXTINF:-1 tvg-id="" tvg-name="DOG TV" tvg-logo="http://45.170.92.6:8080/icones/dogtv.png" group-title="ENTRETENIMENTO",DOG TV
-http://a5telecom.distv.net:8080/6624/6624/674
-#EXTINF:-1 tvg-id="E" tvg-name="E!" tvg-logo="http://45.170.92.6:8080/icones/e.png" group-title="ENTRETENIMENTO",E!
-http://a5telecom.distv.net:8080/6624/6624/609
-#EXTINF:-1 tvg-id="" tvg-name="EDUCACAO" tvg-logo="http://45.170.92.6:8080/icones/educacao.png" group-title="PARABOLICA",EDUCACAO
-http://a5telecom.distv.net:8080/6624/6624/453
-#EXTINF:-1 tvg-id="ESPNBRASIL" tvg-name="ESPN" tvg-logo="http://45.170.92.6:8080/icones/espn.png" group-title="SPORTES",ESPN
-http://a5telecom.distv.net:8080/6624/6624/537
-#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 2" tvg-logo="http://45.170.92.6:8080/icones/espn2.png" group-title="SPORTES",ESPN 2
-http://a5telecom.distv.net:8080/6624/6624/535
-#EXTINF:-1 tvg-id="ESPN 2 FHD" tvg-name="ESPN 3" tvg-logo="http://45.170.92.6:8080/icones/espn3.png" group-title="SPORTES",ESPN 3
-http://a5telecom.distv.net:8080/6624/6624/536
-#EXTINF:-1 tvg-id="FOXSPORTS" tvg-name="ESPN 4" tvg-logo="http://45.170.92.6:8080/icones/espn4.png" group-title="SPORTES",ESPN 4
-http://a5telecom.distv.net:8080/6624/6624/539
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA" tvg-logo="http://45.170.92.6:8080/icones/espnextra.png" group-title="SPORTES",ESPN EXTRA
-http://a5telecom.distv.net:8080/6624/6624/538
-#EXTINF:-1 tvg-id="" tvg-name="EURO NEWS" tvg-logo="http://45.170.92.6:8080/icones/euronews.png" group-title="NEWS",EURO NEWS
-http://a5telecom.distv.net:8080/6624/6624/435
-#EXTINF:-1 tvg-id="FASHIONTVBRAZIL" tvg-name="FASHIONTV" tvg-logo="http://45.170.92.6:8080/icones/fashiontv.png" group-title="ENTRETENIMENTO",FASHIONTV
-http://a5telecom.distv.net:8080/6624/6624/687
-#EXTINF:-1 tvg-id="film-arts" tvg-name="FILM ARTS" tvg-logo="http://45.170.92.6:8080/icones/filmeseartes.png" group-title="ENTRETENIMENTO",FILM ARTS
-http://a5telecom.distv.net:8080/6624/6624/610
-#EXTINF:-1 tvg-id="FISHTV" tvg-name="FISHTV" tvg-logo="http://45.170.92.6:8080/icones/fishtv.png" group-title="ENTRETENIMENTO",FISHTV
-http://a5telecom.distv.net:8080/6624/6624/672
-#EXTINF:-1 tvg-id="FOODNETWORKHDBRASIL" tvg-name="FOOD NETWORK" tvg-logo="http://45.170.92.6:8080/icones/foodnetwork.png" group-title="ENTRETENIMENTO",FOOD NETWORK
-http://a5telecom.distv.net:8080/6624/6624/611
-#EXTINF:-1 tvg-id="FOXSPORTS2" tvg-name="FOX SPORTS 2" tvg-logo="http://45.170.92.6:8080/icones/foxsports2.png" group-title="SPORTES",FOX SPORTS 2
-http://a5telecom.distv.net:8080/6624/6624/540
-#EXTINF:-1 tvg-id="FOXNEWS" tvg-name="FOXNEWS" tvg-logo="http://45.170.92.6:8080/icones/foxnews.png" group-title="NEWS",FOXNEWS
-http://a5telecom.distv.net:8080/6624/6624/669
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://45.170.92.6:8080/icones/fx.png" group-title="FILMES&SERIES",FX
-http://a5telecom.distv.net:8080/6624/6624/639
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",GLOBO BRASILIA
-http://a5telecom.distv.net:8080/6624/6624/475
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO FLORIANOPOLIS" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",GLOBO FLORIANOPOLIS
-http://a5telecom.distv.net:8080/6624/6624/476
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS" tvg-logo="http://45.170.92.6:8080/icones/globominas.png" group-title="GLOBOS&RECORD",GLOBO MINAS
-http://a5telecom.distv.net:8080/6624/6624/477
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NATAL" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",GLOBO NATAL
-http://a5telecom.distv.net:8080/6624/6624/478
-#EXTINF:-1 tvg-id="GLOBONEWS" tvg-name="GLOBO NEWS" tvg-logo="http://45.170.92.6:8080/icones/globonews.png" group-title="NEWS",GLOBO NEWS
-http://a5telecom.distv.net:8080/6624/6624/627
-#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO NORDESTE" tvg-logo="http://45.170.92.6:8080/icones/globonordeste.png" group-title="GLOBOS&RECORD",GLOBO NORDESTE
-http://a5telecom.distv.net:8080/6624/6624/479
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO REDE AMAZONICA" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",GLOBO REDE AMAZONICA
-http://a5telecom.distv.net:8080/6624/6624/482
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RIO" tvg-logo="http://45.170.92.6:8080/icones/globorj.png" group-title="GLOBOS&RECORD",GLOBO RIO
-http://a5telecom.distv.net:8080/6624/6624/480
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO GRANDE DO SUL" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",GLOBO RIO GRANDE DO SUL
-http://a5telecom.distv.net:8080/6624/6624/481
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CURITIBA" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",GLOBO RPC CURITIBA
-http://a5telecom.distv.net:8080/6624/6624/483
-#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="GLOBO SP" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",GLOBO SP
-http://a5telecom.distv.net:8080/6624/6624/484
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA GOIANIA" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",GLOBO TV ANHANGUERA GOIANIA
-http://a5telecom.distv.net:8080/6624/6624/485
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BAHIA" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",GLOBO TV BAHIA
-http://a5telecom.distv.net:8080/6624/6624/486
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV LIBERAL BELEM" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",GLOBO TV LIBERAL BELEM
-http://a5telecom.distv.net:8080/6624/6624/487
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE" tvg-logo="http://45.170.92.6:8080/icones/globotvmirante.png" group-title="GLOBOS&RECORD",GLOBO TV MIRANTE
-http://a5telecom.distv.net:8080/6624/6624/488
-#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB" tvg-logo="http://45.170.92.6:8080/icones/gloob.png" group-title="KIDS",GLOOB
-http://a5telecom.distv.net:8080/6624/6624/589
-#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO" tvg-logo="http://45.170.92.6:8080/icones/gloobinho.png" group-title="KIDS",GLOOBINHO
-http://a5telecom.distv.net:8080/6624/6624/590
-#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="http://45.170.92.6:8080/icones/gnt.png" group-title="ENTRETENIMENTO",GNT
-http://a5telecom.distv.net:8080/6624/6624/612
-#EXTINF:-1 tvg-id="HISTORY2" tvg-name="H2" tvg-logo="http://45.170.92.6:8080/icones/h2.png" group-title="ENTRETENIMENTO",H2
-http://a5telecom.distv.net:8080/6624/6624/615
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://45.170.92.6:8080/icones/hbo.png" group-title="FILMES&SERIES",HBO
-http://a5telecom.distv.net:8080/6624/6624/640
-#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="http://45.170.92.6:8080/icones/hbo2.png" group-title="FILMES&SERIES",HBO 2
-http://a5telecom.distv.net:8080/6624/6624/641
-#EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="HBO FAMILY" tvg-logo="http://45.170.92.6:8080/icones/hbofamily.png" group-title="FILMES&SERIES",HBO FAMILY
-http://a5telecom.distv.net:8080/6624/6624/642
-#EXTINF:-1 tvg-id="HBOMUNDI" tvg-name="HBO MUNDI" tvg-logo="http://45.170.92.6:8080/icones/hbomundi.png" group-title="FILMES&SERIES",HBO MUNDI
-http://a5telecom.distv.net:8080/6624/6624/643
-#EXTINF:-1 tvg-id="HBOPLUS" tvg-name="HBO PLUS" tvg-logo="http://45.170.92.6:8080/icones/hboplus.png" group-title="FILMES&SERIES",HBO PLUS
-http://a5telecom.distv.net:8080/6624/6624/644
-#EXTINF:-1 tvg-id="HBOPOP" tvg-name="HBO POP" tvg-logo="http://45.170.92.6:8080/icones/hbopop.png" group-title="FILMES&SERIES",HBO POP
-http://a5telecom.distv.net:8080/6624/6624/645
-#EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="http://45.170.92.6:8080/icones/hbosignature.png" group-title="FILMES&SERIES",HBO SIGNATURE
-http://a5telecom.distv.net:8080/6624/6624/646
-#EXTINF:-1 tvg-id="HBOXTREME" tvg-name="HBO XTREME" tvg-logo="http://45.170.92.6:8080/icones/hboextreme.png" group-title="FILMES&SERIES",HBO XTREME
-http://a5telecom.distv.net:8080/6624/6624/647
-#EXTINF:-1 tvg-id="" tvg-name="HETERO" tvg-logo="http://45.170.92.6:8080/icones/canaladulto.png" group-title="ADULTOS",HETERO
-http://a5telecom.distv.net:8080/6624/6624/509
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="http://45.170.92.6:8080/icones/hgtv.png" group-title="ENTRETENIMENTO",HGTV
-http://a5telecom.distv.net:8080/6624/6624/613
-#EXTINF:-1 tvg-id="HISTORYCHANNEL" tvg-name="HISTORY" tvg-logo="http://45.170.92.6:8080/icones/historychannel.png" group-title="ENTRETENIMENTO",HISTORY
-http://a5telecom.distv.net:8080/6624/6624/614
-#EXTINF:-1 tvg-id="" tvg-name="ID TV" tvg-logo="http://45.170.92.6:8080/icones/idealtv.png" group-title="PARABOLICA",ID TV
-http://a5telecom.distv.net:8080/6624/6624/365
-#EXTINF:-1 tvg-id="" tvg-name="INTERTV GRANDE MINAS" tvg-logo="http://45.170.92.6:8080/icones/globominas.png" group-title="PARABOLICA",INTERTV GRANDE MINAS
-http://a5telecom.distv.net:8080/6624/6624/455
-#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS" tvg-logo="http://45.170.92.6:8080/icones/jovempannews.png" group-title="NEWS",JOVEM PAN NEWS
-http://a5telecom.distv.net:8080/6624/6624/436
-#EXTINF:-1 tvg-id="" tvg-name="LESBIAN" tvg-logo="http://45.170.92.6:8080/icones/canaladulto.png" group-title="ADULTOS",LESBIAN
-http://a5telecom.distv.net:8080/6624/6624/510
-#EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME" tvg-logo="http://45.170.92.6:8080/icones/lifetime.png" group-title="FILMES&SERIES",LIFETIME
-http://a5telecom.distv.net:8080/6624/6624/648
-#EXTINF:-1 tvg-id="" tvg-name="LIKE" tvg-logo="http://45.170.92.6:8080/icones/like.png" group-title="FILMES&SERIES",LIKE
-http://a5telecom.distv.net:8080/6624/6624/685
-#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="http://45.170.92.6:8080/icones/lovenature.png" group-title="ENTRETENIMENTO",LOVE NATURE
-http://a5telecom.distv.net:8080/6624/6624/616
-#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="http://45.170.92.6:8080/icones/megapix.png" group-title="FILMES&SERIES",MEGAPIX
-http://a5telecom.distv.net:8080/6624/6624/649
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://45.170.92.6:8080/icones/mtv.png" group-title="ENTRETENIMENTO",MTV
-http://a5telecom.distv.net:8080/6624/6624/617
-#EXTINF:-1 tvg-id="MTV LIVE HD [Alter]" tvg-name="MTV LIVE" tvg-logo="http://45.170.92.6:8080/icones/mtvlive.png" group-title="ENTRETENIMENTO",MTV LIVE
-http://a5telecom.distv.net:8080/6624/6624/618
-#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="http://45.170.92.6:8080/icones/multishow.png" group-title="ENTRETENIMENTO",MULTISHOW
-http://a5telecom.distv.net:8080/6624/6624/619
-#EXTINF:-1 tvg-id="MUSICBOXBRASIL" tvg-name="MUSIC BOX" tvg-logo="http://45.170.92.6:8080/icones/musicboxbrazil.png" group-title="ENTRETENIMENTO",MUSIC BOX
-http://a5telecom.distv.net:8080/6624/6624/671
-#EXTINF:-1 tvg-id="NATIONALGEOGRAPHIC" tvg-name="NAT GEO" tvg-logo="http://45.170.92.6:8080/icones/natgeo.png" group-title="ENTRETENIMENTO",NAT GEO
-http://a5telecom.distv.net:8080/6624/6624/620
-#EXTINF:-1 tvg-id="NATIONALGEOGRAPHICWILD" tvg-name="NAT GEO WILD" tvg-logo="http://45.170.92.6:8080/icones/natgeowild.png" group-title="ENTRETENIMENTO",NAT GEO WILD
-http://a5telecom.distv.net:8080/6624/6624/621
-#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICK" tvg-logo="http://45.170.92.6:8080/icones/nick.png" group-title="KIDS",NICK
-http://a5telecom.distv.net:8080/6624/6624/592
-#EXTINF:-1 tvg-id="NICKJR" tvg-name="NICK JR" tvg-logo="http://45.170.92.6:8080/icones/nickjr.png" group-title="KIDS",NICK JR
-http://a5telecom.distv.net:8080/6624/6624/593
-#EXTINF:-1 tvg-id="OFF" tvg-name="OFF" tvg-logo="http://45.170.92.6:8080/icones/off.png" group-title="ENTRETENIMENTO",OFF
-http://a5telecom.distv.net:8080/6624/6624/622
-#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" tvg-logo="http://45.170.92.6:8080/icones/paramount.png" group-title="FILMES&SERIES",PARAMOUNT
-http://a5telecom.distv.net:8080/6624/6624/650
-#EXTINF:-1 tvg-id="" tvg-name="POLISHOP" tvg-logo="http://45.170.92.6:8080/icones/polishop.png" group-title="PARABOLICA",POLISHOP
-http://a5telecom.distv.net:8080/6624/6624/439
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2" tvg-logo="http://45.170.92.6:8080/icones/premiere2.png" group-title="SPORTES",PREMIERE 2
-http://a5telecom.distv.net:8080/6624/6624/542
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3" tvg-logo="http://45.170.92.6:8080/icones/premiere3.png" group-title="SPORTES",PREMIERE 3
-http://a5telecom.distv.net:8080/6624/6624/543
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4" tvg-logo="http://45.170.92.6:8080/icones/premeire4.png" group-title="SPORTES",PREMIERE 4
-http://a5telecom.distv.net:8080/6624/6624/544
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5" tvg-logo="http://45.170.92.6:8080/icones/premeire5.png" group-title="SPORTES",PREMIERE 5
-http://a5telecom.distv.net:8080/6624/6624/545
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6" tvg-logo="http://45.170.92.6:8080/icones/premiere6.png" group-title="SPORTES",PREMIERE 6
-http://a5telecom.distv.net:8080/6624/6624/546
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7" tvg-logo="http://45.170.92.6:8080/icones/premiere7.png" group-title="SPORTES",PREMIERE 7
-http://a5telecom.distv.net:8080/6624/6624/547
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES" tvg-logo="http://45.170.92.6:8080/icones/premiereclubes.png" group-title="SPORTES",PREMIERE CLUBES
-http://a5telecom.distv.net:8080/6624/6624/541
-#EXTINF:-1 tvg-id="PRIMEBOXBRAZIL" tvg-name="PRIME BOX" tvg-logo="http://45.170.92.6:8080/icones/primeboxbrazil.png" group-title="ENTRETENIMENTO",PRIME BOX
-http://a5telecom.distv.net:8080/6624/6624/670
-#EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA" tvg-logo="http://45.170.92.6:8080/icones/record.png" group-title="GLOBOS&RECORD",RECORD BAHIA
-http://a5telecom.distv.net:8080/6624/6624/490
-#EXTINF:-1 tvg-id="" tvg-name="RECORD BELEM" tvg-logo="http://45.170.92.6:8080/icones/record.png" group-title="GLOBOS&RECORD",RECORD BELEM
-http://a5telecom.distv.net:8080/6624/6624/491
-#EXTINF:-1 tvg-id="" tvg-name="RECORD BRASILIA" tvg-logo="http://45.170.92.6:8080/icones/record.png" group-title="GLOBOS&RECORD",RECORD BRASILIA
-http://a5telecom.distv.net:8080/6624/6624/492
-#EXTINF:-1 tvg-id="" tvg-name="RECORD FEIRA SANTA" tvg-logo="http://45.170.92.6:8080/icones/record.png" group-title="BAHIA",RECORD FEIRA SANTA
-http://a5telecom.distv.net:8080/6624/6624/390
-#EXTINF:-1 tvg-id="" tvg-name="RECORD GOIAS" tvg-logo="http://45.170.92.6:8080/icones/record.png" group-title="GLOBOS&RECORD",RECORD GOIAS
-http://a5telecom.distv.net:8080/6624/6624/493
-#EXTINF:-1 tvg-id="" tvg-name="RECORD MANAUS" tvg-logo="http://45.170.92.6:8080/icones/record.png" group-title="GLOBOS&RECORD",RECORD MANAUS
-http://a5telecom.distv.net:8080/6624/6624/494
-#EXTINF:-1 tvg-id="" tvg-name="RECORD MINAS" tvg-logo="http://45.170.92.6:8080/icones/record.png" group-title="GLOBOS&RECORD",RECORD MINAS
-http://a5telecom.distv.net:8080/6624/6624/495
-#EXTINF:-1 tvg-id="RECORDNEWS" tvg-name="RECORD NEWS" tvg-logo="http://45.170.92.6:8080/icones/recordnews.png" group-title="NEWS",RECORD NEWS
-http://a5telecom.distv.net:8080/6624/6624/383
-#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO" tvg-logo="http://45.170.92.6:8080/icones/record.png" group-title="GLOBOS&RECORD",RECORD RIO
-http://a5telecom.distv.net:8080/6624/6624/497
-#EXTINF:-1 tvg-id="" tvg-name="RECORD RS" tvg-logo="http://45.170.92.6:8080/icones/record.png" group-title="GLOBOS&RECORD",RECORD RS
-http://a5telecom.distv.net:8080/6624/6624/498
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SP" tvg-logo="http://45.170.92.6:8080/icones/reordtvsp.png" group-title="GLOBOS&RECORD",RECORD SP
-http://a5telecom.distv.net:8080/6624/6624/499
-#EXTINF:-1 tvg-id="" tvg-name="REDE CNT" tvg-logo="http://45.170.92.6:8080/icones/redecnt.png" group-title="PARABOLICA",REDE CNT
-http://a5telecom.distv.net:8080/6624/6624/380
-#EXTINF:-1 tvg-id="" tvg-name="REDE FAMILIA" tvg-logo="http://45.170.92.6:8080/icones/redefamilia.png" group-title="PARABOLICA",REDE FAMILIA
-http://a5telecom.distv.net:8080/6624/6624/440
-#EXTINF:-1 tvg-id="" tvg-name="REDE GENESIS" tvg-logo="http://45.170.92.6:8080/icones/redegenesis.png" group-title="PARABOLICA",REDE GENESIS
-http://a5telecom.distv.net:8080/6624/6624/441
-#EXTINF:-1 tvg-id="" tvg-name="REDE GOSPEL" tvg-logo="http://45.170.92.6:8080/icones/redegospel.png" group-title="PARABOLICA",REDE GOSPEL
-http://a5telecom.distv.net:8080/6624/6624/442
-#EXTINF:-1 tvg-id="" tvg-name="REDE SECULO21" tvg-logo="http://45.170.92.6:8080/icones/redeseculo.png" group-title="PARABOLICA",REDE SECULO21
-http://a5telecom.distv.net:8080/6624/6624/444
-#EXTINF:-1 tvg-id="" tvg-name="REDE TV" tvg-logo="http://45.170.92.6:8080/icones/redetv.png" group-title="PARABOLICA",REDE TV
-http://a5telecom.distv.net:8080/6624/6624/392
-#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA" tvg-logo="http://45.170.92.6:8080/icones/redevida.png" group-title="PARABOLICA",REDE VIDA
-http://a5telecom.distv.net:8080/6624/6624/418
-#EXTINF:-1 tvg-id="RIT" tvg-name="RIT TV" tvg-logo="http://45.170.92.6:8080/icones/rittv.png" group-title="PERNAMBUCO",RIT TV
-http://a5telecom.distv.net:8080/6624/6624/363
-#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="http://45.170.92.6:8080/icones/sbt.png" group-title="PARABOLICA",SBT
-http://a5telecom.distv.net:8080/6624/6624/384
-#EXTINF:-1 tvg-id="" tvg-name="SMITHSONIAN" tvg-logo="http://45.170.92.6:8080/icones/smithsonian.png" group-title="ENTRETENIMENTO",SMITHSONIAN
-http://a5telecom.distv.net:8080/6624/6624/623
-#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="http://45.170.92.6:8080/icones/space.png" group-title="FILMES&SERIES",SPACE
-http://a5telecom.distv.net:8080/6624/6624/651
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV" tvg-logo="http://45.170.92.6:8080/icones/sportv.png" group-title="SPORTES",SPORTV
-http://a5telecom.distv.net:8080/6624/6624/548
-#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2" tvg-logo="http://45.170.92.6:8080/icones/sportv2.png" group-title="SPORTES",SPORTV 2
-http://a5telecom.distv.net:8080/6624/6624/549
-#EXTINF:-1 tvg-id="8abe450e58e387ce9181954d2612ca13" tvg-name="SPORTV 3" tvg-logo="http://45.170.92.6:8080/icones/sportv3.png" group-title="SPORTES",SPORTV 3
-http://a5telecom.distv.net:8080/6624/6624/550
-#EXTINF:-1 tvg-id="STARCHANNEL" tvg-name="STAR CHANNEL" tvg-logo="http://45.170.92.6:8080/icones/starchannel.png" group-title="FILMES&SERIES",STAR CHANNEL
-http://a5telecom.distv.net:8080/6624/6624/675
-#EXTINF:-1 tvg-id="STARLIFE" tvg-name="STAR LIFE" tvg-logo="http://45.170.92.6:8080/icones/starlife.png" group-title="FILMES&SERIES",STAR LIFE
-http://a5telecom.distv.net:8080/6624/6624/678
-#EXTINF:-1 tvg-id="STUDIOUNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://45.170.92.6:8080/icones/studiouniversal.png" group-title="FILMES&SERIES",STUDIO UNIVERSAL
-http://a5telecom.distv.net:8080/6624/6624/652
-#EXTINF:-1 tvg-id="" tvg-name="SUBAE" tvg-logo="http://45.170.92.6:8080/icones/redeglobobahia.png" group-title="BAHIA",SUBAE
-http://a5telecom.distv.net:8080/6624/6624/389
-#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="http://45.170.92.6:8080/icones/syfy.png" group-title="FILMES&SERIES",SYFY
-http://a5telecom.distv.net:8080/6624/6624/653
-#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://45.170.92.6:8080/icones/tbs.png" group-title="FILMES&SERIES",TBS
-http://a5telecom.distv.net:8080/6624/6624/654
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://45.170.92.6:8080/icones/tcm.png" group-title="FILMES&SERIES",TCM
-http://a5telecom.distv.net:8080/6624/6624/686
-#EXTINF:-1 tvg-id="TELECINEACTION" tvg-name="TELECINE ACTION" tvg-logo="http://45.170.92.6:8080/icones/tcaction.png" group-title="FILMES&SERIES",TELECINE ACTION
-http://a5telecom.distv.net:8080/6624/6624/655
-#EXTINF:-1 tvg-id="TELECINECULT" tvg-name="TELECINE CULT" tvg-logo="http://45.170.92.6:8080/icones/tccult.png" group-title="FILMES&SERIES",TELECINE CULT
-http://a5telecom.distv.net:8080/6624/6624/656
-#EXTINF:-1 tvg-id="TELECINEFUN" tvg-name="TELECINE FUN" tvg-logo="http://45.170.92.6:8080/icones/tcfun.png" group-title="FILMES&SERIES",TELECINE FUN
-http://a5telecom.distv.net:8080/6624/6624/657
-#EXTINF:-1 tvg-id="TELECINEPIPOCA" tvg-name="TELECINE PIPOCA" tvg-logo="http://45.170.92.6:8080/icones/tcpipoca.png" group-title="FILMES&SERIES",TELECINE PIPOCA
-http://a5telecom.distv.net:8080/6624/6624/658
-#EXTINF:-1 tvg-id="TELECINEPREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="http://45.170.92.6:8080/icones/tcpremium.png" group-title="FILMES&SERIES",TELECINE PREMIUM
-http://a5telecom.distv.net:8080/6624/6624/659
-#EXTINF:-1 tvg-id="TELECINETOUCH" tvg-name="TELECINE TOUCH" tvg-logo="http://45.170.92.6:8080/icones/tctouch.png" group-title="FILMES&SERIES",TELECINE TOUCH
-http://a5telecom.distv.net:8080/6624/6624/660
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://45.170.92.6:8080/icones/tlc.png" group-title="FILMES&SERIES",TLC
-http://a5telecom.distv.net:8080/6624/6624/661
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://45.170.92.6:8080/icones/tnt.png" group-title="FILMES&SERIES",TNT
-http://a5telecom.distv.net:8080/6624/6624/662
-#EXTINF:-1 tvg-id="TNTSERIES" tvg-name="TNT SERIES" tvg-logo="http://45.170.92.6:8080/icones/tntseries.png" group-title="FILMES&SERIES",TNT SERIES
-http://a5telecom.distv.net:8080/6624/6624/663
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="http://45.170.92.6:8080/icones/tntsports.png" group-title="SPORTES",TNT SPORTS
-http://a5telecom.distv.net:8080/6624/6624/559
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2" tvg-logo="http://45.170.92.6:8080/icones/tntsports.png" group-title="SPORTES",TNT SPORTS 2
-http://a5telecom.distv.net:8080/6624/6624/560
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3" tvg-logo="http://45.170.92.6:8080/icones/tntsports.png" group-title="SPORTES",TNT SPORTS 3
-http://a5telecom.distv.net:8080/6624/6624/561
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 4" tvg-logo="http://45.170.92.6:8080/icones/tntsports.png" group-title="SPORTES",TNT SPORTS 4
-http://a5telecom.distv.net:8080/6624/6624/562
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 5" tvg-logo="http://45.170.92.6:8080/icones/tntsports.png" group-title="SPORTES",TNT SPORTS 5
-http://a5telecom.distv.net:8080/6624/6624/680
-#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="http://45.170.92.6:8080/icones/tooncast.png" group-title="KIDS",TOONCAST
-http://a5telecom.distv.net:8080/6624/6624/594
-#EXTINF:-1 tvg-id="" tvg-name="TRANNY" tvg-logo="http://45.170.92.6:8080/icones/tranny.png" group-title="ADULTOS",TRANNY
-http://a5telecom.distv.net:8080/6624/6624/511
-#EXTINF:-1 tvg-id="TRAVELBOXBRAZIL" tvg-name="TRAVELBOX BRAZIL" tvg-logo="http://45.170.92.6:8080/icones/travelboxbrazil.png" group-title="ENTRETENIMENTO",TRAVELBOX BRAZIL
-http://a5telecom.distv.net:8080/6624/6624/673
-#EXTINF:-1 tvg-id="TRUTV" tvg-name="TRUETV" tvg-logo="http://45.170.92.6:8080/icones/trutv.png" group-title="ENTRETENIMENTO",TRUETV
-http://a5telecom.distv.net:8080/6624/6624/667
-#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA" tvg-logo="http://45.170.92.6:8080/icones/tvaparecida.png" group-title="PARABOLICA",TV APARECIDA
-http://a5telecom.distv.net:8080/6624/6624/425
-#EXTINF:-1 tvg-id="" tvg-name="TV ARAPUAN REDE TV" tvg-logo="http://45.170.92.6:8080/icones/tvarapuaredev.png" group-title="PARAIBA",TV ARAPUAN REDE TV
-http://a5telecom.distv.net:8080/6624/6624/369
-#EXTINF:-1 tvg-id="" tvg-name="TV ASA BRANCA" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",TV ASA BRANCA
-http://a5telecom.distv.net:8080/6624/6624/471
-#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL 2" tvg-logo="http://45.170.92.6:8080/icones/tvbrasil.png" group-title="PARABOLICA",TV BRASIL 2
-http://a5telecom.distv.net:8080/6624/6624/447
-#EXTINF:-1 tvg-id="" tvg-name="TV CABO BRANCO GLOBO" tvg-logo="http://45.170.92.6:8080/icones/tvcabobranco.png" group-title="PARAIBA",TV CABO BRANCO GLOBO
-http://a5telecom.distv.net:8080/6624/6624/370
-#EXTINF:-1 tvg-id="" tvg-name="TV CAFE COM LEITE" tvg-logo="http://45.170.92.6:8080/icones/tvcafecomleite.png" group-title="CEARA",TV CAFE COM LEITE
-http://a5telecom.distv.net:8080/6624/6624/404
-#EXTINF:-1 tvg-id="" tvg-name="TV CAMARA" tvg-logo="http://45.170.92.6:8080/icones/tvcamara.png" group-title="PARABOLICA",TV CAMARA
-http://a5telecom.distv.net:8080/6624/6624/347
-#EXTINF:-1 tvg-id="" tvg-name="TV CIDADE" tvg-logo="http://45.170.92.6:8080/icones/tvcidade.png" group-title="CEARA",TV CIDADE
-http://a5telecom.distv.net:8080/6624/6624/403
-#EXTINF:-1 tvg-id="" tvg-name="TV CORREIO RECORD TV" tvg-logo="http://45.170.92.6:8080/icones/tvcorreio.png" group-title="PARAIBA",TV CORREIO RECORD TV
-http://a5telecom.distv.net:8080/6624/6624/372
-#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO" tvg-logo="http://45.170.92.6:8080/icones/tvdiario.png" group-title="CEARA",TV DIARIO
-http://a5telecom.distv.net:8080/6624/6624/395
-#EXTINF:-1 tvg-id="" tvg-name="TV ESCOLA" tvg-logo="http://45.170.92.6:8080/icones/tvescola.png" group-title="PARABOLICA",TV ESCOLA
-http://a5telecom.distv.net:8080/6624/6624/355
-#EXTINF:-1 tvg-id="" tvg-name="TV FUTURA" tvg-logo="http://45.170.92.6:8080/icones/futura.png" group-title="CEARA",TV FUTURA
-http://a5telecom.distv.net:8080/6624/6624/396
-#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA ALAGOAS" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",TV GAZETA ALAGOAS
-http://a5telecom.distv.net:8080/6624/6624/472
-#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA VITORIA ES" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",TV GAZETA VITORIA ES
-http://a5telecom.distv.net:8080/6624/6624/473
-#EXTINF:-1 tvg-id="" tvg-name="TV GUARARAPES" tvg-logo="http://45.170.92.6:8080/icones/tvguararapes.png" group-title="PERNAMBUCO",TV GUARARAPES
-http://a5telecom.distv.net:8080/6624/6624/356
-#EXTINF:-1 tvg-id="" tvg-name="TV JANGADEIRO" tvg-logo="http://45.170.92.6:8080/icones/tvjangadeiro.png" group-title="CEARA",TV JANGADEIRO
-http://a5telecom.distv.net:8080/6624/6624/405
-#EXTINF:-1 tvg-id="" tvg-name="TV JORNAL(SBT)" tvg-logo="http://45.170.92.6:8080/icones/tvjornal.png" group-title="PERNAMBUCO",TV JORNAL(SBT)
-http://a5telecom.distv.net:8080/6624/6624/344
-#EXTINF:-1 tvg-id="" tvg-name="TV MANAIRA BAND" tvg-logo="http://45.170.92.6:8080/icones/tvmanairaband.png" group-title="PARAIBA",TV MANAIRA BAND
-http://a5telecom.distv.net:8080/6624/6624/373
-#EXTINF:-1 tvg-id="" tvg-name="TV MIRAMAR TV CULTURA" tvg-logo="http://45.170.92.6:8080/icones/tvmiramar.png" group-title="PARAIBA",TV MIRAMAR TV CULTURA
-http://a5telecom.distv.net:8080/6624/6624/374
-#EXTINF:-1 tvg-id="" tvg-name="TV MORENA" tvg-logo="http://45.170.92.6:8080/icones/globotvmorena.png" group-title="GLOBOS&RECORD",TV MORENA
-http://a5telecom.distv.net:8080/6624/6624/474
-#EXTINF:-1 tvg-id="" tvg-name="TV NOVA NORDESTE" tvg-logo="http://45.170.92.6:8080/icones/novanordeste.png" group-title="PERNAMBUCO",TV NOVA NORDESTE
-http://a5telecom.distv.net:8080/6624/6624/349
-#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO" tvg-logo="http://45.170.92.6:8080/icones/novotempo.png" group-title="PARABOLICA",TV NOVO TEMPO
-http://a5telecom.distv.net:8080/6624/6624/385
-#EXTINF:-1 tvg-id="TVRTIMBUM" tvg-name="TV RA TIM BUM" tvg-logo="http://45.170.92.6:8080/icones/tvratimbum.png" group-title="KIDS",TV RA TIM BUM
-http://a5telecom.distv.net:8080/6624/6624/595
-#EXTINF:-1 tvg-id="" tvg-name="TV SANTA CRUZ (GLOBO)" tvg-logo="http://45.170.92.6:8080/icones/tvsantacruz.png" group-title="PARABOLICA",TV SANTA CRUZ (GLOBO)
-http://a5telecom.distv.net:8080/6624/6624/457
-#EXTINF:-1 tvg-id="" tvg-name="TV SUBAE(GLOBO)" tvg-logo="http://45.170.92.6:8080/icones/redeglobobahia.png" group-title="PARABOLICA",TV SUBAE(GLOBO)
-http://a5telecom.distv.net:8080/6624/6624/458
-#EXTINF:-1 tvg-id="" tvg-name="TV TAMBAU SBT" tvg-logo="http://45.170.92.6:8080/icones/tvtambau.png" group-title="PARAIBA",TV TAMBAU SBT
-http://a5telecom.distv.net:8080/6624/6624/377
-#EXTINF:-1 tvg-id="" tvg-name="TV TRIBUNA(BAND)" tvg-logo="http://45.170.92.6:8080/icones/tvtribuna.png" group-title="PERNAMBUCO",TV TRIBUNA(BAND)
-http://a5telecom.distv.net:8080/6624/6624/345
-#EXTINF:-1 tvg-id="" tvg-name="TV TROPICAL (RECORD TV)" tvg-logo="http://45.170.92.6:8080/icones/tvtropical.png" group-title="RIO-GRANDE-NORTE",TV TROPICAL (RECORD TV)
-http://a5telecom.distv.net:8080/6624/6624/386
-#EXTINF:-1 tvg-id="" tvg-name="TV UFPB TV BRASIL" tvg-logo="http://45.170.92.6:8080/icones/tvbrasil.png" group-title="PARAIBA",TV UFPB TV BRASIL
-http://a5telecom.distv.net:8080/6624/6624/378
-#EXTINF:-1 tvg-id="" tvg-name="TV VERDADE" tvg-logo="http://45.170.92.6:8080/icones/tvverdade.png" group-title="PARABOLICA",TV VERDADE
-http://a5telecom.distv.net:8080/6624/6624/426
-#EXTINF:-1 tvg-id="" tvg-name="TV VERDE MARES" tvg-logo="http://45.170.92.6:8080/icones/globotvverdesmares.png" group-title="CEARA",TV VERDE MARES
-http://a5telecom.distv.net:8080/6624/6624/407
-#EXTINF:-1 tvg-id="" tvg-name="TV VERDE VALE" tvg-logo="http://45.170.92.6:8080/icones/tvverdevale.png" group-title="CEARA",TV VERDE VALE
-http://a5telecom.distv.net:8080/6624/6624/406
-#EXTINF:-1 tvg-id="" tvg-name="TVPE ( TV BRASIL)" tvg-logo="http://45.170.92.6:8080/icones/tveducativa.png" group-title="PERNAMBUCO",TVPE ( TV BRASIL)
-http://a5telecom.distv.net:8080/6624/6624/353
-#EXTINF:-1 tvg-id="" tvg-name="TVU CEARA" tvg-logo="http://45.170.92.6:8080/icones/tvuniversitaria.png" group-title="CEARA",TVU CEARA
-http://a5telecom.distv.net:8080/6624/6624/401
-#EXTINF:-1 tvg-id="UNIVERSAL" tvg-name="UNIVERSAL TV" tvg-logo="http://45.170.92.6:8080/icones/universalchannel.png" group-title="FILMES&SERIES",UNIVERSAL TV
-http://a5telecom.distv.net:8080/6624/6624/664
-#EXTINF:-1 tvg-id="VH1MEGAHITSBRAZIL" tvg-name="VH1 MEGA HITS" tvg-logo="http://45.170.92.6:8080/icones/vh1megahits.png" group-title="ENTRETENIMENTO",VH1 MEGA HITS
-http://a5telecom.distv.net:8080/6624/6624/624
-#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA" tvg-logo="http://45.170.92.6:8080/icones/viva.png" group-title="ENTRETENIMENTO",VIVA
-http://a5telecom.distv.net:8080/6624/6624/625
-#EXTINF:-1 tvg-id="WARNER" tvg-name="WARNER CHANNEL" tvg-logo="http://45.170.92.6:8080/icones/warnerchannel.png" group-title="FILMES&SERIES",WARNER CHANNEL
-http://a5telecom.distv.net:8080/6624/6624/665
-#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="http://45.170.92.6:8080/icones/woohoo.png" group-title="ENTRETENIMENTO",WOOHOO
-http://a5telecom.distv.net:8080/6624/6624/679
-#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO" tvg-logo="http://45.170.92.6:8080/icones/zoomoo.png" group-title="KIDS",ZOOMOO
-http://a5telecom.distv.net:8080/6624/6624/596
-#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT" tvg-logo="http://45.170.92.6:8080/icones/maisglobosat.png" group-title="ENTRETENIMENTO",MAIS GLOBOSAT
-http://a5telecom.distv.net:8080/6624/6624/628
-#EXTINF:-1 tvg-id="" tvg-name="FAZENDA CAM 5" tvg-logo="http://45.170.92.6:8080/icones/afazenda.png" group-title="AFAZENDA",FAZENDA CAM 5
-http://a5telecom.distv.net:8080/6624/6624/581
-#EXTINF:-1 tvg-id="" tvg-name="FAZENDA CAM 4" tvg-logo="http://45.170.92.6:8080/icones/afazenda.png" group-title="AFAZENDA",FAZENDA CAM 4
-http://a5telecom.distv.net:8080/6624/6624/580
-#EXTINF:-1 tvg-id="" tvg-name="FAZENDA CAM 3" tvg-logo="http://45.170.92.6:8080/icones/afazenda.png" group-title="AFAZENDA",FAZENDA CAM 3
-http://a5telecom.distv.net:8080/6624/6624/579
-#EXTINF:-1 tvg-id="" tvg-name="FAZENDA CAM 2" tvg-logo="http://45.170.92.6:8080/icones/afazenda.png" group-title="AFAZENDA",FAZENDA CAM 2
-http://a5telecom.distv.net:8080/6624/6624/578
-#EXTINF:-1 tvg-id="" tvg-name="FAZENDA CAM 1" tvg-logo="http://45.170.92.6:8080/icones/afazenda.png" group-title="AFAZENDA",FAZENDA CAM 1
-http://a5telecom.distv.net:8080/6624/6624/577
+
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E" tvg-logo="http://186.209.160.37:8080/icones/ae.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"FILMES&SERIES",A&E
+http://dmnet.distv.net:8080/live/alexandro/123456/630.ts
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC" tvg-logo="http://186.209.160.37:8080/icones/amc.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"FILMES&SERIES",AMC
+http://dmnet.distv.net:8080/live/alexandro/123456/631.ts
+#EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="ANIMAL PLANET" tvg-logo="http://186.209.160.37:8080/icones/animalplanet.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"ENTRETENIMENTO",ANIMAL PLANET
+http://dmnet.distv.net:8080/live/alexandro/123456/597.ts
+#EXTINF:-1 tvg-id="ARTE1" tvg-name="ARTE 1" tvg-logo="http://186.209.160.37:8080/icones/arte1.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"ENTRETENIMENTO",ARTE 1
+http://dmnet.distv.net:8080/live/alexandro/123456/598.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://186.209.160.37:8080/icones/axn.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"FILMES&SERIES",AXN
+http://dmnet.distv.net:8080/live/alexandro/123456/632.ts
+#EXTINF:-1 tvg-id="BABYTV" tvg-name="BABY TV" tvg-logo="http://186.209.160.37:8080/icones/babytv.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"KIDS",BABY TV
+http://dmnet.distv.net:8080/live/alexandro/123456/582.ts
+#EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BAND NEWS" tvg-logo="http://186.209.160.37:8080/icones/bandnews.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"NEWS",BAND NEWS
+http://dmnet.distv.net:8080/live/alexandro/123456/629.ts
+#EXTINF:-1 tvg-id="BANDSPORTS" tvg-name="BAND SPORTS" tvg-logo="http://186.209.160.37:8080/icones/bandsports.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"SPORTES",BAND SPORTS
+http://dmnet.distv.net:8080/live/alexandro/123456/532.ts
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="http://186.209.160.37:8080/icones/bis.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"ENTRETENIMENTO",BIS
+http://dmnet.distv.net:8080/live/alexandro/123456/599.ts
+#EXTINF:-1 tvg-id="SONY" tvg-name="CANAL SONY" tvg-logo="http://186.209.160.37:8080/icones/sonychannel.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"FILMES&SERIES",CANAL SONY
+http://dmnet.distv.net:8080/live/alexandro/123456/633.ts
+#EXTINF:-1 tvg-id="CARTOONNETWORK" tvg-name="CARTOON NETWORK" tvg-logo="http://186.209.160.37:8080/icones/cartoonnetwork.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"KIDS",CARTOON NETWORK
+http://dmnet.distv.net:8080/live/alexandro/123456/584.ts
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="CARTOONITO" tvg-logo="http://186.209.160.37:8080/icones/cartoonito.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"KIDS",CARTOONITO
+http://dmnet.distv.net:8080/live/alexandro/123456/583.ts
+#EXTINF:-1 tvg-id="CHEFTV" tvg-name="CHEFTV" tvg-logo="http://186.209.160.37:8080/icones/cheftv.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"ENTRETENIMENTO",CHEFTV
+http://dmnet.distv.net:8080/live/alexandro/123456/666.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01" tvg-logo="http://186.209.160.37:8080/icones/cinesky.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"CINESKY",CINE SKY 01
+http://dmnet.distv.net:8080/live/alexandro/123456/522.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02" tvg-logo="http://186.209.160.37:8080/icones/cinesky.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"CINESKY",CINE SKY 02
+http://dmnet.distv.net:8080/live/alexandro/123456/523.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03" tvg-logo="http://186.209.160.37:8080/icones/cinesky.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"CINESKY",CINE SKY 03
+http://dmnet.distv.net:8080/live/alexandro/123456/524.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04" tvg-logo="http://186.209.160.37:8080/icones/cinesky.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"CINESKY",CINE SKY 04
+http://dmnet.distv.net:8080/live/alexandro/123456/525.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05" tvg-logo="http://186.209.160.37:8080/icones/cinesky.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"CINESKY",CINE SKY 05
+http://dmnet.distv.net:8080/live/alexandro/123456/526.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06" tvg-logo="http://186.209.160.37:8080/icones/cinesky.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"CINESKY",CINE SKY 06
+http://dmnet.distv.net:8080/live/alexandro/123456/527.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07" tvg-logo="http://186.209.160.37:8080/icones/cinesky.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"CINESKY",CINE SKY 07
+http://dmnet.distv.net:8080/live/alexandro/123456/528.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08" tvg-logo="http://186.209.160.37:8080/icones/cinesky.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"CINESKY",CINE SKY 08
+http://dmnet.distv.net:8080/live/alexandro/123456/529.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09" tvg-logo="http://186.209.160.37:8080/icones/cinesky.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"CINESKY",CINE SKY 09
+http://dmnet.distv.net:8080/live/alexandro/123456/530.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="http://186.209.160.37:8080/icones/cinesky.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"CINESKY",CINE SKY 10
+http://dmnet.distv.net:8080/live/alexandro/123456/531.ts
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="http://186.209.160.37:8080/icones/cinemax.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"FILMES&SERIES",CINEMAX
+http://dmnet.distv.net:8080/live/alexandro/123456/634.ts
+#EXTINF:-1 tvg-id="CNNBRASIL" tvg-name="CNN BRASIL" tvg-logo="http://186.209.160.37:8080/icones/cnnbrasil.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"NEWS",CNN BRASIL
+http://dmnet.distv.net:8080/live/alexandro/123456/626.ts
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN INTERNACIONAL" tvg-logo="http://186.209.160.37:8080/icones/cnninternacional.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"NEWS",CNN INTERNACIONAL
+http://dmnet.distv.net:8080/live/alexandro/123456/668.ts
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE" tvg-logo="http://186.209.160.37:8080/icones/combate.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"SPORTES",COMBATE
+http://dmnet.distv.net:8080/live/alexandro/123456/533.ts
+#EXTINF:-1 tvg-id="COMEDYCENTRAL" tvg-name="COMEDY CENTRAL" tvg-logo="http://186.209.160.37:8080/icones/comedycentral.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"ENTRETENIMENTO",COMEDY CENTRAL
+http://dmnet.distv.net:8080/live/alexandro/123456/601.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 1" tvg-logo="http://186.209.160.37:8080/icones/conmebol.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"SPORTES",CONMEBOL 1
+http://dmnet.distv.net:8080/live/alexandro/123456/551.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2" tvg-logo="http://186.209.160.37:8080/icones/conmebol.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"SPORTES",CONMEBOL 2
+http://dmnet.distv.net:8080/live/alexandro/123456/552.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 3" tvg-logo="http://186.209.160.37:8080/icones/conmebol.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"SPORTES",CONMEBOL 3
+http://dmnet.distv.net:8080/live/alexandro/123456/553.ts
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 4" tvg-logo="http://186.209.160.37:8080/icones/conmebol.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"SPORTES",CONMEBOL 4
+http://dmnet.distv.net:8080/live/alexandro/123456/554.ts
+#EXTINF:-1 tvg-id="CURTA" tvg-name="CURTA!" tvg-logo="http://186.209.160.37:8080/icones/curta.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"ENTRETENIMENTO",CURTA!
+http://dmnet.distv.net:8080/live/alexandro/123456/600.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN" tvg-logo="http://186.209.160.37:8080/icones/dazn.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"SPORTES",DAZN
+http://dmnet.distv.net:8080/live/alexandro/123456/534.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="http://186.209.160.37:8080/icones/dazn.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"SPORTES",DAZN 3
+http://dmnet.distv.net:8080/live/alexandro/123456/684.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4" tvg-logo="http://186.209.160.37:8080/icones/dazn.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"SPORTES",DAZN 4
+http://dmnet.distv.net:8080/live/alexandro/123456/683.ts
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 5" tvg-logo="http://186.209.160.37:8080/icones/dazn.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"SPORTES",DAZN 5
+http://dmnet.distv.net:8080/live/alexandro/123456/682.ts
+#EXTINF:-1 tvg-id="DISCOVERYCHANNEL" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://186.209.160.37:8080/icones/discoverychannel.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"ENTRETENIMENTO",DISCOVERY CHANNEL
+http://dmnet.distv.net:8080/live/alexandro/123456/602.ts
+#EXTINF:-1 tvg-id="DISCOVERYHH" tvg-name="DISCOVERY H & HEALTH" tvg-logo="http://186.209.160.37:8080/icones/discoveryhomehealth.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"ENTRETENIMENTO",DISCOVERY H & HEALTH
+http://dmnet.distv.net:8080/live/alexandro/123456/603.ts
+#EXTINF:-1 tvg-id="LIV" tvg-name="DISCOVERY ID" tvg-logo="http://186.209.160.37:8080/icones/discoveryid.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"ENTRETENIMENTO",DISCOVERY ID
+http://dmnet.distv.net:8080/live/alexandro/123456/604.ts
+#EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="DISCOVERY KIDS" tvg-logo="http://186.209.160.37:8080/icones/discoverykids.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"KIDS",DISCOVERY KIDS
+http://dmnet.distv.net:8080/live/alexandro/123456/585.ts
+#EXTINF:-1 tvg-id="DISCOVERYSCIENCE" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://186.209.160.37:8080/icones/discoveryscience.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"ENTRETENIMENTO",DISCOVERY SCIENCE
+http://dmnet.distv.net:8080/live/alexandro/123456/605.ts
+#EXTINF:-1 tvg-id="DISCOVERYTHEATERHD" tvg-name="DISCOVERY THEATER" tvg-logo="http://186.209.160.37:8080/icones/discoverytheater.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"ENTRETENIMENTO",DISCOVERY THEATER
+http://dmnet.distv.net:8080/live/alexandro/123456/606.ts
+#EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="DISCOVERY TURBO" tvg-logo="http://186.209.160.37:8080/icones/discoveryturbo.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"ENTRETENIMENTO",DISCOVERY TURBO
+http://dmnet.distv.net:8080/live/alexandro/123456/607.ts
+#EXTINF:-1 tvg-id="DISCOVERYWORLD" tvg-name="DISCOVERY WORLD" tvg-logo="http://186.209.160.37:8080/icones/discoveryworld.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"ENTRETENIMENTO",DISCOVERY WORLD
+http://dmnet.distv.net:8080/live/alexandro/123456/608.ts
+#EXTINF:-1 tvg-id="DISNEYCHANNEL" tvg-name="DISNEY CHANNEL" tvg-logo="http://186.209.160.37:8080/icones/disneychannel.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"KIDS",DISNEY CHANNEL
+http://dmnet.distv.net:8080/live/alexandro/123456/586.ts
+#EXTINF:-1 tvg-id="" tvg-name="DOG TV" tvg-logo="http://186.209.160.37:8080/icones/dogtv.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"ENTRETENIMENTO",DOG TV
+http://dmnet.distv.net:8080/live/alexandro/123456/674.ts
+#EXTINF:-1 tvg-id="E" tvg-name="E!" tvg-logo="http://186.209.160.37:8080/icones/e.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"ENTRETENIMENTO",E!
+http://dmnet.distv.net:8080/live/alexandro/123456/609.ts
+#EXTINF:-1 tvg-id="ESPNBRASIL" tvg-name="ESPN" tvg-logo="http://186.209.160.37:8080/icones/espn.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"SPORTES",ESPN
+http://dmnet.distv.net:8080/live/alexandro/123456/537.ts
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 2" tvg-logo="https://distv.net/icones/espn2.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"SPORTES",ESPN 2
+http://dmnet.distv.net:8080/live/alexandro/123456/535.ts
+#EXTINF:-1 tvg-id="ESPN 2 FHD" tvg-name="ESPN 3" tvg-logo="https://distv.net/icones/espn3.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"SPORTES",ESPN 3
+http://dmnet.distv.net:8080/live/alexandro/123456/536.ts
+#EXTINF:-1 tvg-id="FOXSPORTS" tvg-name="ESPN 4" tvg-logo="https://186.209.160.37:8080/icones/espn4.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"SPORTES",ESPN 4
+http://dmnet.distv.net:8080/live/alexandro/123456/539.ts
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA" tvg-logo="http://186.209.160.37:8080/icones/espnextra.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"SPORTES",ESPN EXTRA
+http://dmnet.distv.net:8080/live/alexandro/123456/538.ts
+#EXTINF:-1 tvg-id="" tvg-name="EURO NEWS" tvg-logo="http://186.209.160.37:8080/icones/euronews.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"NEWS",EURO NEWS
+http://dmnet.distv.net:8080/live/alexandro/123456/435.ts
+#EXTINF:-1 tvg-id="FASHIONTVBRAZIL" tvg-name="FASHIONTV" tvg-logo="http://186.209.160.37:8080/icones/fashiontv.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"ENTRETENIMENTO",FASHIONTV
+http://dmnet.distv.net:8080/live/alexandro/123456/687.ts
+#EXTINF:-1 tvg-id="film-arts" tvg-name="FILM ARTS" tvg-logo="http://186.209.160.37:8080/icones/filmeseartes.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"ENTRETENIMENTO",FILM ARTS
+http://dmnet.distv.net:8080/live/alexandro/123456/610.ts
+#EXTINF:-1 tvg-id="FISHTV" tvg-name="FISHTV" tvg-logo="http://186.209.160.37:8080/icones/fishtv.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"ENTRETENIMENTO",FISHTV
+http://dmnet.distv.net:8080/live/alexandro/123456/672.ts
+#EXTINF:-1 tvg-id="FOODNETWORKHDBRASIL" tvg-name="FOOD NETWORK" tvg-logo="http://186.209.160.37:8080/icones/foodnetwork.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"ENTRETENIMENTO",FOOD NETWORK
+http://dmnet.distv.net:8080/live/alexandro/123456/611.ts
+#EXTINF:-1 tvg-id="FOXSPORTS2" tvg-name="FOX SPORTS 2" tvg-logo="http://186.209.160.37:8080/icones/foxsports2.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"SPORTES",FOX SPORTS 2
+http://dmnet.distv.net:8080/live/alexandro/123456/540.ts
+#EXTINF:-1 tvg-id="FOXNEWS" tvg-name="FOXNEWS" tvg-logo="http://186.209.160.37:8080/icones/foxnews.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"NEWS",FOXNEWS
+http://dmnet.distv.net:8080/live/alexandro/123456/669.ts
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://186.209.160.37:8080/icones/fx.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"FILMES&SERIES",FX
+http://dmnet.distv.net:8080/live/alexandro/123456/639.ts
+#EXTINF:-1 tvg-id="GLOBONEWS" tvg-name="GLOBO NEWS" tvg-logo="http://186.209.160.37:8080/icones/globonews.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"NEWS",GLOBO NEWS
+http://dmnet.distv.net:8080/live/alexandro/123456/627.ts
+#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB" tvg-logo="http://186.209.160.37:8080/icones/gloob.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"KIDS",GLOOB
+http://dmnet.distv.net:8080/live/alexandro/123456/589.ts
+#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO" tvg-logo="http://186.209.160.37:8080/icones/gloobinho.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"KIDS",GLOOBINHO
+http://dmnet.distv.net:8080/live/alexandro/123456/590.ts
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="http://186.209.160.37:8080/icones/gnt.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"ENTRETENIMENTO",GNT
+http://dmnet.distv.net:8080/live/alexandro/123456/612.ts
+#EXTINF:-1 tvg-id="HISTORY2" tvg-name="H2" tvg-logo="http://186.209.160.37:8080/icones/h2.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"ENTRETENIMENTO",H2
+http://dmnet.distv.net:8080/live/alexandro/123456/615.ts
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://186.209.160.37:8080/icones/hbo.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"FILMES&SERIES",HBO
+http://dmnet.distv.net:8080/live/alexandro/123456/640.ts
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="http://186.209.160.37:8080/icones/hbo2.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"FILMES&SERIES",HBO 2
+http://dmnet.distv.net:8080/live/alexandro/123456/641.ts
+#EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="HBO FAMILY" tvg-logo="http://186.209.160.37:8080/icones/hbofamily.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"FILMES&SERIES",HBO FAMILY
+http://dmnet.distv.net:8080/live/alexandro/123456/642.ts
+#EXTINF:-1 tvg-id="HBOMUNDI" tvg-name="HBO MUNDI" tvg-logo="http://186.209.160.37:8080/icones/hbomundi.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"FILMES&SERIES",HBO MUNDI
+http://dmnet.distv.net:8080/live/alexandro/123456/643.ts
+#EXTINF:-1 tvg-id="HBOPLUS" tvg-name="HBO PLUS" tvg-logo="http://186.209.160.37:8080/icones/hboplus.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"FILMES&SERIES",HBO PLUS
+http://dmnet.distv.net:8080/live/alexandro/123456/644.ts
+#EXTINF:-1 tvg-id="HBOPOP" tvg-name="HBO POP" tvg-logo="http://186.209.160.37:8080/icones/hbopop.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"FILMES&SERIES",HBO POP
+http://dmnet.distv.net:8080/live/alexandro/123456/645.ts
+#EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="http://186.209.160.37:8080/icones/hbosignature.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"FILMES&SERIES",HBO SIGNATURE
+http://dmnet.distv.net:8080/live/alexandro/123456/646.ts
+#EXTINF:-1 tvg-id="HBOXTREME" tvg-name="HBO XTREME" tvg-logo="http://186.209.160.37:8080/icones/hboextreme.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"FILMES&SERIES",HBO XTREME
+http://dmnet.distv.net:8080/live/alexandro/123456/647.ts
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="http://186.209.160.37:8080/icones/hgtv.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"ENTRETENIMENTO",HGTV
+http://dmnet.distv.net:8080/live/alexandro/123456/613.ts
+#EXTINF:-1 tvg-id="HISTORYCHANNEL" tvg-name="HISTORY" tvg-logo="http://186.209.160.37:8080/icones/historychannel.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"ENTRETENIMENTO",HISTORY
+http://dmnet.distv.net:8080/live/alexandro/123456/614.ts
+#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS" tvg-logo="https://distv.net/icones/jovempannews.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"NEWS",JOVEM PAN NEWS
+http://dmnet.distv.net:8080/live/alexandro/123456/468.ts
+#EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME" tvg-logo="http://186.209.160.37:8080/icones/lifetime.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"FILMES&SERIES",LIFETIME
+http://dmnet.distv.net:8080/live/alexandro/123456/648.ts
+#EXTINF:-1 tvg-id="" tvg-name="LIKE" tvg-logo="http://186.209.160.37:8080/icones/like.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"FILMES&SERIES",LIKE
+http://dmnet.distv.net:8080/live/alexandro/123456/685.ts
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="http://186.209.160.37:8080/icones/lovenature.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"ENTRETENIMENTO",LOVE NATURE
+http://dmnet.distv.net:8080/live/alexandro/123456/616.ts
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="http://186.209.160.37:8080/icones/megapix.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"FILMES&SERIES",MEGAPIX
+http://dmnet.distv.net:8080/live/alexandro/123456/649.ts
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://186.209.160.37:8080/icones/mtv.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"ENTRETENIMENTO",MTV
+http://dmnet.distv.net:8080/live/alexandro/123456/617.ts
+#EXTINF:-1 tvg-id="MTV LIVE HD [Alter]" tvg-name="MTV LIVE" tvg-logo="http://186.209.160.37:8080/icones/mtvlive.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"ENTRETENIMENTO",MTV LIVE
+http://dmnet.distv.net:8080/live/alexandro/123456/618.ts
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW" tvg-logo="http://186.209.160.37:8080/icones/multishow.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"ENTRETENIMENTO",MULTISHOW
+http://dmnet.distv.net:8080/live/alexandro/123456/619.ts
+#EXTINF:-1 tvg-id="MUSICBOXBRASIL" tvg-name="MUSIC BOX" tvg-logo="http://186.209.160.37:8080/icones/musicboxbrazil.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"ENTRETENIMENTO",MUSIC BOX
+http://dmnet.distv.net:8080/live/alexandro/123456/671.ts
+#EXTINF:-1 tvg-id="NATIONALGEOGRAPHIC" tvg-name="NAT GEO" tvg-logo="http://186.209.160.37:8080/icones/natgeo.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"ENTRETENIMENTO",NAT GEO
+http://dmnet.distv.net:8080/live/alexandro/123456/620.ts
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICK" tvg-logo="http://186.209.160.37:8080/icones/nick.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"KIDS",NICK
+http://dmnet.distv.net:8080/live/alexandro/123456/592.ts
+#EXTINF:-1 tvg-id="NICKJR" tvg-name="NICK JR" tvg-logo="http://186.209.160.37:8080/icones/nickjr.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"KIDS",NICK JR
+http://dmnet.distv.net:8080/live/alexandro/123456/593.ts
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF" tvg-logo="http://186.209.160.37:8080/icones/off.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"ENTRETENIMENTO",OFF
+http://dmnet.distv.net:8080/live/alexandro/123456/622.ts
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT" tvg-logo="http://186.209.160.37:8080/icones/paramount.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"FILMES&SERIES",PARAMOUNT
+http://dmnet.distv.net:8080/live/alexandro/123456/650.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2" tvg-logo="http://186.209.160.37:8080/icones/premiere2.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"SPORTES",PREMIERE 2
+http://dmnet.distv.net:8080/live/alexandro/123456/542.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3" tvg-logo="http://186.209.160.37:8080/icones/premiere3.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"SPORTES",PREMIERE 3
+http://dmnet.distv.net:8080/live/alexandro/123456/543.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4" tvg-logo="http://186.209.160.37:8080/icones/premeire4.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"SPORTES",PREMIERE 4
+http://dmnet.distv.net:8080/live/alexandro/123456/544.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5" tvg-logo="http://186.209.160.37:8080/icones/premeire5.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"SPORTES",PREMIERE 5
+http://dmnet.distv.net:8080/live/alexandro/123456/545.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6" tvg-logo="http://186.209.160.37:8080/icones/premiere6.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"SPORTES",PREMIERE 6
+http://dmnet.distv.net:8080/live/alexandro/123456/546.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7" tvg-logo="http://186.209.160.37:8080/icones/premiere7.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"SPORTES",PREMIERE 7
+http://dmnet.distv.net:8080/live/alexandro/123456/547.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES" tvg-logo="http://186.209.160.37:8080/icones/premiereclubes.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"SPORTES",PREMIERE CLUBES
+http://dmnet.distv.net:8080/live/alexandro/123456/541.ts
+#EXTINF:-1 tvg-id="PRIMEBOXBRAZIL" tvg-name="PRIME BOX" tvg-logo="http://186.209.160.37:8080/icones/primeboxbrazil.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"ENTRETENIMENTO",PRIME BOX
+http://dmnet.distv.net:8080/live/alexandro/123456/670.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS" tvg-logo="http://186.209.160.37:8080/icones/recordnews.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"NEWS",RECORD NEWS
+http://dmnet.distv.net:8080/live/alexandro/123456/496.ts
+#EXTINF:-1 tvg-id="" tvg-name="SMITHSONIAN" tvg-logo="http://186.209.160.37:8080/icones/smithsonian.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"ENTRETENIMENTO",SMITHSONIAN
+http://dmnet.distv.net:8080/live/alexandro/123456/623.ts
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="http://186.209.160.37:8080/icones/space.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"FILMES&SERIES",SPACE
+http://dmnet.distv.net:8080/live/alexandro/123456/651.ts
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV" tvg-logo="http://186.209.160.37:8080/icones/sportv.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"SPORTES",SPORTV
+http://dmnet.distv.net:8080/live/alexandro/123456/548.ts
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2" tvg-logo="http://186.209.160.37:8080/icones/sportv2.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"SPORTES",SPORTV 2
+http://dmnet.distv.net:8080/live/alexandro/123456/549.ts
+#EXTINF:-1 tvg-id="8abe450e58e387ce9181954d2612ca13" tvg-name="SPORTV 3" tvg-logo="http://186.209.160.37:8080/icones/sportv3.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"SPORTES",SPORTV 3
+http://dmnet.distv.net:8080/live/alexandro/123456/550.ts
+#EXTINF:-1 tvg-id="STARCHANNEL" tvg-name="STAR CHANNEL" tvg-logo="http://186.209.160.37:8080/icones/starchannel.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"FILMES&SERIES",STAR CHANNEL
+http://dmnet.distv.net:8080/live/alexandro/123456/675.ts
+#EXTINF:-1 tvg-id="STARLIFE" tvg-name="STAR LIFE" tvg-logo="http://186.209.160.37:8080/icones/starlife.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"FILMES&SERIES",STAR LIFE
+http://dmnet.distv.net:8080/live/alexandro/123456/678.ts
+#EXTINF:-1 tvg-id="STUDIOUNIVERSAL" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://186.209.160.37:8080/icones/studiouniversal.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"FILMES&SERIES",STUDIO UNIVERSAL
+http://dmnet.distv.net:8080/live/alexandro/123456/652.ts
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="http://186.209.160.37:8080/icones/syfy.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"FILMES&SERIES",SYFY
+http://dmnet.distv.net:8080/live/alexandro/123456/653.ts
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://186.209.160.37:8080/icones/tbs.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"FILMES&SERIES",TBS
+http://dmnet.distv.net:8080/live/alexandro/123456/654.ts
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://186.209.160.37:8080/icones/tcm.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"FILMES&SERIES",TCM
+http://dmnet.distv.net:8080/live/alexandro/123456/686.ts
+#EXTINF:-1 tvg-id="TELECINEACTION" tvg-name="TELECINE ACTION" tvg-logo="http://186.209.160.37:8080/icones/tcaction.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"FILMES&SERIES",TELECINE ACTION
+http://dmnet.distv.net:8080/live/alexandro/123456/655.ts
+#EXTINF:-1 tvg-id="TELECINECULT" tvg-name="TELECINE CULT" tvg-logo="http://186.209.160.37:8080/icones/tccult.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"FILMES&SERIES",TELECINE CULT
+http://dmnet.distv.net:8080/live/alexandro/123456/656.ts
+#EXTINF:-1 tvg-id="TELECINEFUN" tvg-name="TELECINE FUN" tvg-logo="http://186.209.160.37:8080/icones/tcfun.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"FILMES&SERIES",TELECINE FUN
+http://dmnet.distv.net:8080/live/alexandro/123456/657.ts
+#EXTINF:-1 tvg-id="TELECINEPIPOCA" tvg-name="TELECINE PIPOCA" tvg-logo="http://186.209.160.37:8080/icones/tcpipoca.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"FILMES&SERIES",TELECINE PIPOCA
+http://dmnet.distv.net:8080/live/alexandro/123456/658.ts
+#EXTINF:-1 tvg-id="TELECINEPREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="http://186.209.160.37:8080/icones/tcpremium.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"FILMES&SERIES",TELECINE PREMIUM
+http://dmnet.distv.net:8080/live/alexandro/123456/659.ts
+#EXTINF:-1 tvg-id="TELECINETOUCH" tvg-name="TELECINE TOUCH" tvg-logo="http://186.209.160.37:8080/icones/tctouch.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"FILMES&SERIES",TELECINE TOUCH
+http://dmnet.distv.net:8080/live/alexandro/123456/660.ts
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://186.209.160.37:8080/icones/tlc.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"FILMES&SERIES",TLC
+http://dmnet.distv.net:8080/live/alexandro/123456/661.ts
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://186.209.160.37:8080/icones/tnt.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"FILMES&SERIES",TNT
+http://dmnet.distv.net:8080/live/alexandro/123456/662.ts
+#EXTINF:-1 tvg-id="TNTSERIES" tvg-name="TNT SERIES" tvg-logo="http://186.209.160.37:8080/icones/tntseries.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"FILMES&SERIES",TNT SERIES
+http://dmnet.distv.net:8080/live/alexandro/123456/663.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="http://186.209.160.37:8080/icones/tntsports.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"SPORTES",TNT SPORTS
+http://dmnet.distv.net:8080/live/alexandro/123456/559.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2" tvg-logo="http://186.209.160.37:8080/icones/tntsports.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"SPORTES",TNT SPORTS 2
+http://dmnet.distv.net:8080/live/alexandro/123456/560.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3" tvg-logo="http://186.209.160.37:8080/icones/tntsports.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"SPORTES",TNT SPORTS 3
+http://dmnet.distv.net:8080/live/alexandro/123456/561.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 4" tvg-logo="http://186.209.160.37:8080/icones/tntsports.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"SPORTES",TNT SPORTS 4
+http://dmnet.distv.net:8080/live/alexandro/123456/562.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 5" tvg-logo="http://186.209.160.37:8080/icones/tntsports.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"SPORTES",TNT SPORTS 5
+http://dmnet.distv.net:8080/live/alexandro/123456/680.ts
+#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="http://186.209.160.37:8080/icones/tooncast.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"KIDS",TOONCAST
+http://dmnet.distv.net:8080/live/alexandro/123456/594.ts
+#EXTINF:-1 tvg-id="TRAVELBOXBRAZIL" tvg-name="TRAVELBOX BRAZIL" tvg-logo="http://186.209.160.37:8080/icones/travelboxbrazil.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"ENTRETENIMENTO",TRAVELBOX BRAZIL
+http://dmnet.distv.net:8080/live/alexandro/123456/673.ts
+#EXTINF:-1 tvg-id="TRUTV" tvg-name="TRUETV" tvg-logo="http://186.209.160.37:8080/icones/trutv.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"ENTRETENIMENTO",TRUETV
+http://dmnet.distv.net:8080/live/alexandro/123456/667.ts
+#EXTINF:-1 tvg-id="TVRTIMBUM" tvg-name="TV RA TIM BUM" tvg-logo="http://186.209.160.37:8080/icones/tvratimbum.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"KIDS",TV RA TIM BUM
+http://dmnet.distv.net:8080/live/alexandro/123456/595.ts
+#EXTINF:-1 tvg-id="UNIVERSAL" tvg-name="UNIVERSAL TV" tvg-logo="http://186.209.160.37:8080/icones/universalchannel.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"FILMES&SERIES",UNIVERSAL TV
+http://dmnet.distv.net:8080/live/alexandro/123456/664.ts
+#EXTINF:-1 tvg-id="VH1MEGAHITSBRAZIL" tvg-name="VH1 MEGA HITS" tvg-logo="http://186.209.160.37:8080/icones/vh1megahits.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"ENTRETENIMENTO",VH1 MEGA HITS
+http://dmnet.distv.net:8080/live/alexandro/123456/624.ts
+#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA" tvg-logo="http://186.209.160.37:8080/icones/viva.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"ENTRETENIMENTO",VIVA
+http://dmnet.distv.net:8080/live/alexandro/123456/625.ts
+#EXTINF:-1 tvg-id="WARNER" tvg-name="WARNER CHANNEL" tvg-logo="http://186.209.160.37:8080/icones/warnerchannel.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"FILMES&SERIES",WARNER CHANNEL
+http://dmnet.distv.net:8080/live/alexandro/123456/665.ts
+#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="http://186.209.160.37:8080/icones/woohoo.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"ENTRETENIMENTO",WOOHOO
+http://dmnet.distv.net:8080/live/alexandro/123456/679.ts
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO" tvg-logo="http://186.209.160.37:8080/icones/zoomoo.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"KIDS",ZOOMOO
+http://dmnet.distv.net:8080/live/alexandro/123456/596.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT" tvg-logo="http://186.209.160.37:8080/icones/maisglobosat.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"ENTRETENIMENTO",MAIS GLOBOSAT
+http://dmnet.distv.net:8080/live/alexandro/123456/628.ts
+#EXTINF:-1 tvg-id="" tvg-name="FAZENDA CAM 5" tvg-logo="http://186.209.160.37:8080/icones/afazenda.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"AFAZENDA",FAZENDA CAM 5
+http://dmnet.distv.net:8080/live/alexandro/123456/581.ts
+#EXTINF:-1 tvg-id="" tvg-name="FAZENDA CAM 4" tvg-logo="http://186.209.160.37:8080/icones/afazenda.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"AFAZENDA",FAZENDA CAM 4
+http://dmnet.distv.net:8080/live/alexandro/123456/580.ts
+#EXTINF:-1 tvg-id="" tvg-name="FAZENDA CAM 3" tvg-logo="http://186.209.160.37:8080/icones/afazenda.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"AFAZENDA",FAZENDA CAM 3
+http://dmnet.distv.net:8080/live/alexandro/123456/579.ts
+#EXTINF:-1 tvg-id="" tvg-name="FAZENDA CAM 2" tvg-logo="http://186.209.160.37:8080/icones/afazenda.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"AFAZENDA",FAZENDA CAM 2
+http://dmnet.distv.net:8080/live/alexandro/123456/578.ts
+#EXTINF:-1 tvg-id="" tvg-name="FAZENDA CAM 1" tvg-logo="http://186.209.160.37:8080/icones/afazenda.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"AFAZENDA",FAZENDA CAM 1
+http://dmnet.distv.net:8080/live/alexandro/123456/577.ts
+#EXTINF:-1 tvg-id="" tvg-name="AGRO BRASIL" tvg-logo="http://186.209.160.37:8080/icones/agrobrasil.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PARABOLICA",AGRO BRASIL
+http://dmnet.distv.net:8080/live/alexandro/123456/427.ts
+#EXTINF:-1 tvg-id="" tvg-name="AGRO CANAL" tvg-logo="http://186.209.160.37:8080/icones/agrocanal.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PARABOLICA",AGRO CANAL
+http://dmnet.distv.net:8080/live/alexandro/123456/428.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAND CARIRI" tvg-logo="http://186.209.160.37:8080/icones/band.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"CEARA",BAND CARIRI
+http://dmnet.distv.net:8080/live/alexandro/123456/402.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAND RN" tvg-logo="http://186.209.160.37:8080/icones/band.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"RIO-GRANDE-NORTE",BAND RN
+http://dmnet.distv.net:8080/live/alexandro/123456/381.ts
+#EXTINF:-1 tvg-id="" tvg-name="BAND SAT" tvg-logo="http://186.209.160.37:8080/icones/band.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PARABOLICA",BAND SAT
+http://dmnet.distv.net:8080/live/alexandro/123456/502.ts
+#EXTINF:-1 tvg-id="" tvg-name="CABUGI(GLOBO)" tvg-logo="http://186.209.160.37:8080/icones/globo.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"RIO-GRANDE-NORTE",CABUGI(GLOBO)
+http://dmnet.distv.net:8080/live/alexandro/123456/382.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI" tvg-logo="http://186.209.160.37:8080/icones/canaldoboi.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PARABOLICA",CANAL DO BOI
+http://dmnet.distv.net:8080/live/alexandro/123456/431.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL" tvg-logo="http://186.209.160.37:8080/icones/canalrural.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PARABOLICA",CANAL RURAL
+http://dmnet.distv.net:8080/live/alexandro/123456/433.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SAUDE" tvg-logo="http://186.209.160.37:8080/icones/canalsaude.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PARABOLICA",CANAL SAUDE
+http://dmnet.distv.net:8080/live/alexandro/123456/452.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANCAO NOVA" tvg-logo="http://186.209.160.37:8080/icones/cancaonovoceara.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PARABOLICA",CANCAO NOVA
+http://dmnet.distv.net:8080/live/alexandro/123456/364.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE BRASIL" tvg-logo="http://186.209.160.37:8080/icones/cinebrasiltv.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PARABOLICA",CINE BRASIL
+http://dmnet.distv.net:8080/live/alexandro/123456/434.ts
+#EXTINF:-1 tvg-id="" tvg-name="EDUCACAO" tvg-logo="http://186.209.160.37:8080/icones/educacao.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PARABOLICA",EDUCACAO
+http://dmnet.distv.net:8080/live/alexandro/123456/453.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA" tvg-logo="http://186.209.160.37:8080/icones/globo.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"GLOBOS&RECORD",GLOBO BRASILIA
+http://dmnet.distv.net:8080/live/alexandro/123456/475.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO FLORIANOPOLIS" tvg-logo="http://186.209.160.37:8080/icones/globo.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"GLOBOS&RECORD",GLOBO FLORIANOPOLIS
+http://dmnet.distv.net:8080/live/alexandro/123456/476.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS" tvg-logo="http://186.209.160.37:8080/icones/globominas.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"GLOBOS&RECORD",GLOBO MINAS
+http://dmnet.distv.net:8080/live/alexandro/123456/477.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NATAL" tvg-logo="http://186.209.160.37:8080/icones/globo.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"GLOBOS&RECORD",GLOBO NATAL
+http://dmnet.distv.net:8080/live/alexandro/123456/478.ts
+#EXTINF:-1 tvg-id="Globo Nordeste HD" tvg-name="GLOBO NORDESTE" tvg-logo="http://186.209.160.37:8080/icones/globonordeste.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"GLOBOS&RECORD",GLOBO NORDESTE
+http://dmnet.distv.net:8080/live/alexandro/123456/479.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO REDE AMAZONICA" tvg-logo="http://186.209.160.37:8080/icones/globo.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"GLOBOS&RECORD",GLOBO REDE AMAZONICA
+http://dmnet.distv.net:8080/live/alexandro/123456/482.ts
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO RIO" tvg-logo="http://186.209.160.37:8080/icones/globorj.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"GLOBOS&RECORD",GLOBO RIO
+http://dmnet.distv.net:8080/live/alexandro/123456/480.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO GRANDE DO SUL" tvg-logo="http://186.209.160.37:8080/icones/globo.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"GLOBOS&RECORD",GLOBO RIO GRANDE DO SUL
+http://dmnet.distv.net:8080/live/alexandro/123456/481.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CURITIBA" tvg-logo="http://186.209.160.37:8080/icones/globo.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"GLOBOS&RECORD",GLOBO RPC CURITIBA
+http://dmnet.distv.net:8080/live/alexandro/123456/483.ts
+#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="GLOBO SP" tvg-logo="http://186.209.160.37:8080/icones/globo.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"GLOBOS&RECORD",GLOBO SP
+http://dmnet.distv.net:8080/live/alexandro/123456/484.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA GOIANIA" tvg-logo="http://186.209.160.37:8080/icones/globo.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"GLOBOS&RECORD",GLOBO TV ANHANGUERA GOIANIA
+http://dmnet.distv.net:8080/live/alexandro/123456/485.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BAHIA" tvg-logo="http://186.209.160.37:8080/icones/globo.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"GLOBOS&RECORD",GLOBO TV BAHIA
+http://dmnet.distv.net:8080/live/alexandro/123456/486.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV LIBERAL BELEM" tvg-logo="http://186.209.160.37:8080/icones/globo.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"GLOBOS&RECORD",GLOBO TV LIBERAL BELEM
+http://dmnet.distv.net:8080/live/alexandro/123456/487.ts
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE" tvg-logo="http://186.209.160.37:8080/icones/globotvmirante.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"GLOBOS&RECORD",GLOBO TV MIRANTE
+http://dmnet.distv.net:8080/live/alexandro/123456/488.ts
+#EXTINF:-1 tvg-id="" tvg-name="ID TV" tvg-logo="http://186.209.160.37:8080/icones/idealtv.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PARABOLICA",ID TV
+http://dmnet.distv.net:8080/live/alexandro/123456/365.ts
+#EXTINF:-1 tvg-id="" tvg-name="INTERTV GRANDE MINAS" tvg-logo="http://186.209.160.37:8080/icones/globominas.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PARABOLICA",INTERTV GRANDE MINAS
+http://dmnet.distv.net:8080/live/alexandro/123456/455.ts
+#EXTINF:-1 tvg-id="" tvg-name="POLISHOP" tvg-logo="http://186.209.160.37:8080/icones/polishop.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PARABOLICA",POLISHOP
+http://dmnet.distv.net:8080/live/alexandro/123456/439.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA" tvg-logo="http://186.209.160.37:8080/icones/record.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"GLOBOS&RECORD",RECORD BAHIA
+http://dmnet.distv.net:8080/live/alexandro/123456/490.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BELEM" tvg-logo="http://186.209.160.37:8080/icones/record.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"GLOBOS&RECORD",RECORD BELEM
+http://dmnet.distv.net:8080/live/alexandro/123456/491.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BRASILIA" tvg-logo="http://186.209.160.37:8080/icones/record.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"GLOBOS&RECORD",RECORD BRASILIA
+http://dmnet.distv.net:8080/live/alexandro/123456/492.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD FEIRA SANTA" tvg-logo="http://186.209.160.37:8080/icones/record.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"BAHIA",RECORD FEIRA SANTA
+http://dmnet.distv.net:8080/live/alexandro/123456/390.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD GOIAS" tvg-logo="http://186.209.160.37:8080/icones/record.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"GLOBOS&RECORD",RECORD GOIAS
+http://dmnet.distv.net:8080/live/alexandro/123456/493.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MANAUS" tvg-logo="http://186.209.160.37:8080/icones/record.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"GLOBOS&RECORD",RECORD MANAUS
+http://dmnet.distv.net:8080/live/alexandro/123456/494.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MINAS" tvg-logo="http://186.209.160.37:8080/icones/record.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"GLOBOS&RECORD",RECORD MINAS
+http://dmnet.distv.net:8080/live/alexandro/123456/495.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO" tvg-logo="http://186.209.160.37:8080/icones/record.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"GLOBOS&RECORD",RECORD RIO
+http://dmnet.distv.net:8080/live/alexandro/123456/497.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RS" tvg-logo="http://186.209.160.37:8080/icones/record.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"GLOBOS&RECORD",RECORD RS
+http://dmnet.distv.net:8080/live/alexandro/123456/498.ts
+#EXTINF:-1 tvg-id="" tvg-name="RECORD SP" tvg-logo="http://186.209.160.37:8080/icones/reordtvsp.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"GLOBOS&RECORD",RECORD SP
+http://dmnet.distv.net:8080/live/alexandro/123456/499.ts
+#EXTINF:-1 tvg-id="" tvg-name="REDE CNT" tvg-logo="http://186.209.160.37:8080/icones/redecnt.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PARABOLICA",REDE CNT
+http://dmnet.distv.net:8080/live/alexandro/123456/380.ts
+#EXTINF:-1 tvg-id="" tvg-name="REDE FAMILIA" tvg-logo="http://186.209.160.37:8080/icones/redefamilia.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PARABOLICA",REDE FAMILIA
+http://dmnet.distv.net:8080/live/alexandro/123456/440.ts
+#EXTINF:-1 tvg-id="" tvg-name="REDE GENESIS" tvg-logo="http://186.209.160.37:8080/icones/redegenesis.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PARABOLICA",REDE GENESIS
+http://dmnet.distv.net:8080/live/alexandro/123456/441.ts
+#EXTINF:-1 tvg-id="" tvg-name="REDE GOSPEL" tvg-logo="http://186.209.160.37:8080/icones/redegospel.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PARABOLICA",REDE GOSPEL
+http://dmnet.distv.net:8080/live/alexandro/123456/442.ts
+#EXTINF:-1 tvg-id="" tvg-name="REDE SECULO21" tvg-logo="http://186.209.160.37:8080/icones/redeseculo.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PARABOLICA",REDE SECULO21
+http://dmnet.distv.net:8080/live/alexandro/123456/444.ts
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV" tvg-logo="http://186.209.160.37:8080/icones/redetv.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PARABOLICA",REDE TV
+http://dmnet.distv.net:8080/live/alexandro/123456/392.ts
+#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA" tvg-logo="http://186.209.160.37:8080/icones/redevida.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PARABOLICA",REDE VIDA
+http://dmnet.distv.net:8080/live/alexandro/123456/418.ts
+#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="http://186.209.160.37:8080/icones/sbt.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PARABOLICA",SBT
+http://dmnet.distv.net:8080/live/alexandro/123456/384.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA" tvg-logo="http://186.209.160.37:8080/icones/tvaparecida.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PARABOLICA",TV APARECIDA
+http://dmnet.distv.net:8080/live/alexandro/123456/425.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV ARAPUAN REDE TV" tvg-logo="http://186.209.160.37:8080/icones/tvarapuaredev.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PARAIBA",TV ARAPUAN REDE TV
+http://dmnet.distv.net:8080/live/alexandro/123456/369.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV ASA BRANCA" tvg-logo="http://186.209.160.37:8080/icones/globo.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"GLOBOS&RECORD",TV ASA BRANCA
+http://dmnet.distv.net:8080/live/alexandro/123456/471.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL 2" tvg-logo="http://186.209.160.37:8080/icones/tvbrasil.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PARABOLICA",TV BRASIL 2
+http://dmnet.distv.net:8080/live/alexandro/123456/447.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV CABO BRANCO GLOBO" tvg-logo="http://186.209.160.37:8080/icones/tvcabobranco.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PARAIBA",TV CABO BRANCO GLOBO
+http://dmnet.distv.net:8080/live/alexandro/123456/370.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV CAFE COM LEITE" tvg-logo="http://186.209.160.37:8080/icones/tvcafecomleite.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"CEARA",TV CAFE COM LEITE
+http://dmnet.distv.net:8080/live/alexandro/123456/404.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV CAMARA" tvg-logo="http://186.209.160.37:8080/icones/tvcamara.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PARABOLICA",TV CAMARA
+http://dmnet.distv.net:8080/live/alexandro/123456/347.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV CIDADE" tvg-logo="http://186.209.160.37:8080/icones/tvcidade.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"CEARA",TV CIDADE
+http://dmnet.distv.net:8080/live/alexandro/123456/403.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV CORREIO RECORD TV" tvg-logo="http://186.209.160.37:8080/icones/tvcorreio.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PARAIBA",TV CORREIO RECORD TV
+http://dmnet.distv.net:8080/live/alexandro/123456/372.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO" tvg-logo="http://186.209.160.37:8080/icones/tvdiario.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"CEARA",TV DIARIO
+http://dmnet.distv.net:8080/live/alexandro/123456/395.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV ESCOLA" tvg-logo="http://186.209.160.37:8080/icones/tvescola.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PARABOLICA",TV ESCOLA
+http://dmnet.distv.net:8080/live/alexandro/123456/355.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV FUTURA" tvg-logo="http://186.209.160.37:8080/icones/futura.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"CEARA",TV FUTURA
+http://dmnet.distv.net:8080/live/alexandro/123456/396.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA ALAGOAS" tvg-logo="http://186.209.160.37:8080/icones/globo.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"GLOBOS&RECORD",TV GAZETA ALAGOAS
+http://dmnet.distv.net:8080/live/alexandro/123456/472.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV GAZETA VITORIA ES" tvg-logo="http://186.209.160.37:8080/icones/globo.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"GLOBOS&RECORD",TV GAZETA VITORIA ES
+http://dmnet.distv.net:8080/live/alexandro/123456/473.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV GUARARAPES" tvg-logo="http://186.209.160.37:8080/icones/tvguararapes.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PERNAMBUCO",TV GUARARAPES
+http://dmnet.distv.net:8080/live/alexandro/123456/356.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV JANGADEIRO" tvg-logo="http://186.209.160.37:8080/icones/tvjangadeiro.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"CEARA",TV JANGADEIRO
+http://dmnet.distv.net:8080/live/alexandro/123456/405.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV JORNAL(SBT)" tvg-logo="http://186.209.160.37:8080/icones/tvjornal.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PERNAMBUCO",TV JORNAL(SBT)
+http://dmnet.distv.net:8080/live/alexandro/123456/344.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV MANAIRA BAND" tvg-logo="http://186.209.160.37:8080/icones/tvmanairaband.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PARAIBA",TV MANAIRA BAND
+http://dmnet.distv.net:8080/live/alexandro/123456/373.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV MIRAMAR TV CULTURA" tvg-logo="http://186.209.160.37:8080/icones/tvmiramar.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PARAIBA",TV MIRAMAR TV CULTURA
+http://dmnet.distv.net:8080/live/alexandro/123456/374.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV MORENA" tvg-logo="http://186.209.160.37:8080/icones/globotvmorena.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"GLOBOS&RECORD",TV MORENA
+http://dmnet.distv.net:8080/live/alexandro/123456/474.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVA NORDESTE" tvg-logo="http://186.209.160.37:8080/icones/novanordeste.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PERNAMBUCO",TV NOVA NORDESTE
+http://dmnet.distv.net:8080/live/alexandro/123456/349.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO" tvg-logo="http://186.209.160.37:8080/icones/novotempo.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PARABOLICA",TV NOVO TEMPO
+http://dmnet.distv.net:8080/live/alexandro/123456/375.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV PARAIBA EDUCA" tvg-logo="http://186.209.160.37:8080/icones/tveducativa.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PARAIBA",TV PARAIBA EDUCA
+http://dmnet.distv.net:8080/live/alexandro/123456/376.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV SANTA CRUZ (GLOBO)" tvg-logo="http://186.209.160.37:8080/icones/tvsantacruz.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PARABOLICA",TV SANTA CRUZ (GLOBO)
+http://dmnet.distv.net:8080/live/alexandro/123456/457.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV SUBAE(GLOBO)" tvg-logo="http://186.209.160.37:8080/icones/redeglobobahia.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PARABOLICA",TV SUBAE(GLOBO)
+http://dmnet.distv.net:8080/live/alexandro/123456/458.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV TAMBAU SBT" tvg-logo="http://186.209.160.37:8080/icones/tvtambau.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PARAIBA",TV TAMBAU SBT
+http://dmnet.distv.net:8080/live/alexandro/123456/377.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV TRIBUNA(BAND)" tvg-logo="http://186.209.160.37:8080/icones/tvtribuna.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PERNAMBUCO",TV TRIBUNA(BAND)
+http://dmnet.distv.net:8080/live/alexandro/123456/345.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV TROPICAL (RECORD TV)" tvg-logo="http://186.209.160.37:8080/icones/tvtropical.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"RIO-GRANDE-NORTE",TV TROPICAL (RECORD TV)
+http://dmnet.distv.net:8080/live/alexandro/123456/386.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV UFPB TV BRASIL" tvg-logo="http://186.209.160.37:8080/icones/tvbrasil.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PARAIBA",TV UFPB TV BRASIL
+http://dmnet.distv.net:8080/live/alexandro/123456/378.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV VERDADE" tvg-logo="http://186.209.160.37:8080/icones/tvverdade.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PARABOLICA",TV VERDADE
+http://dmnet.distv.net:8080/live/alexandro/123456/426.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV VERDE MARES" tvg-logo="http://186.209.160.37:8080/icones/globotvverdesmares.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"CEARA",TV VERDE MARES
+http://dmnet.distv.net:8080/live/alexandro/123456/407.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV VERDE VALE" tvg-logo="http://186.209.160.37:8080/icones/tvverdevale.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"CEARA",TV VERDE VALE
+http://dmnet.distv.net:8080/live/alexandro/123456/406.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVPE ( TV BRASIL)" tvg-logo="http://186.209.160.37:8080/icones/tveducativa.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"PERNAMBUCO",TVPE ( TV BRASIL)
+http://dmnet.distv.net:8080/live/alexandro/123456/353.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVU CEARA" tvg-logo="http://186.209.160.37:8080/icones/tvuniversitaria.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]FILMES&SERIES"CEARA",TVU CEARA
+http://dmnet.distv.net:8080/live/alexandro/123456/401.ts
