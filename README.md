@@ -1,923 +1,919 @@
 #EXTM3U
-#EXTINF:-1,3 PALAVRINHAS HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/723
-#EXTINF:-1,A CASA DO MICKEY MOUSE HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/724
-#EXTINF:-1,A GRANDE CONQUISTA 01 SALA
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/788
-#EXTINF:-1,A GRANDE CONQUISTA 02 QUARTO
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/789
-#EXTINF:-1,A GRANDE CONQUISTA 03 COZINHA
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/790
-#EXTINF:-1,A GRANDE CONQUISTA 04 BANHEIRO
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/791
-#EXTINF:-1,A&E HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/458
-#EXTINF:-1,A&E UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/300
-#EXTINF:-1,ACAO UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/721
-#EXTINF:-1,AGRO MAIS UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/547
-#EXTINF:-1,AMAZON ESPORTES 1
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/784
-#EXTINF:-1,AMAZON ESPORTES 2
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/785
-#EXTINF:-1,AMAZON ESPORTES 3
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/786
-#EXTINF:-1,AMAZON ESPORTES 4
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/787
-#EXTINF:-1,AMC HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/301
-#EXTINF:-1,AMC UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/425
-#EXTINF:-1,ANIMACAO UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/720
-#EXTINF:-1,ANIMAL PLANET 4K
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/522
-#EXTINF:-1,ANIMAL PLANET HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/302
-#EXTINF:-1,ANIMAL PLANET LT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/686
-#EXTINF:-1,ANIMAL PLANET UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/436
-#EXTINF:-1,ARTE 1 HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/303
-#EXTINF:-1,ARTE 1 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/426
-#EXTINF:-1,AS AVENTURAS DO BATMAN HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/725
-#EXTINF:-1,AXN HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/304
-#EXTINF:-1,AXN UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/427
-#EXTINF:-1,BABY TV PT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/669
-#EXTINF:-1,BAND 4K
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/538
-#EXTINF:-1,BAND HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/305
-#EXTINF:-1,BAND MINAS UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/726
-#EXTINF:-1,BAND NEWS 4K
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/537
-#EXTINF:-1,BAND NEWS HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/308
-#EXTINF:-1,BAND NEWS UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/307
-#EXTINF:-1,BAND NORDESTE UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/727
-#EXTINF:-1,BAND SP HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/613
-#EXTINF:-1,BAND SPORTS HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/310
-#EXTINF:-1,BAND SPORTS UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/309
-#EXTINF:-1,BAND UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/306
-#EXTINF:-1,beIN SPORTS 1
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/597
-#EXTINF:-1,beIN SPORTS 2
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/598
-#EXTINF:-1,beIN SPORTS 3
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/599
-#EXTINF:-1,beIN SPORTS 4
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/600
-#EXTINF:-1,beIN SPORTS 5
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/601
-#EXTINF:-1,beIN SPORTS 6
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/602
-#EXTINF:-1,beIN SPORTS 7
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/603
-#EXTINF:-1,beIN SPORTS PREMIUM 1
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/604
-#EXTINF:-1,beIN SPORTS PREMIUM 2
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/605
-#EXTINF:-1,beIN SPORTS PREMIUM 3
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/606
-#EXTINF:-1,BIS UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/452
-#EXTINF:-1,BOB ESPONJA HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/729
-#EXTINF:-1,BOOMERANG LT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/687
-#EXTINF:-1,CAMPEONATO CARIOCA 01
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/617
-#EXTINF:-1,CAMPEONATO CARIOCA 02
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/618
-#EXTINF:-1,CAMPEONATO CARIOCA 3 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/728
-#EXTINF:-1,CANAL BRASIL UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/543
-#EXTINF:-1,CANAL DO BOI HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/552
-#EXTINF:-1,CANAL PANDA PT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/675
-#EXTINF:-1,CANCAO NOVA HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/699
-#EXTINF:-1,CANCAO NOVA UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/698
-#EXTINF:-1,CARTOON NETWORK HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/252
-#EXTINF:-1,CARTOON NETWORK LT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/688
-#EXTINF:-1,CARTOON NETWORK PT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/674
-#EXTINF:-1,CARTOON NETWORK UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/251
-#EXTINF:-1,CARTOONITO 4K
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/530
-#EXTINF:-1,CARTOONITO HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/281
-#EXTINF:-1,CARTOONITO UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/280
-#EXTINF:-1,CHAVES UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/712
-#EXTINF:-1,CINEMAX HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/311
-#EXTINF:-1,CINEMAX UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/312
-#EXTINF:-1,CNN BRASIL 4K
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/518
-#EXTINF:-1,CNN BRASIL HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/313
-#EXTINF:-1,CNN ESPANHOL HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/315
-#EXTINF:-1,CNT HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/730
-#EXTINF:-1,COMBATE 4K
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/502
-#EXTINF:-1,COMBATE HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/283
-#EXTINF:-1,COMBATE UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/282
-#EXTINF:-1,COMEDIA UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/719
-#EXTINF:-1,COMEDY CENTRAL 4k
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/513
-#EXTINF:-1,COMEDY CENTRAL UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/446
-#EXTINF:-1,COPA DO BRASIL 1
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/614
-#EXTINF:-1,COPA DO BRASIL 2
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/615
-#EXTINF:-1,CURTA! 4K
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/539
-#EXTINF:-1,CURTA! HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/316
-#EXTINF:-1,CURTA! UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/317
-#EXTINF:-1,DAZN 1 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/459
-#EXTINF:-1,DAZN 2 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/460
-#EXTINF:-1,DAZN 3 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/461
-#EXTINF:-1,DAZN 4 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/462
-#EXTINF:-1,DISCOVERY CHANNEL 4K
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/521
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/318
-#EXTINF:-1,DISCOVERY CHANNEL LT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/689
-#EXTINF:-1,DISCOVERY CHANNEL PT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/673
-#EXTINF:-1,DISCOVERY CHANNEL UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/319
-#EXTINF:-1,DISCOVERY CIVILIZATION LT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/690
-#EXTINF:-1,DISCOVERY H&H 4K
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/523
-#EXTINF:-1,DISCOVERY H&H HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/320
-#EXTINF:-1,DISCOVERY H&H UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/432
-#EXTINF:-1,DISCOVERY HOME&HEALTH LT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/676
-#EXTINF:-1,DISCOVERY ID HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/369
-#EXTINF:-1,DISCOVERY ID LT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/691
-#EXTINF:-1,DISCOVERY ID PT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/672
-#EXTINF:-1,DISCOVERY ID UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/370
-#EXTINF:-1,DISCOVERY KIDS HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/255
-#EXTINF:-1,DISCOVERY KIDS UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/254
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/321
-#EXTINF:-1,DISCOVERY SCIENCE UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/435
-#EXTINF:-1,DISCOVERY SHOWCASE PT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/671
-#EXTINF:-1,DISCOVERY TEATHER LT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/692
-#EXTINF:-1,DISCOVERY THEATER HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/322
-#EXTINF:-1,DISCOVERY THEATER UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/323
-#EXTINF:-1,DISCOVERY TLC LT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/693
-#EXTINF:-1,DISCOVERY TURBO 4K
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/520
-#EXTINF:-1,DISCOVERY TURBO HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/324
-#EXTINF:-1,DISCOVERY TURBO LT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/694
-#EXTINF:-1,DISCOVERY TURBO UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/433
-#EXTINF:-1,DISCOVERY WORLD HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/325
-#EXTINF:-1,DISCOVERY WORLD LT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/685
-#EXTINF:-1,DISCOVERY WORLD UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/434
-#EXTINF:-1,DISNEY CHANNEL HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/257
-#EXTINF:-1,DISNEY CHANNEL LT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/684
-#EXTINF:-1,DISNEY CHANNEL PT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/670
-#EXTINF:-1,DISNEY CHANNEL UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/256
-#EXTINF:-1,DISNEY CLASSICO 01 HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/258
-#EXTINF:-1,DISNEY CLASSICO 02 HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/259
-#EXTINF:-1,DOG TV UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/549
-#EXTINF:-1,DOIS HOMENS E MEIO UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/711
-#EXTINF:-1,DRAMA UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/722
-#EXTINF:-1,E! 4K
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/515
-#EXTINF:-1,E! HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/326
-#EXTINF:-1,E! UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/327
-#EXTINF:-1,ELEVEN  5 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/574
-#EXTINF:-1,ELEVEN  7 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/572
-#EXTINF:-1,ELEVEN  8 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/571
-#EXTINF:-1,ELEVEN  9 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/570
-#EXTINF:-1,ELEVEN 1 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/578
-#EXTINF:-1,ELEVEN 2 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/577
-#EXTINF:-1,ELEVEN 3 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/576
-#EXTINF:-1,ELEVEN 4 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/575
-#EXTINF:-1,ELEVEN 6 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/573
-#EXTINF:-1,EM BUSCA DO VALE ENCANTADO HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/731
-#EXTINF:-1,EPTV CAMPINAS UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/632
-#EXTINF:-1,ESPN  HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/334
-#EXTINF:-1,ESPN  UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/335
-#EXTINF:-1,ESPN 2 HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/330
-#EXTINF:-1,ESPN 2 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/331
-#EXTINF:-1,ESPN 3 HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/328
-#EXTINF:-1,ESPN 3 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/329
-#EXTINF:-1,ESPN 4 4k
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/504
-#EXTINF:-1,ESPN 4 HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/344
-#EXTINF:-1,ESPN 4 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/345
-#EXTINF:-1,ESPN EXTRA HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/332
-#EXTINF:-1,ESPN EXTRA UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/333
-#EXTINF:-1,EUROSPORT 1 HD PT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/668
-#EXTINF:-1,EUROSPORT HD PT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/667
-#EXTINF:-1,FASHION TV HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/550
-#EXTINF:-1,FEC BEN 10
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/590
-#EXTINF:-1,FEC CAVALEIROS DO ZODIACO 
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/591
-#EXTINF:-1,FEC CAVERNA DO DRAGÃO
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/592
-#EXTINF:-1,FEC GALINHA PINTADINHA 
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/593
-#EXTINF:-1,FEC MENINAS SUPERPODEROSAS 
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/596
-#EXTINF:-1,FEC PIPOCA 1
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/556
-#EXTINF:-1,FEC PIPOCA 10 
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/565
-#EXTINF:-1,FEC PIPOCA 11 
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/566
-#EXTINF:-1,FEC PIPOCA 12 
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/567
-#EXTINF:-1,FEC PIPOCA 13 
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/568
-#EXTINF:-1,FEC PIPOCA 14 
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/569
-#EXTINF:-1,FEC PIPOCA 2 
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/557
-#EXTINF:-1,FEC PIPOCA 3 
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/558
-#EXTINF:-1,FEC PIPOCA 4 
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/559
-#EXTINF:-1,FEC PIPOCA 5 
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/560
-#EXTINF:-1,FEC PIPOCA 6 
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/561
-#EXTINF:-1,FEC PIPOCA 7 
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/562
-#EXTINF:-1,FEC PIPOCA 8 
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/563
-#EXTINF:-1,FEC PIPOCA 9 
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/564
-#EXTINF:-1,FEC TIMÃO E PUMBA 
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/595
-#EXTINF:-1,FILM & ARTS HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/492
-#EXTINF:-1,FILM & ARTS UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/336
-#EXTINF:-1,FISH TV HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/337
-#EXTINF:-1,FISH TV UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/437
-#EXTINF:-1,FOOD NETWORK HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/732
-#EXTINF:-1,FOOD NETWORK UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/338
-#EXTINF:-1,FORMIGA ATOMICA HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/733
-#EXTINF:-1,FOX SPORTS 2 HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/342
-#EXTINF:-1,FOX SPORTS 2 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/343
-#EXTINF:-1,FREAKAZOID HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/734
-#EXTINF:-1,FUTURA HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/346
-#EXTINF:-1,FUTURA UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/347
-#EXTINF:-1,FX HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/484
-#EXTINF:-1,FX UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/348
-#EXTINF:-1,GLOBO BRASILIA 4k
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/509
-#EXTINF:-1,GLOBO BRASILIA HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/290
-#EXTINF:-1,GLOBO BRASILIA UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/289
-#EXTINF:-1,GLOBO MINAS 4k
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/507
-#EXTINF:-1,GLOBO MINAS HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/293
-#EXTINF:-1,GLOBO MINAS UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/284
-#EXTINF:-1,GLOBO NEWS 4K
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/519
-#EXTINF:-1,GLOBO NEWS DF UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/735
-#EXTINF:-1,GLOBO NEWS HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/295
-#EXTINF:-1,GLOBO NEWS SP UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/709
-#EXTINF:-1,GLOBO NEWS UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/285
-#EXTINF:-1,GLOBO NORDESTE HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/291
-#EXTINF:-1,GLOBO NORDESTE UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/287
-#EXTINF:-1,GLOBO PREMIUM PT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/666
-#EXTINF:-1,GLOBO RBS PORTO ALEGRE 4K
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/616
-#EXTINF:-1,GLOBO RJ 4k
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/508
-#EXTINF:-1,GLOBO RJ HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/292
-#EXTINF:-1,GLOBO RJ UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/286
-#EXTINF:-1,GLOBO RPC CURITIBA UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/620
-#EXTINF:-1,GLOBO SANTOS UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/625
-#EXTINF:-1,GLOBO SP 4k
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/506
-#EXTINF:-1,GLOBO SP HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/294
-#EXTINF:-1,GLOBO SP UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/288
-#EXTINF:-1,GLOOB 4K
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/526
-#EXTINF:-1,GLOOB HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/265
-#EXTINF:-1,GLOOB UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/264
-#EXTINF:-1,GLOOBINHO 4K
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/525
-#EXTINF:-1,GLOOBINHO HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/267
-#EXTINF:-1,GLOOBINHO UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/266
-#EXTINF:-1,GNT 4K
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/517
-#EXTINF:-1,GNT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/349
-#EXTINF:-1,H2 HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/350
-#EXTINF:-1,H2 LT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/683
-#EXTINF:-1,H2 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/438
-#EXTINF:-1,HBO 2 HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/353
-#EXTINF:-1,HBO 2 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/354
-#EXTINF:-1,HBO FAMILY HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/357
-#EXTINF:-1,HBO FAMILY UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/358
-#EXTINF:-1,HBO HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/355
-#EXTINF:-1,HBO MAX 1 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/463
-#EXTINF:-1,HBO MAX 2 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/464
-#EXTINF:-1,HBO MAX 3 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/465
-#EXTINF:-1,HBO MAX 4 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/466
-#EXTINF:-1,HBO MUNDI HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/367
-#EXTINF:-1,HBO MUNDI UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/368
-#EXTINF:-1,HBO PLUS HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/361
-#EXTINF:-1,HBO PLUS UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/362
-#EXTINF:-1,HBO POP HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/365
-#EXTINF:-1,HBO POP UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/366
-#EXTINF:-1,HBO SIGNATURE HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/359
-#EXTINF:-1,HBO SIGNATURE UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/360
-#EXTINF:-1,HBO UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/356
-#EXTINF:-1,HBO XTREME HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/363
-#EXTINF:-1,HBO XTREME UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/364
-#EXTINF:-1,HE-MAN HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/739
-#EXTINF:-1,HGTV UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/554
-#EXTINF:-1,HISTORY 4K
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/524
-#EXTINF:-1,HISTORY CHANNEL PT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/665
-#EXTINF:-1,HISTORY HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/351
-#EXTINF:-1,HISTORY UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/352
-#EXTINF:-1,HOMEM ARANHA HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/740
-#EXTINF:-1,HOMEM DE FERRO  HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/741
-#EXTINF:-1,I-SAT HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/742
-#EXTINF:-1,INTER TV CABUGI UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/629
-#EXTINF:-1,JOVEM PAN NEWS HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/449
-#EXTINF:-1,JOVEM PAN NEWS UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/450
-#EXTINF:-1,LIFETIME HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/555
-#EXTINF:-1,LIKE  HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/542
-#EXTINF:-1,MARVEL E DC UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/717
-#EXTINF:-1,MASHA E O URSO HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/738
-#EXTINF:-1,MEGAPIX HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/491
-#EXTINF:-1,MEGAPIX UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/371
-#EXTINF:-1,MODO VIAGEM UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/545
-#EXTINF:-1,MORANGUINHO HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/737
-#EXTINF:-1,MOTOR VISION PT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/664
-#EXTINF:-1,MTV LIVE UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/443
-#EXTINF:-1,MTV UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/453
-#EXTINF:-1,MTV'S 00 4k
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/512
-#EXTINF:-1,MTV'S 00 HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/454
-#EXTINF:-1,MULTISHOW  4K
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/516
-#EXTINF:-1,MULTISHOW UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/372
-#EXTINF:-1,MUSIC BOX BRASIL UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/445
-#EXTINF:-1,NARUTO HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/736
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/373
-#EXTINF:-1,NATIONAL GEOGRAPHIC LT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/682
-#EXTINF:-1,NATIONAL GEOGRAPHIC UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/439
-#EXTINF:-1,NHK UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/708
-#EXTINF:-1,NICK JR HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/271
-#EXTINF:-1,NICK JR LT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/681
-#EXTINF:-1,NICK JR PT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/663
-#EXTINF:-1,NICK JR UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/270
-#EXTINF:-1,NICK MUSIC LT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/680
-#EXTINF:-1,NICKELODEON 4K
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/528
-#EXTINF:-1,NICKELODEON HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/273
-#EXTINF:-1,NICKELODEON PT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/662
-#EXTINF:-1,NICKELODEON UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/272
-#EXTINF:-1,NOSSO FUTEBOL 1
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/762
-#EXTINF:-1,NOSSO FUTEBOL 2
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/763
-#EXTINF:-1,NOSSO FUTEBOL 3
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/764
-#EXTINF:-1,NOSSO FUTEBOL 4
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/765
-#EXTINF:-1,NSPORTS 1 4K
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/642
-#EXTINF:-1,NSPORTS 2 HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/643
-#EXTINF:-1,OFF HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/546
-#EXTINF:-1,PAI ETERNO 4K
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/536
-#EXTINF:-1,PAI ETERNO HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/428
-#EXTINF:-1,PANDA BIGGS PT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/661
-#EXTINF:-1,PARAMOUNT 4K
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/541
-#EXTINF:-1,PARAMOUNT HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/375
-#EXTINF:-1,PARAMOUNT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/455
-#EXTINF:-1,PARAMOUNT+ 1 4K
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/780
-#EXTINF:-1,PARAMOUNT+ 2 4K
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/781
-#EXTINF:-1,PARAMOUNT+ 3 4K
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/782
-#EXTINF:-1,PARAMOUNT+ 4 4K
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/783
-#EXTINF:-1,PEPPA PIG HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/750
-#EXTINF:-1,PEQUENA SEREIA HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/751
-#EXTINF:-1,PERNALONGA HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/752
-#EXTINF:-1,PINK E CEREBRO HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/715
-#EXTINF:-1,POKEMON HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/716
-#EXTINF:-1,POLISHOP HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/749
-#EXTINF:-1,PREMIERE 2 4K
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/532
-#EXTINF:-1,PREMIERE 2 HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/377
-#EXTINF:-1,PREMIERE 2 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/482
-#EXTINF:-1,PREMIERE 3 HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/378
-#EXTINF:-1,PREMIERE 3 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/481
-#EXTINF:-1,PREMIERE 4 HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/379
-#EXTINF:-1,PREMIERE 4 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/480
-#EXTINF:-1,PREMIERE 5 HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/380
-#EXTINF:-1,PREMIERE 5 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/479
-#EXTINF:-1,PREMIERE 6 HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/381
-#EXTINF:-1,PREMIERE 6 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/478
-#EXTINF:-1,PREMIERE 7 HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/382
-#EXTINF:-1,PREMIERE 7 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/477
-#EXTINF:-1,PREMIERE 8 HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/383
-#EXTINF:-1,PREMIERE 8 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/476
-#EXTINF:-1,PREMIERE 9 HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/384
-#EXTINF:-1,PREMIERE 9 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/475
-#EXTINF:-1,PREMIERE CLUBES 4K
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/531
-#EXTINF:-1,PREMIERE CLUBES HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/376
-#EXTINF:-1,PREMIERE CLUBES UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/483
-#EXTINF:-1,PRIME BOX BRASIL HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/386
-#EXTINF:-1,PRIME BOX BRASIL UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/385
-#EXTINF:-1,RAI ITALIA HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/707
-#EXTINF:-1,RBI UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/701
-#EXTINF:-1,RECORD 4k
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/511
-#EXTINF:-1,RECORD HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/387
-#EXTINF:-1,RECORD NEWS HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/388
-#EXTINF:-1,RECORD NEWS UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/706
-#EXTINF:-1,RECORD RJ UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/633
-#EXTINF:-1,RECORD UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/496
-#EXTINF:-1,REDE AMAZONICA UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/622
-#EXTINF:-1,REDE BRASIL HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/746
-#EXTINF:-1,REDE GOSPEL HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/697
-#EXTINF:-1,REDE SUPER HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/696
-#EXTINF:-1,REDE TV HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/389
-#EXTINF:-1,REDE TV UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/495
-#EXTINF:-1,REDE VIDA HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/390
-#EXTINF:-1,SABOR & ARTE HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/747
-#EXTINF:-1,SBT 4k
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/510
-#EXTINF:-1,SBT HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/391
-#EXTINF:-1,SBT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/392
-#EXTINF:-1,SHOPTIME UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/748
-#EXTINF:-1,SKY SPORTS F1 PT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/660
-#EXTINF:-1,SMITHSONIAN HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/451
-#EXTINF:-1,SMITHSONIAN UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/493
-#EXTINF:-1,SONY CHANNEL HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/393
-#EXTINF:-1,SONY CHANNEL UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/394
-#EXTINF:-1,SPACE HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/395
-#EXTINF:-1,SPACE UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/448
-#EXTINF:-1,SPORT TV 1 PT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/659
-#EXTINF:-1,SPORT TV 2 PT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/658
-#EXTINF:-1,SPORT TV 3 PT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/657
-#EXTINF:-1,SPORT TV 4 PT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/656
-#EXTINF:-1,SPORT TV 5 PT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/655
-#EXTINF:-1,SPORT TV+ PT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/654
-#EXTINF:-1,SPORTING PT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/653
-#EXTINF:-1,SPORTV 1 4k
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/503
-#EXTINF:-1,SPORTV 1 HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/396
-#EXTINF:-1,SPORTV 1 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/474
-#EXTINF:-1,SPORTV 2 4K
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/533
-#EXTINF:-1,SPORTV 2 HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/397
-#EXTINF:-1,SPORTV 2 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/473
-#EXTINF:-1,SPORTV 3 HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/398
-#EXTINF:-1,SPORTV 3 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/472
-#EXTINF:-1,STAR + 1 4k
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/505
-#EXTINF:-1,STAR + 1 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/467
-#EXTINF:-1,STAR + 2 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/468
-#EXTINF:-1,STAR + 3 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/469
-#EXTINF:-1,STAR CHANNEL HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/490
-#EXTINF:-1,STAR CHANNEL UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/399
-#EXTINF:-1,STAR+ 4 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/470
-#EXTINF:-1,STAR+ 5 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/776
-#EXTINF:-1,STAR+ 6 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/777
-#EXTINF:-1,STAR+ 7 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/778
-#EXTINF:-1,STAR+ 8 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/779
-#EXTINF:-1,STREET FIGHTER  HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/718
-#EXTINF:-1,STUDIO UNIVERSAL HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/489
-#EXTINF:-1,STUDIO UNIVERSAL UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/444
-#EXTINF:-1,SUPER MAN HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/714
-#EXTINF:-1,SYFY HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/488
-#EXTINF:-1,SYFY UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/400
-#EXTINF:-1,TBS HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/401
-#EXTINF:-1,TBS UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/487
-#EXTINF:-1,TCM HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/402
-#EXTINF:-1,TELECINE ACTION HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/407
-#EXTINF:-1,TELECINE ACTION UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/408
-#EXTINF:-1,TELECINE CULT HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/409
-#EXTINF:-1,TELECINE CULT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/410
-#EXTINF:-1,TELECINE FUN HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/411
-#EXTINF:-1,TELECINE FUN UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/412
-#EXTINF:-1,TELECINE PIPOCA HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/413
-#EXTINF:-1,TELECINE PIPOCA UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/414
-#EXTINF:-1,TELECINE PREMIUM HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/415
-#EXTINF:-1,TELECINE PREMIUM UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/416
-#EXTINF:-1,TELECINE TOUCH HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/417
-#EXTINF:-1,TELECINE TOUCH UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/418
-#EXTINF:-1,TLC HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/403
-#EXTINF:-1,TLC UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/404
-#EXTINF:-1,TNT ESPORTES LT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/679
-#EXTINF:-1,TNT HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/405
-#EXTINF:-1,TNT NOVELA 4K
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/842
-#EXTINF:-1,TNT SERIES 4K
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/540
-#EXTINF:-1,TNT SERIES HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/406
-#EXTINF:-1,TNT SERIES LT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/678
-#EXTINF:-1,TNT SERIES UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/486
-#EXTINF:-1,TNT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/447
-#EXTINF:-1,TODO MUNDO ODEIA O CRIS UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/710
-#EXTINF:-1,TOM & JERRY HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/713
-#EXTINF:-1,TOONCAST HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/275
-#EXTINF:-1,TOONCAST LT UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/677
-#EXTINF:-1,TOONCAST UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/274
-#EXTINF:-1,TRACE BRAZUCA HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/544
-#EXTINF:-1,TRAVEL BOX BRASIL 4K
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/534
-#EXTINF:-1,TRAVEL BOX BRASIL UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/442
-#EXTINF:-1,TRU TV HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/745
-#EXTINF:-1,TV ANHANGUERA GOIANIA UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/624
-#EXTINF:-1,TV APARECIDA HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/553
-#EXTINF:-1,TV BRASIL 2 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/704
-#EXTINF:-1,TV BRASIL HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/548
-#EXTINF:-1,TV BRASIL UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/703
-#EXTINF:-1,TV CAMARA HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/299
-#EXTINF:-1,TV CENTRO AMERICA CUIABA UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/630
-#EXTINF:-1,TV CULTURA UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/639
-#EXTINF:-1,TV DIARIO HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/744
-#EXTINF:-1,TV ESCOLA HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/298
-#EXTINF:-1,TV EVANGELIZAR HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/695
-#EXTINF:-1,TV GAZETA UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/626
-#EXTINF:-1,TV Gazeta Vitoria ES UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/700
-#EXTINF:-1,TV JUSTICA HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/297
-#EXTINF:-1,TV LIBERAL BELEM HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/612
-#EXTINF:-1,TV MORENA UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/638
-#EXTINF:-1,TV NOVO TEMPO UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/551
-#EXTINF:-1,TV RA TIM BUM  4K
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/529
-#EXTINF:-1,TV RA TIM BUM HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/277
-#EXTINF:-1,TV SANTA CRUZ UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/702
-#EXTINF:-1,TV SENADO HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/296
-#EXTINF:-1,TV TEM BAURU UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/623
-#EXTINF:-1,TV TEM SAO JOSE DO RIO PRETO
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/627
-#EXTINF:-1,TV TEM SOROCABA UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/631
-#EXTINF:-1,TV VANGUARDA S. J DOS CAMPOS
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/628
-#EXTINF:-1,TV VERDES MARES UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/621
-#EXTINF:-1,TVE HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/705
-#EXTINF:-1,UFC FIGHT PASS
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/759
-#EXTINF:-1,UFC PPV
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/758
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/419
-#EXTINF:-1,UNIVERSAL CHANNEL UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/485
-#EXTINF:-1,VH1 HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/743
-#EXTINF:-1,VIVA 4K
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/514
-#EXTINF:-1,VIVA HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/420
-#EXTINF:-1,VIVA UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/421
-#EXTINF:-1,WARNER CHANNEL HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/422
-#EXTINF:-1,WARNER CHANNEL UHD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/423
-#EXTINF:-1,WOOHOO HD
-http://testo.app-host11.xyz:2095/Tourobox2-dQMp7PSUBx/rrOcDyQxj5/424
+
+#PLAYLISTV: pltv-logo=" https://i.imgur.com/M0aRl2a.jpg " pltv-name="RAMALHOTV" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover=" https://i .imgur.com/M0aRl2a.jpg " pltv-author="RAMALHOTV" pltv-site=" https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1 " pltv-email="" pltv-phone=" (44) 98656144"
+
+################################################# ############################### Informações da Lista
+
+#EXTINF:-1 tvg-logo=" http://i.imgur.com/4QnsDMD.png " group-title="Informações da Lista", 
+https://www.youtube.com/channel/UCojJlqr-
+
+#EXTINF:-1 tvg-logo=" http://i.imgur.com/5zE1k8M.png " group-title="Informações da Lista", 
+https://www.youtube.com/channel/UCojJlqr
+
+#EXTINF:-1 tvg-logo=" http://i.imgur.com/OalUKZI.png " group-title="Informações da Lista",Atualizado:20/05/2024
+https://www.youtube.com /canal/UCojJlqr-L9290l5D63SXTzg?view_as=public
+
+#EXTINF:-1 tvg-logo=" http://i.imgur.com/luqePRJ.png " group-title="Informações da Lista",Por RAMALHOTV 
+https://www.youtube.com/channel/UCojJlqr
+
+
+#EXTINF:-1 tvg-id="" tvg-name="3 PALAVRINHAS" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",3 PALAVRINHAS
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/670
+#EXTINF:-1 tvg-id="" tvg-name="A CASA DO MICKEY MOUSE" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",A CASA DO MICKEY MOUSE
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/671
+#EXTINF:-1 tvg-id="" tvg-name="A MANSAO FOSTER" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",A MANSAO FOSTER
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/674
+#EXTINF:-1 tvg-id="" tvg-name="A RODA DO ONIBUS " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",A RODA DO ONIBUS 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/675
+#EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="A&E 4K" tvg-logo="http://xplussport.com:8080/images/b84296644f07e05523cd844bc88db5fe.png" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",A&E 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/225
+#EXTINF:-1 tvg-id="AgroPlus.br" tvg-name="AGRO+ 4K" tvg-logo="https://agroemdia.com.br/wp-content/uploads/2020/06/agromais-band-logo.jpg" group-title="[COLOR light green][B]Categorias NOTICIAS[/B][/COLOR]",AGRO+ 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/852
+#EXTINF:-1 tvg-id="" tvg-name="ALADDIN" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",ALADDIN
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/676
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] 1" tvg-logo="http://xplussport.com:8080/images/da27847f9201c6b1bca73c06044a70a1.png" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",AMAZON [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] 1
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1067
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] 2" tvg-logo="http://xplussport.com:8080/images/da27847f9201c6b1bca73c06044a70a1.png" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",AMAZON [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] 2
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1010
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] 3" tvg-logo="http://xplussport.com:8080/images/da27847f9201c6b1bca73c06044a70a1.png" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",AMAZON [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] 3
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1158
+#EXTINF:-1 tvg-id="" tvg-name="AMAZON [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] 4" tvg-logo="http://xplussport.com:8080/images/da27847f9201c6b1bca73c06044a70a1.png" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",AMAZON [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] 4
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1159
+#EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-name="AMC 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",AMC 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/228
+#EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-name="AMC DUAL" tvg-logo="" group-title="[COLOR light green][B]Categorias CANAIS DUAL AUDIO[/B][/COLOR] ",AMC DUAL
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/790
+#EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-name="AMC HD" tvg-logo="" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",AMC HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/229
+#EXTINF:-1 tvg-id="5e98607e8d76e68daa5b3acb9f0c1604" tvg-name="AMC HDR+" tvg-logo="" group-title="[COLOR light green][B]Categorias CANAIS HDR+[/B][/COLOR]",AMC HDR+
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1020
+#EXTINF:-1 tvg-id="e6782d4e82ac2a0a70cd8332cae1997c" tvg-name="ANIMAL PLANET 4K" tvg-logo="http://xplussport.com:8080/images/a6c2029ac2ef37c4172fb4925f4b299e.png" group-title="[COLOR light green][B]Categorias DOCUMENTARIOS[/B][/COLOR]",ANIMAL PLANET 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/61
+#EXTINF:-1 tvg-id="476c98e227890f9477494c87171291cb" tvg-name="ANIMAL PLANET HDR+" tvg-logo="http://xplussport.com:8080/images/a6c2029ac2ef37c4172fb4925f4b299e.png" group-title="[COLOR light green][B]Categorias CANAIS HDR+[/B][/COLOR]",ANIMAL PLANET HDR+
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/994
+#EXTINF:-1 tvg-id="" tvg-name="AQUI NA FAZENDA MAIARA HD" tvg-logo="https://img2.gratispng.com/20180526/pga/kisspng-show-tv-turkey-television-show-logo-tv-5b08fbf9e0a0c0.3094832015273154499201.jpg" group-title="[COLOR light green][B]Categorias ENTRETENIMENTO[/B][/COLOR]",AQUI NA FAZENDA MAIARA HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/853
+#EXTINF:-1 tvg-id="" tvg-name="AQUI NA FAZENDA RATINHO HD " tvg-logo="https://img2.gratispng.com/20180526/pga/kisspng-show-tv-turkey-television-show-logo-tv-5b08fbf9e0a0c0.3094832015273154499201.jpg" group-title="[COLOR light green][B]Categorias ENTRETENIMENTO[/B][/COLOR]",AQUI NA FAZENDA RATINHO HD 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/854
+#EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="ARTE 1 4K" tvg-logo="http://xplussport.com:8080/images/9d1fbcff2067af0bb3a656f15cd24250.png" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",ARTE 1 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/231
+#EXTINF:-1 tvg-id="7201bedd8febe6be7ce260bf2eb81545" tvg-name="ARTE 1 HD" tvg-logo="http://xplussport.com:8080/images/9d1fbcff2067af0bb3a656f15cd24250.png" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",ARTE 1 HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/232
+#EXTINF:-1 tvg-id="" tvg-name="AS AVENTURAS DO BATMAN " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",AS AVENTURAS DO BATMAN 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/677
+#EXTINF:-1 tvg-id="91cc032148927efd55800877a54cd91f" tvg-name="AXN 4K" tvg-logo="http://46.165.222.67:2095/xplus/animalplan.png" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",AXN 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/233
+#EXTINF:-1 tvg-id="3fc41207138bcbd07aa5e36e03b9a97d" tvg-name="BABY TV 4K" tvg-logo="http://185.53.90.49:41001/logos/Baby TV.png" group-title="[COLOR light green][B]Categorias INFANTIS[/B][/COLOR]]",BABY TV 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/767
+#EXTINF:-1 tvg-id="3fc41207138bcbd07aa5e36e03b9a97d" tvg-name="BABY TV HD" tvg-logo="http://185.53.90.49:41001/logos/Baby TV.png" group-title="[COLOR light green][B]Categorias INFANTIS[/B][/COLOR]]",BABY TV HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/342
+#EXTINF:-1 tvg-id="ef4396b49d49eab23a4a265bfc51ec03" tvg-name="BAND MINAS UHD" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",BAND MINAS UHD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/481
+#EXTINF:-1 tvg-id="be4eacc302569c4905ab735868011351" tvg-name="BAND NEWS 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias NOTICIAS[/B][/COLOR]",BAND NEWS 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/482
+#EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="BAND NEWS HD" tvg-logo="" group-title="[COLOR light green][B]Categorias NOTICIAS[/B][/COLOR]",BAND NEWS HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/432
+#EXTINF:-1 tvg-id="ef4396b49d49eab23a4a265bfc51ec03" tvg-name="BAND NORDESTE UHD" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",BAND NORDESTE UHD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/483
+#EXTINF:-1 tvg-id="9b06e31791b171bd6987483a264ee48f" tvg-name="BAND SP 4k" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",BAND SP 4k
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/484
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND SP HD" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",BAND SP HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/485
+#EXTINF:-1 tvg-id="8a5dd5aab0216b3b5ad01b401b611bbb" tvg-name="BAND SPORTS 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias ESPORTES[/B][/COLOR]",BAND SPORTS 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/120
+#EXTINF:-1 tvg-id="8a5dd5aab0216b3b5ad01b401b611bbb" tvg-name="BAND SPORTS HD" tvg-logo="" group-title="[COLOR light green][B]Categorias ESPORTES[/B][/COLOR]",BAND SPORTS HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/121
+#EXTINF:-1 tvg-id="" tvg-name="A GRANDE CONQUISTA CAMERA 1" tvg-logo="" group-title="[COLOR light green][B]Categorias A GRANDE CONQUISTA 24[/B][/COLOR]",A GRANDE CONQUISTA CAMERA 1
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1250
+#EXTINF:-1 tvg-id="" tvg-name="A GRANDE CONQUISTA" tvg-logo="" group-title="[COLOR light green][B]Categorias A GRANDE CONQUISTA 24[/B][/COLOR]",A GRANDE CONQUISTA
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1249
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 1
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/901
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 2
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/902
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 3
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/903
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 4
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/904
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5 " tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 5 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/905
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 6 " tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 6 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/906
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 7" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="BEIN SPORTS",BEIN SPORTS 7
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/907
+#EXTINF:-1 tvg-id="" tvg-name="BEN 10" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",BEN 10
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/678
+#EXTINF:-1 tvg-id="217649426d93e8fde591f4e18d4a4840" tvg-name="BIS 4K" tvg-logo="https://w7.pngwing.com/pngs/96/344/png-transparent-bis-television-channel-music-logo-bis-logo-television-angle-text-thumbnail.png" group-title="MUSICA",BIS 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/419
+#EXTINF:-1 tvg-id="217649426d93e8fde591f4e18d4a4840" tvg-name="BIS HD" tvg-logo="https://w7.pngwing.com/pngs/96/344/png-transparent-bis-television-channel-music-logo-bis-logo-television-angle-text-thumbnail.png" group-title="MUSICA",BIS HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/420
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",BOB ESPONJA
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/679
+#EXTINF:-1 tvg-id="6e57d77806b180634ba62a9c1d5dbc8b" tvg-name="CANAL BOI HD" tvg-logo="http://185.53.90.49:41001/logos/canal boi.png" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",CANAL BOI HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/486
+#EXTINF:-1 tvg-id="a73f4a1a4510b09a3290c5096241a3f7" tvg-name="CANAL BRASIL 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",CANAL BRASIL 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/236
+#EXTINF:-1 tvg-id="a73f4a1a4510b09a3290c5096241a3f7" tvg-name="CANAL BRASIL HD" tvg-logo="" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",CANAL BRASIL HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/237
+#EXTINF:-1 tvg-id="4a1989c97bf28cdc047161fa0253d893" tvg-name="CANCAO NOVA HD" tvg-logo="" group-title="RELIGIOSO",CANCAO NOVA HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/96
+#EXTINF:-1 tvg-id="4a1989c97bf28cdc047161fa0253d893" tvg-name="CANCAO NOVA UHD" tvg-logo="" group-title="RELIGIOSO",CANCAO NOVA UHD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/97
+#EXTINF:-1 tvg-id="733e45ab710603516cdfec08dfb0ac92" tvg-name="CARTOON NETWORK 4K" tvg-logo="http://185.53.90.49:41001/logos/cartoonnetwork.png" group-title="[COLOR light green][B]Categorias INFANTIS[/B][/COLOR]]",CARTOON NETWORK 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/346
+#EXTINF:-1 tvg-id="733e45ab710603516cdfec08dfb0ac92" tvg-name="CARTOON NETWORK HD" tvg-logo="http://185.53.90.49:41001/logos/cartoonnetwork.png" group-title="[COLOR light green][B]Categorias INFANTIS[/B][/COLOR]]",CARTOON NETWORK HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/347
+#EXTINF:-1 tvg-id="733e45ab710603516cdfec08dfb0ac92" tvg-name="CARTOON NETWORK HDR+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="[COLOR light green][B]Categorias CANAIS HDR+[/B][/COLOR]",CARTOON NETWORK HDR+
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1002
+#EXTINF:-1 tvg-id="226de483b93250a7f37e0aba52f7e135" tvg-name="CARTOONITO 4K" tvg-logo="http://xplussport.com:8080/images/1dead2673d64b236c6f4e1bbad8059c3.png" group-title="[COLOR light green][B]Categorias INFANTIS[/B][/COLOR]]",CARTOONITO 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/344
+#EXTINF:-1 tvg-id="226de483b93250a7f37e0aba52f7e135" tvg-name="CARTOONITO HD" tvg-logo="http://xplussport.com:8080/images/1dead2673d64b236c6f4e1bbad8059c3.png" group-title="[COLOR light green][B]Categorias INFANTIS[/B][/COLOR]]",CARTOONITO HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/345
+#EXTINF:-1 tvg-id="" tvg-name="CAVALEIROS DO ZODIACO" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",CAVALEIROS DO ZODIACO
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/680
+#EXTINF:-1 tvg-id="" tvg-name="CAZE TV" tvg-logo="" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",CAZE TV
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1145
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS COMEDIA",CHAVES 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/682
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 1 " tvg-logo="http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="[COLOR light green][B]Categorias 24HS FILMES[/B][/COLOR] ",CINE SKY 1 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/754
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10 " tvg-logo="http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="[COLOR light green][B]Categorias 24HS FILMES[/B][/COLOR] ",CINE SKY 10 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/764
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 11 " tvg-logo="http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="[COLOR light green][B]Categorias 24HS FILMES[/B][/COLOR] ",CINE SKY 11 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/809
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 12 " tvg-logo="http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="[COLOR light green][B]Categorias 24HS FILMES[/B][/COLOR] ",CINE SKY 12 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/810
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 13 " tvg-logo="http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="[COLOR light green][B]Categorias 24HS FILMES[/B][/COLOR] ",CINE SKY 13 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/811
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 14 " tvg-logo="http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="[COLOR light green][B]Categorias 24HS FILMES[/B][/COLOR] ",CINE SKY 14 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/812
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 15 " tvg-logo="http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="[COLOR light green][B]Categorias 24HS FILMES[/B][/COLOR] ",CINE SKY 15 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/813
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 2" tvg-logo="http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="[COLOR light green][B]Categorias 24HS FILMES[/B][/COLOR] ",CINE SKY 2
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/755
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 4 " tvg-logo="http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="[COLOR light green][B]Categorias 24HS FILMES[/B][/COLOR] ",CINE SKY 4 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/757
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 6 " tvg-logo="http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="[COLOR light green][B]Categorias 24HS FILMES[/B][/COLOR] ",CINE SKY 6 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/760
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 7 " tvg-logo="http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="[COLOR light green][B]Categorias 24HS FILMES[/B][/COLOR] ",CINE SKY 7 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/761
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 9 " tvg-logo="http://main.primehugehost.xyz:2095/images/b451d5aa7ffc91a1a71e488430cd8818.png" group-title="[COLOR light green][B]Categorias 24HS FILMES[/B][/COLOR] ",CINE SKY 9 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/763
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="CINEMAX 4K" tvg-logo="http://xplussport.com:8080/images/51b04f3f9f5b4d44afb6e7b729935e9c.png" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",CINEMAX 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/239
+#EXTINF:-1 tvg-id="24be76ef60ace55820dd2869bd893fe4" tvg-name="CINEMAX HD" tvg-logo="http://xplussport.com:8080/images/51b04f3f9f5b4d44afb6e7b729935e9c.png" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",CINEMAX HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/240
+#EXTINF:-1 tvg-id="cd0c58163e21bad37ccb6f16b43bebef" tvg-name="CNN BRASIL 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias NOTICIAS[/B][/COLOR]",CNN BRASIL 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/433
+#EXTINF:-1 tvg-id="cd0c58163e21bad37ccb6f16b43bebef" tvg-name="CNN BRASIL HDR+" tvg-logo="" group-title="[COLOR light green][B]Categorias CANAIS HDR+[/B][/COLOR]",CNN BRASIL HDR+
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1018
+#EXTINF:-1 tvg-id="5be2136ed519c135699791e245ad9433" tvg-name="CNN ESPANHOL" tvg-logo="" group-title="[COLOR light green][B]Categorias NOTICIAS[/B][/COLOR]",CNN ESPANHOL
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/436
+#EXTINF:-1 tvg-id="c0879c01cbcfdfe09899bd8a756722aa" tvg-name="CNN INTERNACIONAL 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias NOTICIAS[/B][/COLOR]",CNN INTERNACIONAL 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/438
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias ESPORTES[/B][/COLOR]",COMBATE 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/122
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE HD" tvg-logo="" group-title="[COLOR light green][B]Categorias ESPORTES[/B][/COLOR]",COMBATE HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/123
+#EXTINF:-1 tvg-id="52e622950dcda02c65c715cd25ee7073" tvg-name="COMBATE HDR+" tvg-logo="" group-title="[COLOR light green][B]Categorias CANAIS HDR+[/B][/COLOR]",COMBATE HDR+
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1001
+#EXTINF:-1 tvg-id="347b96b6d110b422ba291d7143cd0749" tvg-name="COMEDY CENTRAL 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias ENTRETENIMENTO[/B][/COLOR]",COMEDY CENTRAL 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/99
+#EXTINF:-1 tvg-id="347b96b6d110b422ba291d7143cd0749" tvg-name="COMEDY CENTRAL HD" tvg-logo="" group-title="[COLOR light green][B]Categorias ENTRETENIMENTO[/B][/COLOR]",COMEDY CENTRAL HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/98
+#EXTINF:-1 tvg-id="" tvg-name="A GRANDE CONQUISTA CAMERA 7" tvg-logo="" group-title="[COLOR light green][B]Categorias A GRANDE CONQUISTA 24[/B][/COLOR]",A GRANDE CONQUISTA CAMERA 7
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1256
+#EXTINF:-1 tvg-id="76ee0cab054dfa3a2e6ed9783d82d598" tvg-name="CURTA HD" tvg-logo="" group-title="[COLOR light green][B]Categorias ENTRETENIMENTO[/B][/COLOR]",CURTA HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/100
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",DAZN 1
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/206
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",DAZN 1 HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/821
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",DAZN 2
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/205
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",DAZN 2 HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/822
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",DAZN 3 HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/823
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="http://xplussport.com:8080/images/e74a669de89ae9e38a05ec255bebc0de.png" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",DAZN 4 HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/824
+#EXTINF:-1 tvg-id="e29f806eaafeca7c27164075b36632c0" tvg-name="DISCOVERY CHANNEL 4K" tvg-logo="http://xplussport.com:8080/images/3f4d65287e97039b4d14282aa4f722b3.png" group-title="[COLOR light green][B]Categorias DOCUMENTARIOS[/B][/COLOR]",DISCOVERY CHANNEL 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/65
+#EXTINF:-1 tvg-id="927eb26562d10bdba45298958d76b8ac" tvg-name="DISCOVERY H&H 4K" tvg-logo="http://xplussport.com:8080/images/41cbca5a834705c3c8c135e711448868.png" group-title="[COLOR light green][B]Categorias DOCUMENTARIOS[/B][/COLOR]",DISCOVERY H&H 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/67
+#EXTINF:-1 tvg-id="927eb26562d10bdba45298958d76b8ac" tvg-name="DISCOVERY H&H HD" tvg-logo="http://xplussport.com:8080/images/41cbca5a834705c3c8c135e711448868.png" group-title="[COLOR light green][B]Categorias DOCUMENTARIOS[/B][/COLOR]",DISCOVERY H&H HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/68
+#EXTINF:-1 tvg-id="9f69a7aab7bc08a257f8c70537c0f3fc" tvg-name="DISCOVERY H&H HDR+" tvg-logo="http://xplussport.com:8080/images/41cbca5a834705c3c8c135e711448868.png" group-title="[COLOR light green][B]Categorias CANAIS HDR+[/B][/COLOR]",DISCOVERY H&H HDR+
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1021
+#EXTINF:-1 tvg-id="67fcc0ef70dbe00de1b3deb1f8df83a7" tvg-name="DISCOVERY ID 4K" tvg-logo="http://xplussport.com:8080/images/adf707ab4e1c068aa504c7f52c88cd43.png" group-title="[COLOR light green][B]Categorias DOCUMENTARIOS[/B][/COLOR]",DISCOVERY ID 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/69
+#EXTINF:-1 tvg-id="67fcc0ef70dbe00de1b3deb1f8df83a7" tvg-name="DISCOVERY ID HD" tvg-logo="http://xplussport.com:8080/images/adf707ab4e1c068aa504c7f52c88cd43.png" group-title="[COLOR light green][B]Categorias DOCUMENTARIOS[/B][/COLOR]",DISCOVERY ID HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/70
+#EXTINF:-1 tvg-id="7cba56d779e14b7dda4904ad1e6dd6ae" tvg-name="DISCOVERY KIDS 4K" tvg-logo="http://185.53.90.49:41001/logos/discovery_kids.png" group-title="[COLOR light green][B]Categorias INFANTIS[/B][/COLOR]]",DISCOVERY KIDS 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/348
+#EXTINF:-1 tvg-id="7cba56d779e14b7dda4904ad1e6dd6ae" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://185.53.90.49:41001/logos/discovery_kids.png" group-title="[COLOR light green][B]Categorias INFANTIS[/B][/COLOR]]",DISCOVERY KIDS HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/349
+#EXTINF:-1 tvg-id="22a2824658680a39e8696e02fb8cb34d" tvg-name="DISCOVERY SCIENCE 4k" tvg-logo="http://xplussport.com:8080/images/7b539c507b1b806a537fc361dd9adec8.png" group-title="[COLOR light green][B]Categorias DOCUMENTARIOS[/B][/COLOR]",DISCOVERY SCIENCE 4k
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/71
+#EXTINF:-1 tvg-id="22a2824658680a39e8696e02fb8cb34d" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://xplussport.com:8080/images/7b539c507b1b806a537fc361dd9adec8.png" group-title="[COLOR light green][B]Categorias DOCUMENTARIOS[/B][/COLOR]",DISCOVERY SCIENCE HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/72
+#EXTINF:-1 tvg-id="ce83d2eabfcab425926a03d0071e85ce" tvg-name="DISCOVERY THEATER 4K" tvg-logo="http://xplussport.com:8080/images/1385fb05c53c6ce195a0beca3d7f69f4.png" group-title="[COLOR light green][B]Categorias DOCUMENTARIOS[/B][/COLOR]",DISCOVERY THEATER 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/73
+#EXTINF:-1 tvg-id="ce83d2eabfcab425926a03d0071e85ce" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://xplussport.com:8080/images/1385fb05c53c6ce195a0beca3d7f69f4.png" group-title="[COLOR light green][B]Categorias DOCUMENTARIOS[/B][/COLOR]",DISCOVERY THEATER HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/74
+#EXTINF:-1 tvg-id="c48950d3f18be887d41a80c0e4fe058e" tvg-name="DISCOVERY TURBO 4K" tvg-logo="http://xplussport.com:8080/images/b14f0177b9cf30e5f607db443458c275.png" group-title="[COLOR light green][B]Categorias DOCUMENTARIOS[/B][/COLOR]",DISCOVERY TURBO 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/75
+#EXTINF:-1 tvg-id="db5244cc5810ef5c7920ea77642eb947" tvg-name="DISCOVERY TURBO HDR+" tvg-logo="http://xplussport.com:8080/images/b14f0177b9cf30e5f607db443458c275.png" group-title="[COLOR light green][B]Categorias CANAIS HDR+[/B][/COLOR]",DISCOVERY TURBO HDR+
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1022
+#EXTINF:-1 tvg-id="2562574e5c1223acb63b1c6b48e53ae2" tvg-name="DISCOVERY WORLD 4K" tvg-logo="http://xplussport.com:8080/images/d7ed971e5f0fa7afab0dbeff6c420350.png" group-title="[COLOR light green][B]Categorias DOCUMENTARIOS[/B][/COLOR]",DISCOVERY WORLD 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/77
+#EXTINF:-1 tvg-id="2562574e5c1223acb63b1c6b48e53ae2" tvg-name="DISCOVERY WORLD HD" tvg-logo="http://xplussport.com:8080/images/d7ed971e5f0fa7afab0dbeff6c420350.png" group-title="[COLOR light green][B]Categorias DOCUMENTARIOS[/B][/COLOR]",DISCOVERY WORLD HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/78
+#EXTINF:-1 tvg-id="b0ecc24b8090ddc3ff2941979a9808ce" tvg-name="DISNEY CHANNEL  4K" tvg-logo="http://185.53.90.49:41001/logos/disneychannel.png" group-title="[COLOR light green][B]Categorias INFANTIS[/B][/COLOR]]",DISNEY CHANNEL  4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/351
+#EXTINF:-1 tvg-id="b0ecc24b8090ddc3ff2941979a9808ce" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://185.53.90.49:41001/logos/disneychannel.png" group-title="[COLOR light green][B]Categorias INFANTIS[/B][/COLOR]]",DISNEY CHANNEL HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/352
+#EXTINF:-1 tvg-id="DogTV.us" tvg-name="DOG TV HD " tvg-logo="http://www.dogtv.com/wp-content/uploads/2021/09/dogtv_logo.png" group-title="[COLOR light green][B]Categorias ENTRETENIMENTO[/B][/COLOR]",DOG TV HD 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/879
+#EXTINF:-1 tvg-id="" tvg-name="DOIS HOMENS E MEIO " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS COMEDIA",DOIS HOMENS E MEIO 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/683
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",DRAGON BALL 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/684
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL SUPER " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",DRAGON BALL SUPER 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/686
+#EXTINF:-1 tvg-id="" tvg-name="DRAGON BALL Z" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",DRAGON BALL Z
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/687
+#EXTINF:-1 tvg-id="97b6c8e472656288500718c9c0cd8e8e" tvg-name="E! 2 HD" tvg-logo="" group-title="[COLOR light green][B]Categorias ENTRETENIMENTO[/B][/COLOR]",E! 2 HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/101
+#EXTINF:-1 tvg-id="97b6c8e472656288500718c9c0cd8e8e" tvg-name="E! 4K" tvg-logo="https://img2.gratispng.com/20180629/ss/kisspng-television-channel-logo-e-etv-network-tv-channel-5b35d053a04617.9816723615302533956565.jpg" group-title="[COLOR light green][B]Categorias ENTRETENIMENTO[/B][/COLOR]",E! 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/102
+#EXTINF:-1 tvg-id="97b6c8e472656288500718c9c0cd8e8e" tvg-name="E! HD" tvg-logo="https://img2.gratispng.com/20180629/ss/kisspng-television-channel-logo-e-etv-network-tv-channel-5b35d053a04617.9816723615302533956565.jpg" group-title="[COLOR light green][B]Categorias ENTRETENIMENTO[/B][/COLOR]",E! HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/103
+#EXTINF:-1 tvg-id="" tvg-name="EM BUSCA DO VALE ENCANTADO" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",EM BUSCA DO VALE ENCANTADO
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/688
+#EXTINF:-1 tvg-id="0d37b9bd23514b5da7d9096bf6b71a5d" tvg-name="EPTV RIBEIRAO PRETO" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",EPTV RIBEIRAO PRETO
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1011
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN  4K" tvg-logo="" group-title="[COLOR light green][B]Categorias ESPORTES[/B][/COLOR]",ESPN  4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/130
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN  HD" tvg-logo="" group-title="[COLOR light green][B]Categorias ESPORTES[/B][/COLOR]",ESPN  HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/131
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 4K" tvg-logo="http://xplussport.com:8080/images/fd524d7d4c582ce92eafc4de281e485f.png" group-title="[COLOR light green][B]Categorias ESPORTES[/B][/COLOR]",ESPN 2 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/129
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 HD" tvg-logo="http://xplussport.com:8080/images/fd524d7d4c582ce92eafc4de281e485f.png" group-title="[COLOR light green][B]Categorias ESPORTES[/B][/COLOR]",ESPN 2 HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/135
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 4K" tvg-logo="http://xplussport.com:8080/images/08935974c9ab37351298bb63548cb1a2.png" group-title="[COLOR light green][B]Categorias ESPORTES[/B][/COLOR]",ESPN 3 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/127
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 HD" tvg-logo="http://xplussport.com:8080/images/08935974c9ab37351298bb63548cb1a2.png" group-title="[COLOR light green][B]Categorias ESPORTES[/B][/COLOR]",ESPN 3 HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/126
+#EXTINF:-1 tvg-id="aeab51e588f8e18a27e43aa5bb3d0827" tvg-name="ESPN 3 HDR+" tvg-logo="http://xplussport.com:8080/images/08935974c9ab37351298bb63548cb1a2.png" group-title="[COLOR light green][B]Categorias CANAIS HDR+[/B][/COLOR]",ESPN 3 HDR+
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/995
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 4K" tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="[COLOR light green][B]Categorias ESPORTES[/B][/COLOR]",ESPN 4 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/142
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 HD" tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="[COLOR light green][B]Categorias ESPORTES[/B][/COLOR]",ESPN 4 HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/143
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 HDR" tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="[COLOR light green][B]Categorias ESPORTES[/B][/COLOR]",ESPN 4 HDR
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/899
+#EXTINF:-1 tvg-id="a3694659decfe49635161b993bc7c3a6" tvg-name="ESPN 4 HDR+" tvg-logo="http://xplussport.com:8080/images/71f4712ad802999bf5919579dfd1e415.png" group-title="[COLOR light green][B]Categorias CANAIS HDR+[/B][/COLOR]",ESPN 4 HDR+
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1007
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN 6 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias ESPORTES[/B][/COLOR]",ESPN 6 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/133
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN 6 HD" tvg-logo="" group-title="[COLOR light green][B]Categorias ESPORTES[/B][/COLOR]",ESPN 6 HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/134
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN 6 HDR+" tvg-logo="" group-title="[COLOR light green][B]Categorias CANAIS HDR+[/B][/COLOR]",ESPN 6 HDR+
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1005
+#EXTINF:-1 tvg-id="FashionTVBrazil.br" tvg-name="FASHION TV HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png" group-title="[COLOR light green][B]Categorias ENTRETENIMENTO[/B][/COLOR]",FASHION TV HD 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/878
+#EXTINF:-1 tvg-id="Film & Arts" tvg-name="FILM & ARTS HD" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPgAAADLCAMAAAB04a46AAAAwFBMVEX////hGzIjHyDgDSrhEy3pbHflS1j98fP97vDfAB3rcXzhGDAfGhsgHB0bFhg2MzTQz9D3vMNaWFhMSUr29vYAAADqZ3RCQEB9e3wWEBH53N6WlJSlpKT+9vf61NnfABjgACHf39++vb0vKywMAANwbW7qeILnXWniJTvwoKfPzs7kMEbeAAD4z9Pzr7XfABFdW1vvi5bkPE7uhpL3wcjnUmL75efwmqLyqbHm5eVpZWeNi4uAfn+2tbXlP1PxnKWd2YmGAAAHQklEQVR4nO2Z/Veyvh+Hwc0HBB/QJKHQVUoUtxaiZHXf9v//V59tgIDV+Xa0zPM9r+uHDowNudj23nukKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4EepR7RdYLH/bW2k0GT0+Y/O3vbk4UXfQ9d2Sb0c7OXGdacRX+Z+flf8G8evhY6/3eKko0x7npasoQ3Hw2N1HXGcknDUajXgWEW1v9S80PFj8/nxgt9vtyVBR+vzAPr9XlJ44uLnfQ5z6T/mFdUD3Nf958W7HrghsIW5UKoYUb1cqrc4ePa6XY+1ssY85CdfrdfgubnyzeE96G/bgW8TpunzJZHuIjx3ecjT+WfHngezu8+nLhaJ0BpybA8TpZvfaPoP9KOKXE+7dHp6VS/cVZ/OkJI6iODkK9+jyo4hfiJFuXO6U7is+TnQbt5rmufLQ1D54Zv2TZT4t/0j8fZPvEK98Qfz5/vr+Kju5Kp4UxB/qsmC0ocRK3sFsV1wnGvMDn4wZ3ZZwuBYR5eLsjxT/w0vzJmqgauXM4BDx6XAo4lml0hsOh9eK8soLhq9XufjZJS+ZXpwpV397553z/lSucN1h/7zT6U//vROXfaUorsdYmFybl4c617JMJ45jZ/a20aS6vvCiyAsoWy3j2Az8MPLEO4tFqaigM99bOk7sOGaTke8RH7TbLbmWGW3b5sHtfLuOZ+JDXmXSO7u07bZhtAy7dSkGiW20Wi1e9eV5R5yli3hjlY50xSondXqznv/8UkY+YjW45kqV4WG2KIbHBpOJgZsXWPmIP0i8kmNcfLCcnQ35TDAeLyatrFbl+mKQnVQmLzvidJE+ZBraFKfU4br6Vvp9Z0O34sk6OFssyuK6XvYLt0ndQeKDQZq98KNPxVudCu/riS192/1WpWVPJnKGVAb3ZXGVls3caqnDSSTfi2PO50vZ83M9E0/X/9EiiJ2RqOWOHGdJ1GTKuMv53JQvs7EdQoeId7tXf6X561W3+/yZeKXF1/mLy9dKO+lzu/P676Iv29nTHXG2cIreT6WkWw9monRd81U1sEbiFaxoIl7nrvGbFzV9tVYLxD2coFbb8IEtjuNqoKr+SprOff1wcWUnqn8iXrFfxdWrc9nNRk/E8+epeA1G/6wortPbuHDvekT4k+ezkliiK01CRSGrCl/eUoqLcp8Swoc+pQ8yqj/wPTefO+KGIRNNSCDeVbw4nrjRL9Y1kr3LfaclKj8XxEsbFF7ss/LaSy3HcWZpZbJyRPjfii/H2xyvsI7TjRA3qVzIiBV5XnTEHp+k69Y/0eOtTnJyllS+ysVpMC/durFg1blkkzrxddr3k7FBZIZTEN/kuW1BPBnqynrFd7u6StIV/1jigzRXub7hndzuKXnlVkn8aefeMz95NjcbnSL/4uOZjTV/dSd0c/FZIRoUMzd2J28Rj9bVQGPFDOYYPV4Sf0lbyjoFcVp7d/M4TeS22adO9OA2Wjt1N1n2cvGnwmamKK6TbbR0Y97x9FvW8X3Ek0D+gbiWDfRGsxTiFGW7pum+tX1at9zjEflYXKXqvHC3WdU/4lD/mvg4zcnqlkY8t/ATThbX9SwJi0dLMwxLc9z7TJz3+epumXf7doU8GXGSls/5TCZh4Se2TrQpvOtrb7UJ9LH3RXHejvmrZmgmq567oicmruXi/FHzp1pnXaSr4rNUw6KE8plKviaebN14SKR+UJVjfs1OTDzdiyuuRZiaz/I8rdN9cW4+JO+BRMoXxOnK87xmIJrwnMcXs8kZn5h4uvDw07uneWGOO7V0bOqBOM0+yZC7r4gnN82i48PoFMXp6pOfGKVLUNrjcheua1Y5qpfERUrv/qE6T+TlNnZJ5LsjtKHk33RORlxXP3sSc6wn4jI2zwPGND9MxkQ4pu/Fk4XxbRHwTYov54zJkxfGVnKPk3X/yYjzDGb0yY/cJQsaTWN9Y9TIrriOx96Jy+kvrzKVVJPD+shJP+IdM1f/mrhKbmfFWzfW2Ytwo0S89N+GZRL/Iu2duB6kKYH4AqO9FXMCZZlFjIPFB+223c7EbcNoJ/9C4gedey4+MQwjz9X5SS4u63QL4irZ3G2/LLmmpVlZz7pV+bh085SVjCI/6ddQq7o74nxmJ2+wzkQw9/LX5YTBtt6B4v8eXzjXycljh9PjLlNx0Oc9/nrDD24y8XNx8jdt+SLrFHtc5Je1yHTchmNGK5/vKGq3Kek2heq1cD2bmeHtgscrazla3m1oICoEpR0sDVbNyGveyjjIT8L5bMRbWQuap/Qn9m9iSrTxw8NYIzKUU5Ki59eZNk62WXxryo+oKjZsu/9SlmUkWwcp07TxuLw5OzXx4wFxiB9fvMrI8Xn4ffH6k1U9Ptbsfz/ZT+PWf4PftgYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgP9L/gPfz+DRyt26hQAAAABJRU5ErkJggg==" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",FILM & ARTS HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/242
+#EXTINF:-1 tvg-id="ca7296e419320a8d3df9ec11c3229a34" tvg-name="FISH TV 4K" tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="[COLOR light green][B]Categorias DOCUMENTARIOS[/B][/COLOR]",FISH TV 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/79
+#EXTINF:-1 tvg-id="ca7296e419320a8d3df9ec11c3229a34" tvg-name="FISH TV HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_fishtv_m.png" group-title="[COLOR light green][B]Categorias DOCUMENTARIOS[/B][/COLOR]",FISH TV HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/80
+#EXTINF:-1 tvg-id="520bb242c3b02e8b34b60ceb8cc46241" tvg-name="FOOD NETWORK 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias ENTRETENIMENTO[/B][/COLOR]",FOOD NETWORK 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/104
+#EXTINF:-1 tvg-id="520bb242c3b02e8b34b60ceb8cc46241" tvg-name="FOOD NETWORK HD" tvg-logo="" group-title="[COLOR light green][B]Categorias ENTRETENIMENTO[/B][/COLOR]",FOOD NETWORK HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/105
+#EXTINF:-1 tvg-id="" tvg-name="FORMIGA ATOMICA" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",FORMIGA ATOMICA
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/691
+#EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-name="ESPN 5 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias ESPORTES[/B][/COLOR]",ESPN 5 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/139
+#EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-name="ESPN 5 HD" tvg-logo="" group-title="[COLOR light green][B]Categorias ESPORTES[/B][/COLOR]",ESPN 5 HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/140
+#EXTINF:-1 tvg-id="f59c512e2fe682c1b91167de085bc7aa" tvg-name="ESPN 5 HDR+" tvg-logo="" group-title="[COLOR light green][B]Categorias CANAIS HDR+[/B][/COLOR]",ESPN 5 HDR+
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1008
+#EXTINF:-1 tvg-id="" tvg-name="FREAKAZOID" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",FREAKAZOID
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/692
+#EXTINF:-1 tvg-id="" tvg-name="FURACÃO LIVE 4K " tvg-logo="https://pbs.twimg.com/profile_images/1320433252608466947/ekNFdF28.jpg" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",FURACÃO LIVE 4K 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/818
+#EXTINF:-1 tvg-id="Futura HD" tvg-name="FUTURA 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",FUTURA 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/243
+#EXTINF:-1 tvg-id="816f1c140d095a098846951e0607aed0" tvg-name="FX HD" tvg-logo="" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",FX HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/244
+#EXTINF:-1 tvg-id="TV Bahia" tvg-name="GLOBO BAHIA 4K" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",GLOBO BAHIA 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/488
+#EXTINF:-1 tvg-id="7e70ef2bdcd3c0aa660db718a979effc" tvg-name="GLOBO BRASILIA 4K" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",GLOBO BRASILIA 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/490
+#EXTINF:-1 tvg-id="773bc0a8b72e6f21b590488d3119974a" tvg-name="GLOBO EPTV CAMPINAS 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",GLOBO EPTV CAMPINAS 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/780
+#EXTINF:-1 tvg-id="773bc0a8b72e6f21b590488d3119974a" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",GLOBO EPTV CAMPINAS HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/491
+#EXTINF:-1 tvg-id="EPTV - sul de minas" tvg-name="GLOBO EPTV SUL DE MINAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/6/67/20210422110721%21EPTV.png" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",GLOBO EPTV SUL DE MINAS HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1012
+#EXTINF:-1 tvg-id="8fce20fba553e998b00add259a9d5ca7" tvg-name="GLOBO INTEGRAÇÃO JUIZ DE FORA" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-integrac-o-uberaba_m.png" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",GLOBO INTEGRAÇÃO JUIZ DE FORA
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/494
+#EXTINF:-1 tvg-id="a26b437a5f1cbcf0ba862fe31e69993b" tvg-name="GLOBO INTER TV CABUGI 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",GLOBO INTER TV CABUGI 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/514
+#EXTINF:-1 tvg-id="a26b437a5f1cbcf0ba862fe31e69993b" tvg-name="GLOBO INTER TV CABUGI HD" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",GLOBO INTER TV CABUGI HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/495
+#EXTINF:-1 tvg-id="Regionais - globominas" tvg-name="GLOBO MINAS 4K" tvg-logo="http://xplussport.com:8080/images/1497683403967a61fddf01f9d9988fb8.png" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",GLOBO MINAS 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/497
+#EXTINF:-1 tvg-id="Regionais - globominas" tvg-name="GLOBO MINAS HD" tvg-logo="http://xplussport.com:8080/images/1497683403967a61fddf01f9d9988fb8.png" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",GLOBO MINAS HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/772
+#EXTINF:-1 tvg-id="7febbe84b0edb3806d2d52afeb997fcd" tvg-name="GLOBO NEWS 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias NOTICIAS[/B][/COLOR]",GLOBO NEWS 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/498
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS DF" tvg-logo="" group-title="[COLOR light green][B]Categorias NOTICIAS[/B][/COLOR]",GLOBO NEWS DF
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/445
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO NORDESTE 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",GLOBO NORDESTE 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1248
+#EXTINF:-1 tvg-id="NSC TV Blumenau" tvg-name="GLOBO NSC BLUMENAU 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/NSC_TV_logo.png" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",GLOBO NSC BLUMENAU 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/515
+#EXTINF:-1 tvg-id="6d89a18149bfd8b93ba815a4e4cbfa74" tvg-name="GLOBO RBS PORTO ALEGRE 4k" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",GLOBO RBS PORTO ALEGRE 4k
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/501
+#EXTINF:-1 tvg-id="f8f1449dea8bd39fc4f8c88fbcc3c426" tvg-name="GLOBO REDE AMAZONICA MANAUS 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",GLOBO REDE AMAZONICA MANAUS 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/530
+#EXTINF:-1 tvg-id="0f2b867370232e42a6bdf4c3eb557abe" tvg-name="GLOBO RJ 4K" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",GLOBO RJ 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/504
+#EXTINF:-1 tvg-id="17d59f8dd4e7a20626479151e084726c" tvg-name="GLOBO RPC CURITIBA 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",GLOBO RPC CURITIBA 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/505
+#EXTINF:-1 tvg-id="RPC Foz do Iguaçu" tvg-name="GLOBO RPC FOZ DO IGUAÇU 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",GLOBO RPC FOZ DO IGUAÇU 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/506
+#EXTINF:-1 tvg-id="RPC Maringá" tvg-name="GLOBO RPC MARINGA 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",GLOBO RPC MARINGA 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/507
+#EXTINF:-1 tvg-id="RPC Maringá" tvg-name="GLOBO RPC MARINGA HD" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",GLOBO RPC MARINGA HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/817
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SERGIPE 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",GLOBO SERGIPE 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1160
+#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="GLOBO SP 4K" tvg-logo="http://185.53.90.49:41001/logos/globo.png" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",GLOBO SP 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/511
+#EXTINF:-1 tvg-id="5b5e8f6070df962a62d591d616dcdf46" tvg-name="GLOBO TV ANHANGUERA GOIAS 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a0/Logo_TV_Anhanguera_2019.png" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",GLOBO TV ANHANGUERA GOIAS 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/849
+#EXTINF:-1 tvg-id="BBC World News" tvg-name="GLOBO TV CENTRO AMERICA CUIABA 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",GLOBO TV CENTRO AMERICA CUIABA 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1102
+#EXTINF:-1 tvg-id="a59483f89eb41e07791c2730e68fc82f" tvg-name="GLOBO TV LIBERAL BELEM 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",GLOBO TV LIBERAL BELEM 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/554
+#EXTINF:-1 tvg-id="a59483f89eb41e07791c2730e68fc82f" tvg-name="GLOBO TV LIBERAL BELEM HD" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",GLOBO TV LIBERAL BELEM HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/773
+#EXTINF:-1 tvg-id="9d031a9597550c5a95f4b8d32e0bcc0e" tvg-name="GLOBO TV TEM BAURU HD" tvg-logo="http://xplussport.com:8080/images/ebb669d13b4e05676c3fda8143ebf945.png" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",GLOBO TV TEM BAURU HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/968
+#EXTINF:-1 tvg-id="MaisnaTela.br" tvg-name="GLOBOSAT + UHD" tvg-logo="" group-title="[COLOR light green][B]Categorias ENTRETENIMENTO[/B][/COLOR]",GLOBOSAT + UHD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/106
+#EXTINF:-1 tvg-id="58b2b0a13f424b344e401f10c71981fd" tvg-name="GLOOB 4K" tvg-logo="http://185.53.90.49:41001/logos/gloob.png" group-title="[COLOR light green][B]Categorias INFANTIS[/B][/COLOR]]",GLOOB 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/357
+#EXTINF:-1 tvg-id="4b25c9f111374746c76a6f488ff09ba6" tvg-name="GLOOB HD" tvg-logo="http://185.53.90.49:41001/logos/gloob.png" group-title="[COLOR light green][B]Categorias INFANTIS[/B][/COLOR]]",GLOOB HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/358
+#EXTINF:-1 tvg-id="a316577614ecd36243fee85cea7409cb" tvg-name="GLOOBINHO 4K" tvg-logo="http://185.53.90.49:41001/logos/globinho.png" group-title="[COLOR light green][B]Categorias INFANTIS[/B][/COLOR]]",GLOOBINHO 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/359
+#EXTINF:-1 tvg-id="a316577614ecd36243fee85cea7409cb" tvg-name="GLOOBINHO HD" tvg-logo="http://185.53.90.49:41001/logos/globinho.png" group-title="[COLOR light green][B]Categorias INFANTIS[/B][/COLOR]]",GLOOBINHO HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/360
+#EXTINF:-1 tvg-id="e68d3d0c3ca1a41afd483ca6742a26a0" tvg-name="GNT 4K" tvg-logo="http://185.53.90.49:41001/logos/gnt.png" group-title="[COLOR light green][B]Categorias ENTRETENIMENTO[/B][/COLOR]",GNT 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/107
+#EXTINF:-1 tvg-id="674f75d3e92035c851dc6a107923606a" tvg-name="H2 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias DOCUMENTARIOS[/B][/COLOR]",H2 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/815
+#EXTINF:-1 tvg-id="674f75d3e92035c851dc6a107923606a" tvg-name="H2 HD" tvg-logo="" group-title="[COLOR light green][B]Categorias DOCUMENTARIOS[/B][/COLOR]",H2 HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/81
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO + 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",HBO + 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/246
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO + DUAL" tvg-logo="" group-title="[COLOR light green][B]Categorias CANAIS DUAL AUDIO[/B][/COLOR] ",HBO + DUAL
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/795
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO + HD" tvg-logo="" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",HBO + HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/245
+#EXTINF:-1 tvg-id="af22e4d8889badd15205acf72b103bb8" tvg-name="HBO 2 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",HBO 2 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/247
+#EXTINF:-1 tvg-id="af22e4d8889badd15205acf72b103bb8" tvg-name="HBO 2 DUAL" tvg-logo="" group-title="[COLOR light green][B]Categorias CANAIS DUAL AUDIO[/B][/COLOR] ",HBO 2 DUAL
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/794
+#EXTINF:-1 tvg-id="af22e4d8889badd15205acf72b103bb8" tvg-name="HBO 2 HD" tvg-logo="" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",HBO 2 HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/248
+#EXTINF:-1 tvg-id="2d48120d15eb92047eaff6eb9863e5c1" tvg-name="HBO 4K" tvg-logo="http://xplussport.com:8080/images/e7907981c7e5b71c5097b44280d4410f.png" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",HBO 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/251
+#EXTINF:-1 tvg-id="2d48120d15eb92047eaff6eb9863e5c1" tvg-name="HBO DUAL" tvg-logo="http://185.53.90.49:41001/logos/hbo.png" group-title="[COLOR light green][B]Categorias CANAIS DUAL AUDIO[/B][/COLOR] ",HBO DUAL
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/793
+#EXTINF:-1 tvg-id="2c2a6f3c6384533a68f5a58b79ddefb0" tvg-name="HBO FAMILY 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",HBO FAMILY 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/252
+#EXTINF:-1 tvg-id="2c2a6f3c6384533a68f5a58b79ddefb0" tvg-name="HBO FAMILY DUAL" tvg-logo="" group-title="[COLOR light green][B]Categorias CANAIS DUAL AUDIO[/B][/COLOR] ",HBO FAMILY DUAL
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/796
+#EXTINF:-1 tvg-id="2c2a6f3c6384533a68f5a58b79ddefb0" tvg-name="HBO FAMILY HD" tvg-logo="" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",HBO FAMILY HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/253
+#EXTINF:-1 tvg-id="2d48120d15eb92047eaff6eb9863e5c1" tvg-name="HBO HD" tvg-logo="http://xplussport.com:8080/images/e7907981c7e5b71c5097b44280d4410f.png" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",HBO HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/255
+#EXTINF:-1 tvg-id="2d48120d15eb92047eaff6eb9863e5c1" tvg-name="HBO HDR+" tvg-logo="http://xplussport.com:8080/images/e7907981c7e5b71c5097b44280d4410f.png" group-title="[COLOR light green][B]Categorias CANAIS HDR+[/B][/COLOR]",HBO HDR+
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1000
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 1 HD " tvg-logo="https://vpn-surf.com/wp-content/uploads/2020/06/picture-4.png" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",HBO MAX 1 HD 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/832
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2 HD " tvg-logo="https://vpn-surf.com/wp-content/uploads/2020/06/picture-4.png" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",HBO MAX 2 HD 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/833
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3 HD" tvg-logo="https://vpn-surf.com/wp-content/uploads/2020/06/picture-4.png" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",HBO MAX 3 HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/834
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 4 HD " tvg-logo="https://vpn-surf.com/wp-content/uploads/2020/06/picture-4.png" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",HBO MAX 4 HD 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/835
+#EXTINF:-1 tvg-id="2cdafaed9a37e698f9bf9d110f9e64b6" tvg-name="HBO MUNDI 4K" tvg-logo="http://xplussport.com:8080/images/6b7b71e6f0aea251a06f939e08acd4d8.png" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",HBO MUNDI 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/256
+#EXTINF:-1 tvg-id="2cdafaed9a37e698f9bf9d110f9e64b6" tvg-name="HBO MUNDI HD" tvg-logo="http://xplussport.com:8080/images/6b7b71e6f0aea251a06f939e08acd4d8.png" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",HBO MUNDI HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/257
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO PLUS 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",HBO PLUS 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/258
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO PLUS HD" tvg-logo="" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",HBO PLUS HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/259
+#EXTINF:-1 tvg-id="17c01e332134e758ebf9f3084a0323e2" tvg-name="HBO POP 4K" tvg-logo="http://xplussport.com:8080/images/fdbe2080c09579ad2322cf03c7e6a7e8.png" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",HBO POP 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/260
+#EXTINF:-1 tvg-id="17c01e332134e758ebf9f3084a0323e2" tvg-name="HBO POP DUAL" tvg-logo="http://xplussport.com:8080/images/fdbe2080c09579ad2322cf03c7e6a7e8.png" group-title="[COLOR light green][B]Categorias CANAIS DUAL AUDIO[/B][/COLOR] ",HBO POP DUAL
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/798
+#EXTINF:-1 tvg-id="17c01e332134e758ebf9f3084a0323e2" tvg-name="HBO POP HD" tvg-logo="http://xplussport.com:8080/images/fdbe2080c09579ad2322cf03c7e6a7e8.png" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",HBO POP HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/261
+#EXTINF:-1 tvg-id="319a862225f08e1e503f6da20108c67d" tvg-name="HBO SIGNATURE 4K" tvg-logo="http://xplussport.com:8080/images/d2b15a378b0989b2a6df14f16e29fa89.png" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",HBO SIGNATURE 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/264
+#EXTINF:-1 tvg-id="319a862225f08e1e503f6da20108c67d" tvg-name="HBO SIGNATURE HD" tvg-logo="http://xplussport.com:8080/images/d2b15a378b0989b2a6df14f16e29fa89.png" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",HBO SIGNATURE HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/262
+#EXTINF:-1 tvg-id="40f7ca16db5eb9f53e2c88081131cbe9" tvg-name="HBO XTREME 4K" tvg-logo="http://xplussport.com:8080/images/831c440493273692f0c6189b44137392.png" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",HBO XTREME 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/266
+#EXTINF:-1 tvg-id="40f7ca16db5eb9f53e2c88081131cbe9" tvg-name="HBO XTREME HD" tvg-logo="http://xplussport.com:8080/images/831c440493273692f0c6189b44137392.png" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",HBO XTREME HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/267
+#EXTINF:-1 tvg-id="" tvg-name="HE-MAN" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",HE-MAN
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/694
+#EXTINF:-1 tvg-id="3a406faebcb9b6018d9d66924eaa310f" tvg-name="HGTV 4K" tvg-logo="http://xplussport.com:8080/images/b5f2cb96ae5db72a10647df43949dbb9.png" group-title="[COLOR light green][B]Categorias DOCUMENTARIOS[/B][/COLOR]",HGTV 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/816
+#EXTINF:-1 tvg-id="3a406faebcb9b6018d9d66924eaa310f" tvg-name="HGTV HD" tvg-logo="http://xplussport.com:8080/images/b5f2cb96ae5db72a10647df43949dbb9.png" group-title="[COLOR light green][B]Categorias DOCUMENTARIOS[/B][/COLOR]",HGTV HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/552
+#EXTINF:-1 tvg-id="3bf7039c747b9600dcb773ad01fc0637" tvg-name="HGTV HDR+" tvg-logo="http://xplussport.com:8080/images/b5f2cb96ae5db72a10647df43949dbb9.png" group-title="[COLOR light green][B]Categorias CANAIS HDR+[/B][/COLOR]",HGTV HDR+
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1006
+#EXTINF:-1 tvg-id="105372009ec2393ff1aa443f2392f028" tvg-name="HISTORY CHANNEL 4K" tvg-logo="http://xplussport.com:8080/images/5bf3d33025f22711c85c9b23a5b284d3.png" group-title="[COLOR light green][B]Categorias DOCUMENTARIOS[/B][/COLOR]",HISTORY CHANNEL 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/83
+#EXTINF:-1 tvg-id="105372009ec2393ff1aa443f2392f028" tvg-name="HISTORY CHANNEL HD" tvg-logo="http://xplussport.com:8080/images/5bf3d33025f22711c85c9b23a5b284d3.png" group-title="[COLOR light green][B]Categorias DOCUMENTARIOS[/B][/COLOR]",HISTORY CHANNEL HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/82
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM ARANHA" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",HOMEM ARANHA
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/695
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM ARANHA 2" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",HOMEM ARANHA 2
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/696
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM DE FERRO " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",HOMEM DE FERRO 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/697
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM DE FERRO 2" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",HOMEM DE FERRO 2
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/698
+#EXTINF:-1 tvg-id="" tvg-name="INVESTIGAÇAO CRIMINAL " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS FILMES[/B][/COLOR] ",INVESTIGAÇAO CRIMINAL 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/668
+#EXTINF:-1 tvg-id="" tvg-name="JIRAYA" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",JIRAYA
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/699
+#EXTINF:-1 tvg-id="" tvg-name="JOHNNY BRAVO" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",JOHNNY BRAVO
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/700
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="JOVEM PAN NEWS 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="[COLOR light green][B]Categorias NOTICIAS[/B][/COLOR]",JOVEM PAN NEWS 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/847
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="JOVEM PAN NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Jovem_Pan_News_logo_2018.png" group-title="[COLOR light green][B]Categorias NOTICIAS[/B][/COLOR]",JOVEM PAN NEWS HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/846
+#EXTINF:-1 tvg-id="e869c199882e64c2fcb37d7a45539798" tvg-name="LIFETIME HD" tvg-logo="" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",LIFETIME HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/269
+#EXTINF:-1 tvg-id="" tvg-name="LIGA DA JUSTIÇA " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",LIGA DA JUSTIÇA 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/701
+#EXTINF:-1 tvg-id="" tvg-name="MASHA E O URSO " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",MASHA E O URSO 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/702
+#EXTINF:-1 tvg-id="35ba03a94e64de65d33c83170c11ef5a" tvg-name="MEGAPIX 4K" tvg-logo="http://xplussport.com:8080/images/f33650181ab5ff7f8a08e4e40ff35bc4.png" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",MEGAPIX 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/270
+#EXTINF:-1 tvg-id="35ba03a94e64de65d33c83170c11ef5a" tvg-name="MEGAPIX HD" tvg-logo="http://xplussport.com:8080/images/f33650181ab5ff7f8a08e4e40ff35bc4.png" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",MEGAPIX HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/271
+#EXTINF:-1 tvg-id="35ba03a94e64de65d33c83170c11ef5a" tvg-name="MEGAPIX HDR+" tvg-logo="http://xplussport.com:8080/images/f33650181ab5ff7f8a08e4e40ff35bc4.png" group-title="[COLOR light green][B]Categorias CANAIS HDR+[/B][/COLOR]",MEGAPIX HDR+
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/998
+#EXTINF:-1 tvg-id="95c74b5af2e547589ddddf8829313a0b" tvg-name="MODO VIAGEM 4K" tvg-logo="http://xplussport.com:8080/images/0eee5d09aca1ee708d892815108cd424.png" group-title="[COLOR light green][B]Categorias DOCUMENTARIOS[/B][/COLOR]",MODO VIAGEM 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/85
+#EXTINF:-1 tvg-id="" tvg-name="MORANGUINHO" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",MORANGUINHO
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/703
+#EXTINF:-1 tvg-id="" tvg-name="A GRANDE CONQUISTA CAMERA 3" tvg-logo="" group-title="[COLOR light green][B]Categorias A GRANDE CONQUISTA 24[/B][/COLOR]",A GRANDE CONQUISTA CAMERA 3
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1252
+#EXTINF:-1 tvg-id="" tvg-name="A GRANDE CONQUISTA CAMERA 2" tvg-logo="" group-title="[COLOR light green][B]Categorias A GRANDE CONQUISTA 24[/B][/COLOR]",A GRANDE CONQUISTA CAMERA 2
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1251
+#EXTINF:-1 tvg-id="092c33be2ce573fb88e6fe27b747cbff" tvg-name="MTV 4K" tvg-logo="http://xplussport.com:8080/images/f207ef4153ddc7c1816e9d5c42436a65.png" group-title="MUSICA",MTV 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/112
+#EXTINF:-1 tvg-id="092c33be2ce573fb88e6fe27b747cbff" tvg-name="MTV HD" tvg-logo="http://xplussport.com:8080/images/f207ef4153ddc7c1816e9d5c42436a65.png" group-title="MUSICA",MTV HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/422
+#EXTINF:-1 tvg-id="84102f4749f1fe3f8114395f2fe1bce4" tvg-name="MULTISHOW HD" tvg-logo="http://xplussport.com:8080/images/ae4a3a3f0fbe5ab8c657a87e77d45038.png" group-title="MUSICA",MULTISHOW HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/423
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX  4K" tvg-logo="http://185.53.90.49:41001/logos/music box.png" group-title="MUSICA",MUSIC BOX  4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/424
+#EXTINF:-1 tvg-id="" tvg-name="NARUTO" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",NARUTO
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/704
+#EXTINF:-1 tvg-id="96616c9ed8dbad9709d334510528d09f" tvg-name="NATIONAL GEOGRAPHIC 4K" tvg-logo="http://xplussport.com:8080/images/6bc222b347dcaea08763deecfaf3f1f5.png" group-title="[COLOR light green][B]Categorias DOCUMENTARIOS[/B][/COLOR]",NATIONAL GEOGRAPHIC 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/87
+#EXTINF:-1 tvg-id="96616c9ed8dbad9709d334510528d09f" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="http://xplussport.com:8080/images/6bc222b347dcaea08763deecfaf3f1f5.png" group-title="[COLOR light green][B]Categorias DOCUMENTARIOS[/B][/COLOR]",NATIONAL GEOGRAPHIC HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/88
+#EXTINF:-1 tvg-id="" tvg-name="NBA 1 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",NBA 1 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1156
+#EXTINF:-1 tvg-id="" tvg-name="NBA 2 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",NBA 2 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1157
+#EXTINF:-1 tvg-id="" tvg-name="NFL 1" tvg-logo="" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",NFL 1
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1123
+#EXTINF:-1 tvg-id="" tvg-name="NFL 2" tvg-logo="" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",NFL 2
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1124
+#EXTINF:-1 tvg-id="" tvg-name="NFL 3" tvg-logo="" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",NFL 3
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1125
+#EXTINF:-1 tvg-id="" tvg-name="NFL 4" tvg-logo="" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",NFL 4
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1126
+#EXTINF:-1 tvg-id="" tvg-name="NFL 5" tvg-logo="" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",NFL 5
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1127
+#EXTINF:-1 tvg-id="" tvg-name="NFL 6" tvg-logo="" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",NFL 6
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1128
+#EXTINF:-1 tvg-id="" tvg-name="NFL NETWORK USA" tvg-logo="" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",NFL NETWORK USA
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1129
+#EXTINF:-1 tvg-id="" tvg-name="NFL REDZONE USA" tvg-logo="" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",NFL REDZONE USA
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1130
+#EXTINF:-1 tvg-id="aaff79db8057bd9782f27b25af31955e" tvg-name="NHK 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias NOTICIAS[/B][/COLOR]",NHK 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/449
+#EXTINF:-1 tvg-id="aaff79db8057bd9782f27b25af31955e" tvg-name="NHK HD" tvg-logo="" group-title="[COLOR light green][B]Categorias NOTICIAS[/B][/COLOR]",NHK HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/450
+#EXTINF:-1 tvg-id="035dc32f3ded6949d2da948f9490cb2e" tvg-name="NICK JR 4K" tvg-logo="http://185.53.90.49:41001/logos/nick_jr.png" group-title="[COLOR light green][B]Categorias INFANTIS[/B][/COLOR]]",NICK JR 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/363
+#EXTINF:-1 tvg-id="035dc32f3ded6949d2da948f9490cb2e" tvg-name="NICK JR HD" tvg-logo="http://185.53.90.49:41001/logos/nick_jr.png" group-title="[COLOR light green][B]Categorias INFANTIS[/B][/COLOR]]",NICK JR HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/364
+#EXTINF:-1 tvg-id="ea8b657b85befb9328d725c82d3db170" tvg-name="NICKELODEON 4K" tvg-logo="http://185.53.90.49:41001/logos/nick.png" group-title="[COLOR light green][B]Categorias INFANTIS[/B][/COLOR]]",NICKELODEON 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/365
+#EXTINF:-1 tvg-id="ea8b657b85befb9328d725c82d3db170" tvg-name="NICKELODEON HD" tvg-logo="http://185.53.90.49:41001/logos/nick.png" group-title="[COLOR light green][B]Categorias INFANTIS[/B][/COLOR]]",NICKELODEON HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/768
+#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 1" tvg-logo="" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",NOSSO FUTEBOL 1
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1131
+#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 2" tvg-logo="" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",NOSSO FUTEBOL 2
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1132
+#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 3" tvg-logo="" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",NOSSO FUTEBOL 3
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1133
+#EXTINF:-1 tvg-id="" tvg-name="NOSSO FUTEBOL 4" tvg-logo="" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",NOSSO FUTEBOL 4
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1134
+#EXTINF:-1 tvg-id="eb054ce8e473fe44fae003765e6cfdc7" tvg-name="NOVO TEMPO HD" tvg-logo="" group-title="RELIGIOSO",NOVO TEMPO HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/556
+#EXTINF:-1 tvg-id="" tvg-name="NSPORTS 1 HD" tvg-logo="" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",NSPORTS 1 HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1068
+#EXTINF:-1 tvg-id="" tvg-name="NSPORTS 2 HD" tvg-logo="" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",NSPORTS 2 HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1069
+#EXTINF:-1 tvg-id="afdd2a65d987aa221d4043a4b593ef3e" tvg-name="OFF 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",OFF 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/273
+#EXTINF:-1 tvg-id="afdd2a65d987aa221d4043a4b593ef3e" tvg-name="OFF HD" tvg-logo="" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",OFF HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/274
+#EXTINF:-1 tvg-id="" tvg-name="ONE PIECE EAST BLUE" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",ONE PIECE EAST BLUE
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/705
+#EXTINF:-1 tvg-id="" tvg-name="OS FLINSTONES" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",OS FLINSTONES
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/706
+#EXTINF:-1 tvg-id="" tvg-name="OS JETSON " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",OS JETSON 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/707
+#EXTINF:-1 tvg-id="" tvg-name="OS PADRINHOS MAGICOS" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",OS PADRINHOS MAGICOS
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/708
+#EXTINF:-1 tvg-id="" tvg-name="OS PATOS" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",OS PATOS
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/709
+#EXTINF:-1 tvg-id="" tvg-name="OS SIMPSONS" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",OS SIMPSONS
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/710
+#EXTINF:-1 tvg-id="5732a420f537fb46b10feeda7d2c52b5" tvg-name="PAI ETERNO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7c/Logotipo_TV_Pai_Eterno.png" group-title="RELIGIOSO",PAI ETERNO
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/939
+#EXTINF:-1 tvg-id="9d3be0e39eae2df64a2cb272933d07c8" tvg-name="PARAMOUNT CHANNEL 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",PARAMOUNT CHANNEL 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/275
+#EXTINF:-1 tvg-id="9d3be0e39eae2df64a2cb272933d07c8" tvg-name="PARAMOUNT HD" tvg-logo="" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",PARAMOUNT HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/276
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 1 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",PARAMOUNT+ 1 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1151
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 2 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",PARAMOUNT+ 2 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1152
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 3 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",PARAMOUNT+ 3 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1153
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT+ 4 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",PARAMOUNT+ 4 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1154
+#EXTINF:-1 tvg-id="" tvg-name="PATO DONALD" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",PATO DONALD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/712
+#EXTINF:-1 tvg-id="" tvg-name="PAY PER VIEW [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] 1" tvg-logo="http://xplussport.com:8080/images/987c3cb325b7e544a576bb45a51689ae.png" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",PAY PER VIEW [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] 1
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/989
+#EXTINF:-1 tvg-id="1481c6022bbd0c4f3a2e875b789ee7c4" tvg-name="PEPPA PIG" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",PEPPA PIG
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/713
+#EXTINF:-1 tvg-id="" tvg-name="PEQUENA SEREIA " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",PEQUENA SEREIA 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/714
+#EXTINF:-1 tvg-id="" tvg-name="PERNALONGA" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",PERNALONGA
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/715
+#EXTINF:-1 tvg-id="" tvg-name="PICA PAU" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",PICA PAU
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/716
+#EXTINF:-1 tvg-id="" tvg-name="PINK E CEREBRO" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",PINK E CEREBRO
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/717
+#EXTINF:-1 tvg-id="" tvg-name="PINTINHO AMARELINHO" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",PINTINHO AMARELINHO
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/718
+#EXTINF:-1 tvg-id="" tvg-name="PJ MASKS" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",PJ MASKS
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/719
+#EXTINF:-1 tvg-id="bd5d7cf823212b72ce943bfabb614a9e" tvg-name="PLAY TV" tvg-logo="http://185.53.90.49:41001/logos/play tv.png" group-title="MUSICA",PLAY TV
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/426
+#EXTINF:-1 tvg-id="" tvg-name="POKEMON" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",POKEMON
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/720
+#EXTINF:-1 tvg-id="" tvg-name="POLICIA MILITAR " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS FILMES[/B][/COLOR] ",POLICIA MILITAR 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/669
+#EXTINF:-1 tvg-id="" tvg-name="POPEYE" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",POPEYE
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/721
+#EXTINF:-1 tvg-id="Premiere HD" tvg-name="PREMIERE 1 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias ESPORTES[/B][/COLOR]",PREMIERE 1 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/148
+#EXTINF:-1 tvg-id="Premiere HD2" tvg-name="PREMIERE 2 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias ESPORTES[/B][/COLOR]",PREMIERE 2 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/149
+#EXTINF:-1 tvg-id="Premiere HD2" tvg-name="PREMIERE 2 HD" tvg-logo="" group-title="[COLOR light green][B]Categorias ESPORTES[/B][/COLOR]",PREMIERE 2 HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/150
+#EXTINF:-1 tvg-id="Premiere HD 3" tvg-name="PREMIERE 3 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias ESPORTES[/B][/COLOR]",PREMIERE 3 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/153
+#EXTINF:-1 tvg-id="Premiere HD 3" tvg-name="PREMIERE 3 HD" tvg-logo="" group-title="[COLOR light green][B]Categorias ESPORTES[/B][/COLOR]",PREMIERE 3 HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/152
+#EXTINF:-1 tvg-id="Premiere HD 4" tvg-name="PREMIERE 4 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias ESPORTES[/B][/COLOR]",PREMIERE 4 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/155
+#EXTINF:-1 tvg-id="Premiere HD 4" tvg-name="PREMIERE 4 HD" tvg-logo="" group-title="[COLOR light green][B]Categorias ESPORTES[/B][/COLOR]",PREMIERE 4 HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/154
+#EXTINF:-1 tvg-id="Premiere HD 5" tvg-name="PREMIERE 5 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias ESPORTES[/B][/COLOR]",PREMIERE 5 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/157
+#EXTINF:-1 tvg-id="Premiere HD 5" tvg-name="PREMIERE 5 HD" tvg-logo="" group-title="[COLOR light green][B]Categorias ESPORTES[/B][/COLOR]",PREMIERE 5 HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/156
+#EXTINF:-1 tvg-id="Premiere HD6" tvg-name="PREMIERE 6 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias ESPORTES[/B][/COLOR]",PREMIERE 6 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/159
+#EXTINF:-1 tvg-id="Premiere HD6" tvg-name="PREMIERE 6 HD" tvg-logo="" group-title="[COLOR light green][B]Categorias ESPORTES[/B][/COLOR]",PREMIERE 6 HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/158
+#EXTINF:-1 tvg-id="Premiere HD7" tvg-name="PREMIERE 7 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias ESPORTES[/B][/COLOR]",PREMIERE 7 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/161
+#EXTINF:-1 tvg-id="Premiere HD7" tvg-name="PREMIERE 7 HD" tvg-logo="" group-title="[COLOR light green][B]Categorias ESPORTES[/B][/COLOR]",PREMIERE 7 HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/160
+#EXTINF:-1 tvg-id="5e16411ef98f27297132cd8064f0acaf" tvg-name="PREMIERE 8 HD" tvg-logo="" group-title="[COLOR light green][B]Categorias ESPORTES[/B][/COLOR]",PREMIERE 8 HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/162
+#EXTINF:-1 tvg-id="87652b56da39ead9ade0fcb2ee883ccb" tvg-name="PREMIERE 9 HD" tvg-logo="" group-title="[COLOR light green][B]Categorias ESPORTES[/B][/COLOR]",PREMIERE 9 HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/163
+#EXTINF:-1 tvg-id="b289a8bd8ec7dae2839859e43db19d4f" tvg-name="PREMIERE CLUB HDR+" tvg-logo="" group-title="[COLOR light green][B]Categorias CANAIS HDR+[/B][/COLOR]",PREMIERE CLUB HDR+
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1003
+#EXTINF:-1 tvg-id="Premiere HD" tvg-name="PREMIERE CLUBES 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias ESPORTES[/B][/COLOR]",PREMIERE CLUBES 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/165
+#EXTINF:-1 tvg-id="Premiere HD" tvg-name="PREMIERE CLUBES HD" tvg-logo="" group-title="[COLOR light green][B]Categorias ESPORTES[/B][/COLOR]",PREMIERE CLUBES HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/164
+#EXTINF:-1 tvg-id="907290e24ec6e81e0c5e1efb9fa1eb95" tvg-name="PRIME BOX BRASIL HD" tvg-logo="" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",PRIME BOX BRASIL HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/277
+#EXTINF:-1 tvg-id="" tvg-name="A GRANDE CONQUISTA CAMERA 8" tvg-logo="" group-title="[COLOR light green][B]Categorias A GRANDE CONQUISTA 24[/B][/COLOR]",A GRANDE CONQUISTA CAMERA 8
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1257
+#EXTINF:-1 tvg-id="" tvg-name="A GRANDE CONQUISTA CAMERA 5" tvg-logo="" group-title="[COLOR light green][B]Categorias A GRANDE CONQUISTA 24[/B][/COLOR]",A GRANDE CONQUISTA CAMERA 5
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1254
+#EXTINF:-1 tvg-id="" tvg-name="A GRANDE CONQUISTA CAMERA 4" tvg-logo="" group-title="[COLOR light green][B]Categorias A GRANDE CONQUISTA 24[/B][/COLOR]",A GRANDE CONQUISTA CAMERA 4
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1253
+#EXTINF:-1 tvg-id="33877e13059c576fd02bf5d576c18739" tvg-name="RAI ITALIA HD" tvg-logo="" group-title="[COLOR light green][B]Categorias NOTICIAS[/B][/COLOR]",RAI ITALIA HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/428
+#EXTINF:-1 tvg-id="3b220cc065f34810b98141ad412a1076" tvg-name="RBI 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",RBI 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/517
+#EXTINF:-1 tvg-id="6d89a18149bfd8b93ba815a4e4cbfa74" tvg-name="RBS TV PORTO ALEGRE" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",RBS TV PORTO ALEGRE
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/519
+#EXTINF:-1 tvg-id="Record TV Bahia" tvg-name="RECORD BAHIA HD" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",RECORD BAHIA HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/520
+#EXTINF:-1 tvg-id="RecordTV Brasília" tvg-name="RECORD BRASILIA HD" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",RECORD BRASILIA HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/521
+#EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD DF HD" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",RECORD DF HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/522
+#EXTINF:-1 tvg-id="79a773fe452a6ff5dbd0dd21c20880bb" tvg-name="RECORD HD" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",RECORD HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/523
+#EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD MANAUS HD" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",RECORD MANAUS HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/524
+#EXTINF:-1 tvg-id="RecordTV Minas" tvg-name="RECORD MINAS UHD" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",RECORD MINAS UHD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/525
+#EXTINF:-1 tvg-id="082475b399aec8632907af07ba460db6" tvg-name="RECORD NEWS HD" tvg-logo="" group-title="[COLOR light green][B]Categorias NOTICIAS[/B][/COLOR]",RECORD NEWS HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/452
+#EXTINF:-1 tvg-id="082475b399aec8632907af07ba460db6" tvg-name="RECORD NEWS U4K" tvg-logo="" group-title="[COLOR light green][B]Categorias NOTICIAS[/B][/COLOR]",RECORD NEWS U4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/451
+#EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD PARANA HD" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",RECORD PARANA HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/526
+#EXTINF:-1 tvg-id="Record Rio HD" tvg-name="RECORD RJ 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",RECORD RJ 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/766
+#EXTINF:-1 tvg-id="Record Rio HD" tvg-name="RECORD RJ HD" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",RECORD RJ HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/527
+#EXTINF:-1 tvg-id="Record HD" tvg-name="RECORD SP HD" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",RECORD SP HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/529
+#EXTINF:-1 tvg-id="Record HD" tvg-name="RECORD SP HDR+" tvg-logo="" group-title="[COLOR light green][B]Categorias CANAIS HDR+[/B][/COLOR]",RECORD SP HDR+
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/999
+#EXTINF:-1 tvg-id="de3981ef9d7511cc177772042b9431bb" tvg-name="RECORD SP INTERIOR HD" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",RECORD SP INTERIOR HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/528
+#EXTINF:-1 tvg-id="f7274fbdf20f8c7a253a962682f4ceae" tvg-name="REDE BRASIL HD" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",REDE BRASIL HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/531
+#EXTINF:-1 tvg-id="Rede Gospel" tvg-name="REDE GOSPEL" tvg-logo="http://xplussport.com:8080/images/6c3e8a9085b35db0146aa1dd57d26b3b.png" group-title="RELIGIOSO",REDE GOSPEL
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1052
+#EXTINF:-1 tvg-id="Rede Super" tvg-name="REDE SUPER" tvg-logo="http://xplussport.com:8080/images/fa919d1786ed52f86581665859726dbd.png" group-title="RELIGIOSO",REDE SUPER
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1054
+#EXTINF:-1 tvg-id="6bbdff07dce18a1b7b7269c6fdeb0a3a" tvg-name="REDE TV HD" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",REDE TV HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/532
+#EXTINF:-1 tvg-id="1418f5c4721e363d0c1a67496d3605d4" tvg-name="REDE VIDA HD" tvg-logo="" group-title="RELIGIOSO",REDE VIDA HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/113
+#EXTINF:-1 tvg-id="" tvg-name="REINO GELADO" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",REINO GELADO
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/722
+#EXTINF:-1 tvg-id="" tvg-name="SABOR & ARTE HD " tvg-logo="https://www.saboreartetorteria.com.br/wp-content/uploads/2019/08/saborearte.png" group-title="[COLOR light green][B]Categorias ENTRETENIMENTO[/B][/COLOR]",SABOR & ARTE HD 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/877
+#EXTINF:-1 tvg-id="" tvg-name="A GRANDE CONQUISTA CAMERA 6" tvg-logo="" group-title="[COLOR light green][B]Categorias A GRANDE CONQUISTA 24[/B][/COLOR]",A GRANDE CONQUISTA CAMERA 6
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1255
+#EXTINF:-1 tvg-id="840475c54a9eee21ab5c7ee2976e4986" tvg-name="SBT 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",SBT 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/534
+#EXTINF:-1 tvg-id="840475c54a9eee21ab5c7ee2976e4986" tvg-name="SBT HD" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",SBT HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/540
+#EXTINF:-1 tvg-id="SBT Rio HD" tvg-name="SBT RJ UHD" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",SBT RJ UHD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/537
+#EXTINF:-1 tvg-id="067ae2f6064f035670ba170b9c3a7712" tvg-name="SBT SERRA DOURADA 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",SBT SERRA DOURADA 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/538
+#EXTINF:-1 tvg-id="" tvg-name="SHURATO" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",SHURATO
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/724
+#EXTINF:-1 tvg-id="" tvg-name="SIMON" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",SIMON
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/726
+#EXTINF:-1 tvg-id="83ac2c679b44c648ac23990f713c5cb2" tvg-name="SONY CHANNEL HD" tvg-logo="" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",SONY CHANNEL HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/238
+#EXTINF:-1 tvg-id="8dae4fd8d26721adaf8fd0c2d1a2bc8b" tvg-name="SPACE 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",SPACE 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/278
+#EXTINF:-1 tvg-id="30c750ccff9c607ae24411eace4715ec" tvg-name="SPORTV 1 4K" tvg-logo="http://xplussport.com:8080/images/a1c5331ed6bbfb6d21c5eff5606182aa.png" group-title="[COLOR light green][B]Categorias ESPORTES[/B][/COLOR]",SPORTV 1 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/183
+#EXTINF:-1 tvg-id="30c750ccff9c607ae24411eace4715ec" tvg-name="SPORTV 1 HDR" tvg-logo="http://xplussport.com:8080/images/a1c5331ed6bbfb6d21c5eff5606182aa.png" group-title="[COLOR light green][B]Categorias ESPORTES[/B][/COLOR]",SPORTV 1 HDR
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/178
+#EXTINF:-1 tvg-id="30c750ccff9c607ae24411eace4715ec" tvg-name="SPORTV 1 HDR+" tvg-logo="http://xplussport.com:8080/images/a1c5331ed6bbfb6d21c5eff5606182aa.png" group-title="[COLOR light green][B]Categorias CANAIS HDR+[/B][/COLOR]",SPORTV 1 HDR+
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/993
+#EXTINF:-1 tvg-id="2ab405ed6f10dd88a1783b89c5283b56" tvg-name="SPORTV 2 4K" tvg-logo="http://xplussport.com:8080/images/ee67489938d900ebacc1bddfd70c1622.png" group-title="[COLOR light green][B]Categorias ESPORTES[/B][/COLOR]",SPORTV 2 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/172
+#EXTINF:-1 tvg-id="2ab405ed6f10dd88a1783b89c5283b56" tvg-name="SPORTV 2 HDR+" tvg-logo="http://xplussport.com:8080/images/a1c5331ed6bbfb6d21c5eff5606182aa.png" group-title="[COLOR light green][B]Categorias CANAIS HDR+[/B][/COLOR]",SPORTV 2 HDR+
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1016
+#EXTINF:-1 tvg-id="70162c39a3bb1b387294c154927a4905" tvg-name="SPORTV 3 4K" tvg-logo="http://xplussport.com:8080/images/1669ef2cc27503cba33e431dcc4f3809.png" group-title="[COLOR light green][B]Categorias ESPORTES[/B][/COLOR]",SPORTV 3 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/175
+#EXTINF:-1 tvg-id="704a11219aba00b606e933c52ee03c39" tvg-name="STAR CHANNEL 4K" tvg-logo="http://xplussport.com:8080/images/2485f9979b8674c829959d385195465c.png" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",STAR CHANNEL 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/281
+#EXTINF:-1 tvg-id="704a11219aba00b606e933c52ee03c39" tvg-name="STAR CHANNEL HD" tvg-logo="http://xplussport.com:8080/images/2485f9979b8674c829959d385195465c.png" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",STAR CHANNEL HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/282
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 1 HD " tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",STAR+ 1 HD 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/829
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 2 HD" tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",STAR+ 2 HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/826
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 3 HD " tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",STAR+ 3 HD 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/827
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 4 HD " tvg-logo="https://logospng.org/download/star-plus/logo-star-plus-1024.png" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",STAR+ 4 HD 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/828
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 5 HD" tvg-logo="" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",STAR+ 5 HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1147
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 6 HD" tvg-logo="" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",STAR+ 6 HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1148
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 7 HD" tvg-logo="" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",STAR+ 7 HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1149
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ 8 HD" tvg-logo="" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",STAR+ 8 HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1150
+#EXTINF:-1 tvg-id="" tvg-name="STREET FIGHTER " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",STREET FIGHTER 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/727
+#EXTINF:-1 tvg-id="bd29923f14b4c6b2ce048290e0ba8cbe" tvg-name="STUDIO UNIVERSAL 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",STUDIO UNIVERSAL 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/289
+#EXTINF:-1 tvg-id="" tvg-name="SUPER MAN" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",SUPER MAN
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/728
+#EXTINF:-1 tvg-id="" tvg-name="SUPER MAN 2" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",SUPER MAN 2
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/729
+#EXTINF:-1 tvg-id="44ecd72ae7d8744fbbff9a92ce816c7b" tvg-name="TBS 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",TBS 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/290
+#EXTINF:-1 tvg-id="44ecd72ae7d8744fbbff9a92ce816c7b" tvg-name="TBS DUAL" tvg-logo="" group-title="[COLOR light green][B]Categorias CANAIS DUAL AUDIO[/B][/COLOR] ",TBS DUAL
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/791
+#EXTINF:-1 tvg-id="44ecd72ae7d8744fbbff9a92ce816c7b" tvg-name="TBS HD" tvg-logo="" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",TBS HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/291
+#EXTINF:-1 tvg-id="3b57cb47ab686c0b0f5aec74a3c5e787" tvg-name="TCM HD" tvg-logo="" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",TCM HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/292
+#EXTINF:-1 tvg-id="3b57cb47ab686c0b0f5aec74a3c5e787" tvg-name="TCM UHD" tvg-logo="" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",TCM UHD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/293
+#EXTINF:-1 tvg-id="9b55a18946c5563da5f5481ee706fe6b" tvg-name="TELECINE ACTION 4K" tvg-logo="http://xplussport.com:8080/images/56e866e85a7ab4486f8fce2a1f322ff2.png" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",TELECINE ACTION 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/294
+#EXTINF:-1 tvg-id="9b55a18946c5563da5f5481ee706fe6b" tvg-name="TELECINE ACTION DUAL" tvg-logo="http://xplussport.com:8080/images/56e866e85a7ab4486f8fce2a1f322ff2.png" group-title="[COLOR light green][B]Categorias CANAIS DUAL AUDIO[/B][/COLOR] ",TELECINE ACTION DUAL
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/785
+#EXTINF:-1 tvg-id="9b55a18946c5563da5f5481ee706fe6b" tvg-name="TELECINE ACTION HD" tvg-logo="http://xplussport.com:8080/images/56e866e85a7ab4486f8fce2a1f322ff2.png" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",TELECINE ACTION HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/295
+#EXTINF:-1 tvg-id="9b55a18946c5563da5f5481ee706fe6b" tvg-name="TELECINE ACTION HDR+" tvg-logo="http://xplussport.com:8080/images/56e866e85a7ab4486f8fce2a1f322ff2.png" group-title="[COLOR light green][B]Categorias CANAIS HDR+[/B][/COLOR]",TELECINE ACTION HDR+
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1019
+#EXTINF:-1 tvg-id="0e5e2812730ae8a5299b2cf9f868e512" tvg-name="TELECINE CULT 4K" tvg-logo="http://xplussport.com:8080/images/08014e30d3bfca13ff968eea3ecfd0b8.png" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",TELECINE CULT 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/297
+#EXTINF:-1 tvg-id="0e5e2812730ae8a5299b2cf9f868e512" tvg-name="TELECINE CULT HD" tvg-logo="http://xplussport.com:8080/images/08014e30d3bfca13ff968eea3ecfd0b8.png" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",TELECINE CULT HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/298
+#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="TELECINE FUN 4K" tvg-logo="http://xplussport.com:8080/images/b2be9db3eedb515649e6e71e1889f4c2.png" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",TELECINE FUN 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/300
+#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="TELECINE FUN DUAL" tvg-logo="http://xplussport.com:8080/images/b2be9db3eedb515649e6e71e1889f4c2.png" group-title="[COLOR light green][B]Categorias CANAIS DUAL AUDIO[/B][/COLOR] ",TELECINE FUN DUAL
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/789
+#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="TELECINE FUN HD" tvg-logo="http://xplussport.com:8080/images/b2be9db3eedb515649e6e71e1889f4c2.png" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",TELECINE FUN HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/301
+#EXTINF:-1 tvg-id="9fb55181c553cc5f9d57463fcab7300d" tvg-name="TELECINE PIPOCA 4K" tvg-logo="http://xplussport.com:8080/images/7ed76cdb8adbac741e6eb724b6800023.png" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",TELECINE PIPOCA 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/303
+#EXTINF:-1 tvg-id="da6fb1fc4b99964a18b06f305de36721" tvg-name="TELECINE PIPOCA DUAL" tvg-logo="http://xplussport.com:8080/images/7ed76cdb8adbac741e6eb724b6800023.png" group-title="[COLOR light green][B]Categorias CANAIS DUAL AUDIO[/B][/COLOR] ",TELECINE PIPOCA DUAL
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/788
+#EXTINF:-1 tvg-id="9fb55181c553cc5f9d57463fcab7300d" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://xplussport.com:8080/images/7ed76cdb8adbac741e6eb724b6800023.png" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",TELECINE PIPOCA HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/304
+#EXTINF:-1 tvg-id="da6fb1fc4b99964a18b06f305de36721" tvg-name="TELECINE PIPOCA HDR+" tvg-logo="http://xplussport.com:8080/images/7ed76cdb8adbac741e6eb724b6800023.png" group-title="[COLOR light green][B]Categorias CANAIS HDR+[/B][/COLOR]",TELECINE PIPOCA HDR+
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/996
+#EXTINF:-1 tvg-id="1e638fd6fc866af1a88113c5fba659e1" tvg-name="TELECINE PREMIUM 4K" tvg-logo="http://xplussport.com:8080/images/b3eed3cc5b71810f6b4c669c2be2428a.png" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",TELECINE PREMIUM 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/306
+#EXTINF:-1 tvg-id="1e638fd6fc866af1a88113c5fba659e1" tvg-name="TELECINE PREMIUM DUAL" tvg-logo="http://xplussport.com:8080/images/b3eed3cc5b71810f6b4c669c2be2428a.png" group-title="[COLOR light green][B]Categorias CANAIS DUAL AUDIO[/B][/COLOR] ",TELECINE PREMIUM DUAL
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/787
+#EXTINF:-1 tvg-id="1e638fd6fc866af1a88113c5fba659e1" tvg-name="TELECINE PREMIUM HD" tvg-logo="http://xplussport.com:8080/images/b3eed3cc5b71810f6b4c669c2be2428a.png" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",TELECINE PREMIUM HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/307
+#EXTINF:-1 tvg-id="1e638fd6fc866af1a88113c5fba659e1" tvg-name="TELECINE PREMIUM HDR+" tvg-logo="http://xplussport.com:8080/images/b3eed3cc5b71810f6b4c669c2be2428a.png" group-title="[COLOR light green][B]Categorias CANAIS HDR+[/B][/COLOR]",TELECINE PREMIUM HDR+
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/997
+#EXTINF:-1 tvg-id="45acfafac63181bd72c27c56efa34f58" tvg-name="TELECINE TOUCH 4K" tvg-logo="http://xplussport.com:8080/images/eae56b50163cfe62d15f0736e90d590b.png" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",TELECINE TOUCH 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/309
+#EXTINF:-1 tvg-id="45acfafac63181bd72c27c56efa34f58" tvg-name="TELECINE TOUCH DUAL" tvg-logo="http://xplussport.com:8080/images/eae56b50163cfe62d15f0736e90d590b.png" group-title="[COLOR light green][B]Categorias CANAIS DUAL AUDIO[/B][/COLOR] ",TELECINE TOUCH DUAL
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/786
+#EXTINF:-1 tvg-id="45acfafac63181bd72c27c56efa34f58" tvg-name="TELECINE TOUCH HD" tvg-logo="http://xplussport.com:8080/images/eae56b50163cfe62d15f0736e90d590b.png" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",TELECINE TOUCH HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/310
+#EXTINF:-1 tvg-id="" tvg-name="TIMAO E PUMBA" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",TIMAO E PUMBA
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/731
+#EXTINF:-1 tvg-id="8b55dafaf602ea3be92693eb0e0178ff" tvg-name="TLC 4K" tvg-logo="http://xplussport.com:8080/images/ec62f0088161df8a205abc8f968dbc4b.png" group-title="[COLOR light green][B]Categorias DOCUMENTARIOS[/B][/COLOR]",TLC 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/91
+#EXTINF:-1 tvg-id="8b55dafaf602ea3be92693eb0e0178ff" tvg-name="TLC HD" tvg-logo="http://xplussport.com:8080/images/ec62f0088161df8a205abc8f968dbc4b.png" group-title="[COLOR light green][B]Categorias DOCUMENTARIOS[/B][/COLOR]",TLC HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/92
+#EXTINF:-1 tvg-id="9968743ccbeaa92dcad9e5efd5fc3c94" tvg-name="TNT 4K" tvg-logo="http://xplussport.com:8080/images/d0990e44ecbf50de0196f516fc174ae2.png" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",TNT 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/312
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="http://xplussport.com:8080/images/d0990e44ecbf50de0196f516fc174ae2.png" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",TNT HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/313
+#EXTINF:-1 tvg-id="9968743ccbeaa92dcad9e5efd5fc3c94" tvg-name="TNT HDR+" tvg-logo="http://xplussport.com:8080/images/d0990e44ecbf50de0196f516fc174ae2.png" group-title="[COLOR light green][B]Categorias CANAIS HDR+[/B][/COLOR]",TNT HDR+
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1004
+#EXTINF:-1 tvg-id="" tvg-name="TNT NOVELA 4K" tvg-logo="https://gkpb.com.br/wp-content/uploads/2023/05/tnt-novelas.png" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",TNT NOVELA 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1167
+#EXTINF:-1 tvg-id="65db1706ea43ff201632c39740ddc620" tvg-name="TNT SERIES 4K" tvg-logo="http://xplussport.com:8080/images/5e728d9b0a1f70bcfa9ae3503002645b.png" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",TNT SERIES 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/314
+#EXTINF:-1 tvg-id="" tvg-name="TODO MUNDO ODEIA O CRIS" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS COMEDIA",TODO MUNDO ODEIA O CRIS
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/732
+#EXTINF:-1 tvg-id="" tvg-name="TOM & JERRY" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="[COLOR light green][B]Categorias 24HS INFANTIL[/B][/COLOR] ",TOM & JERRY
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/733
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="TOONCAST 4K" tvg-logo="http://185.53.90.49:41001/logos/tooncast.png" group-title="[COLOR light green][B]Categorias INFANTIS[/B][/COLOR]]",TOONCAST 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/367
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="TOONCAST HD" tvg-logo="http://185.53.90.49:41001/logos/tooncast.png" group-title="[COLOR light green][B]Categorias INFANTIS[/B][/COLOR]]",TOONCAST HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/368
+#EXTINF:-1 tvg-id="Trace Brazuca" tvg-name="TRACE BRAZUCA HD " tvg-logo="http://xplussport.com:8080/images/42ecffe48fdd469bc47366fb0b873f7f.png" group-title="MUSICA",TRACE BRAZUCA HD 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/969
+#EXTINF:-1 tvg-id="9620278066c852f4fc8025f928289614" tvg-name="TRAVEL BOX BRASIL 4K" tvg-logo="https://cdn.mitvstatic.com/channels/br_travel-box-brazil_m.png" group-title="[COLOR light green][B]Categorias DOCUMENTARIOS[/B][/COLOR]",TRAVEL BOX BRASIL 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/848
+#EXTINF:-1 tvg-id="258d342c88b7e32980d6799b2d1f6cba" tvg-name="TRU TV HD" tvg-logo="" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",TRU TV HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/541
+#EXTINF:-1 tvg-id="f4643f16afe1996b188eb7b59796a265" tvg-name="TV APARECIDA HD" tvg-logo="" group-title="RELIGIOSO",TV APARECIDA HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/542
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV BRASIL 2 HD" tvg-logo="http://xplussport.com:8080/images/74538433148f4542f648fa66d78e99a4.png" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",TV BRASIL 2 HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1101
+#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL 4K" tvg-logo="http://xplussport.com:8080/images/74538433148f4542f648fa66d78e99a4.png" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",TV BRASIL 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1100
+#EXTINF:-1 tvg-id="" tvg-name="TV CAMARA HD" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",TV CAMARA HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1165
+#EXTINF:-1 tvg-id="231eb208f32f3a9a9dbe8ac3d9e03284" tvg-name="TV CULTURA UHD" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",TV CULTURA UHD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/547
+#EXTINF:-1 tvg-id="9e0c3303b37245538eb1c1cfc0b8d480" tvg-name="TV DIARIO HD" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",TV DIARIO HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/548
+#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR HD " tvg-logo="" group-title="RELIGIOSO",TV EVANGELIZAR HD 
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1051
+#EXTINF:-1 tvg-id="TV Gazeta HD" tvg-name="TV GAZETA  4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfXQ3pYiuvmQlsTorEzdkSiwX9kDYuAHEfcV1SCMShjYZQlp_lRK-2wKQvXj_DxwkduFg&usqp=CAU" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",TV GAZETA  4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/551
+#EXTINF:-1 tvg-id="" tvg-name="TV Gazeta Vitoria ES 4K" tvg-logo="https://images.app.goo.gl/5CThNRXf4qrqwQzv6" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",TV Gazeta Vitoria ES 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1089
+#EXTINF:-1 tvg-id="45b2a4dbd9c2837985683683d668e565" tvg-name="TV JUSTICA" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",TV JUSTICA
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/553
+#EXTINF:-1 tvg-id="" tvg-name="TV MORENA 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",TV MORENA 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1099
+#EXTINF:-1 tvg-id="eb054ce8e473fe44fae003765e6cfdc7" tvg-name="TV NOVO TEMPO" tvg-logo="http://xplussport.com:8080/images/cdc70908008a205cf43dd0c1ed95ad4e.png" group-title="RELIGIOSO",TV NOVO TEMPO
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1053
+#EXTINF:-1 tvg-id="485a0b9ee13e035fb21755f26525d0c3" tvg-name="TV RA TIM BUM 4K" tvg-logo="http://185.53.90.49:41001/logos/tvratimbum.png" group-title="[COLOR light green][B]Categorias INFANTIS[/B][/COLOR]]",TV RA TIM BUM 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/369
+#EXTINF:-1 tvg-id="485a0b9ee13e035fb21755f26525d0c3" tvg-name="TV RA TIM BUM HD" tvg-logo="http://185.53.90.49:41001/logos/tvratimbum.png" group-title="[COLOR light green][B]Categorias INFANTIS[/B][/COLOR]]",TV RA TIM BUM HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/557
+#EXTINF:-1 tvg-id="" tvg-name="TV SANTA CRUZ 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3b/Logotipo_TV_Santa_Cruz.png" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",TV SANTA CRUZ 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1055
+#EXTINF:-1 tvg-id="" tvg-name="TV SENADO HD" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",TV SENADO HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1164
+#EXTINF:-1 tvg-id="ccc9131a347fd67a65ad45b2cad2f650" tvg-name="TV TEM SAO JOSE DO RIO PRETO" tvg-logo="http://xplussport.com:8080/images/ebb669d13b4e05676c3fda8143ebf945.png" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",TV TEM SAO JOSE DO RIO PRETO
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/983
+#EXTINF:-1 tvg-id="f2914561160f44d4edf6a09eabcba449" tvg-name="TV TEM SOROCABA HD" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",TV TEM SOROCABA HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/562
+#EXTINF:-1 tvg-id="bab8afec1121f433e170442e67a28718" tvg-name="TV TRIBUNA SANTOS" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",TV TRIBUNA SANTOS
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/564
+#EXTINF:-1 tvg-id="41e59e63dd5e9830e7a35e2cf89d6992" tvg-name="TV VANGUARDA S. J. DOS CAMPOS" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",TV VANGUARDA S. J. DOS CAMPOS
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/565
+#EXTINF:-1 tvg-id="TV Verdes Mares - tvverdesmares" tvg-name="TV VERDES MARES FORTALEZA 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias TV ABERTA[/B][/COLOR]",TV VERDES MARES FORTALEZA 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/566
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS" tvg-logo="" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",UFC FIGHT PASS
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1121
+#EXTINF:-1 tvg-id="" tvg-name="UFC PPV" tvg-logo="" group-title="[COLOR light green][B]Categorias [COLOR light green][B]Categorias ESPORTES[/B][/COLOR] ONLINE[/B][/COLOR]",UFC PPV
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1122
+#EXTINF:-1 tvg-id="1d0484647cd4c7ebf4574bf44dd808b6" tvg-name="UNIVERSAL CHANNEL DUAL" tvg-logo="http://xplussport.com:8080/images/08fc2bac2cddc0854bba4be7b620fb67.png" group-title="[COLOR light green][B]Categorias CANAIS DUAL AUDIO[/B][/COLOR] ",UNIVERSAL CHANNEL DUAL
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/792
+#EXTINF:-1 tvg-id="1d0484647cd4c7ebf4574bf44dd808b6" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://xplussport.com:8080/images/08fc2bac2cddc0854bba4be7b620fb67.png" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",UNIVERSAL CHANNEL HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/319
+#EXTINF:-1 tvg-id="2ed30807ff0c5a5ea5800332ad988ba6" tvg-name="USA NETWORK 4K" tvg-logo="http://xplussport.com:8080/images/4474e6c225a3fdc027570708a7459368.png" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",USA NETWORK 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/781
+#EXTINF:-1 tvg-id="9a7ea68940f10cca33470c26aa447a89" tvg-name="VH1 HD" tvg-logo="" group-title="MUSICA",VH1 HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/430
+#EXTINF:-1 tvg-id="9a7ea68940f10cca33470c26aa447a89" tvg-name="VH1 MEGAHITS" tvg-logo="" group-title="MUSICA",VH1 MEGAHITS
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/431
+#EXTINF:-1 tvg-id="9e1ebec7332e1e1aee1bef629796d2b8" tvg-name="VIVA 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias ENTRETENIMENTO[/B][/COLOR]",VIVA 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/114
+#EXTINF:-1 tvg-id="c0445b25b8f3ac121c33b652c5214f63" tvg-name="WARNER CHANNEL 4K" tvg-logo="" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",WARNER CHANNEL 4K
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/783
+#EXTINF:-1 tvg-id="c0445b25b8f3ac121c33b652c5214f63" tvg-name="WARNER CHANNEL HD" tvg-logo="" group-title="[COLOR light green][B]Categorias FILMES & SERIES[/B][/COLOR]",WARNER CHANNEL HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/320
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="WOOHOO HD" tvg-logo="" group-title="[COLOR light green][B]Categorias ENTRETENIMENTO[/B][/COLOR]",WOOHOO HD
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/117
+#EXTINF:-1 tvg-id="" tvg-name="XPLUS PIPOCA 01" tvg-logo="http://xplussport.com:8080/images/5d0e0bfdd69c3ce8374a50e003b34e9c.png" group-title="[COLOR light green][B]Categorias XPLUS CINEMA[/B][/COLOR]",XPLUS PIPOCA 01
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1037
+#EXTINF:-1 tvg-id="" tvg-name="XPLUS PIPOCA 02" tvg-logo="http://xplussport.com:8080/images/5d0e0bfdd69c3ce8374a50e003b34e9c.png" group-title="[COLOR light green][B]Categorias XPLUS CINEMA[/B][/COLOR]",XPLUS PIPOCA 02
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1038
+#EXTINF:-1 tvg-id="" tvg-name="XPLUS PIPOCA 03" tvg-logo="http://xplussport.com:8080/images/5d0e0bfdd69c3ce8374a50e003b34e9c.png" group-title="[COLOR light green][B]Categorias XPLUS CINEMA[/B][/COLOR]",XPLUS PIPOCA 03
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1039
+#EXTINF:-1 tvg-id="" tvg-name="XPLUS PIPOCA 04" tvg-logo="http://xplussport.com:8080/images/5d0e0bfdd69c3ce8374a50e003b34e9c.png" group-title="[COLOR light green][B]Categorias XPLUS CINEMA[/B][/COLOR]",XPLUS PIPOCA 04
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1040
+#EXTINF:-1 tvg-id="" tvg-name="XPLUS PIPOCA 05" tvg-logo="http://xplussport.com:8080/images/5d0e0bfdd69c3ce8374a50e003b34e9c.png" group-title="[COLOR light green][B]Categorias XPLUS CINEMA[/B][/COLOR]",XPLUS PIPOCA 05
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1041
+#EXTINF:-1 tvg-id="" tvg-name="XPLUS PIPOCA 06" tvg-logo="http://xplussport.com:8080/images/5d0e0bfdd69c3ce8374a50e003b34e9c.png" group-title="[COLOR light green][B]Categorias XPLUS CINEMA[/B][/COLOR]",XPLUS PIPOCA 06
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1042
+#EXTINF:-1 tvg-id="" tvg-name="XPLUS PIPOCA 07" tvg-logo="http://xplussport.com:8080/images/5d0e0bfdd69c3ce8374a50e003b34e9c.png" group-title="[COLOR light green][B]Categorias XPLUS CINEMA[/B][/COLOR]",XPLUS PIPOCA 07
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1043
+#EXTINF:-1 tvg-id="" tvg-name="XPLUS PIPOCA 08" tvg-logo="http://xplussport.com:8080/images/5d0e0bfdd69c3ce8374a50e003b34e9c.png" group-title="[COLOR light green][B]Categorias XPLUS CINEMA[/B][/COLOR]",XPLUS PIPOCA 08
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1044
+#EXTINF:-1 tvg-id="" tvg-name="XPLUS PIPOCA 09" tvg-logo="http://xplussport.com:8080/images/5d0e0bfdd69c3ce8374a50e003b34e9c.png" group-title="[COLOR light green][B]Categorias XPLUS CINEMA[/B][/COLOR]",XPLUS PIPOCA 09
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1045
+#EXTINF:-1 tvg-id="" tvg-name="XPLUS PIPOCA 10" tvg-logo="http://xplussport.com:8080/images/5d0e0bfdd69c3ce8374a50e003b34e9c.png" group-title="[COLOR light green][B]Categorias XPLUS CINEMA[/B][/COLOR]",XPLUS PIPOCA 10
+http://main.xplus2-main.xyz:2082/XPLUS2EXTRA-vb8kWHnTUU/wAyGnXjjPO/1046
